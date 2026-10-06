@@ -1,0 +1,415 @@
+[
+    {
+        "id": "e190494",
+        "elType": "e-flexbox",
+        "settings": {
+            "classes": {
+                "$$type": "classes",
+                "value": [
+                    "e-e190494-728a623"
+                ]
+            }
+        },
+        "elements": [
+            {
+                "id": "0dd19c1",
+                "elType": "e-flexbox",
+                "settings": {
+                    "classes": {
+                        "$$type": "classes",
+                        "value": [
+                            "e-0dd19c1-766f96a"
+                        ]
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "7085814",
+                        "elType": "widget",
+                        "settings": {
+                            "shortcode": "[rank_math_breadcrumb]",
+                            "_margin": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": true
+                            },
+                            "_padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": true
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "shortcode"
+                    }
+                ],
+                "isInner": false,
+                "styles": {
+                    "e-0dd19c1-766f96a": {
+                        "id": "e-0dd19c1-766f96a",
+                        "label": "local",
+                        "type": "class",
+                        "variants": [
+                            {
+                                "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                },
+                                "props": {
+                                    "max-width": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 1200,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 0,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "justify-content": {
+                                        "$$type": "string",
+                                        "value": "center"
+                                    }
+                                },
+                                "custom_css": null
+                            }
+                        ]
+                    }
+                },
+                "interactions": [],
+                "editor_settings": [],
+                "version": "0.0"
+            }
+        ],
+        "isInner": false,
+        "styles": {
+            "e-e190494-728a623": {
+                "id": "e-e190494-728a623",
+                "label": "local",
+                "type": "class",
+                "variants": [
+                    {
+                        "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                        },
+                        "props": {
+                            "flex-direction": {
+                                "$$type": "string",
+                                "value": "column"
+                            },
+                            "align-items": {
+                                "$$type": "string",
+                                "value": "center"
+                            }
+                        },
+                        "custom_css": null
+                    }
+                ]
+            }
+        },
+        "interactions": [],
+        "editor_settings": [],
+        "version": "0.0"
+    },
+    {
+        "id": "73f5ea7",
+        "elType": "e-flexbox",
+        "settings": {
+            "classes": {
+                "$$type": "classes",
+                "value": [
+                    "e-73f5ea7-f741102"
+                ]
+            }
+        },
+        "elements": [
+            {
+                "id": "4bfebd7",
+                "elType": "e-flexbox",
+                "settings": {
+                    "classes": {
+                        "$$type": "classes",
+                        "value": [
+                            "e-4bfebd7-150ce7e"
+                        ]
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "99f1689",
+                        "elType": "widget",
+                        "settings": {
+                            "title": "SABER Survey\n",
+                            "header_size": "h1",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Nunito",
+                            "typography_font_weight": "800"
+                        },
+                        "elements": [],
+                        "widgetType": "heading"
+                    },
+                    {
+                        "id": "f8c422e",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "<p>As explained in the e-mail sent by <a href=\"/\">SABER College,</a> new regulations from the <a href=\"https://studentaid.gov/help-center/answers/article/federal-direct-loan-program\">Department of Education (the Direct Loans)</a> require that each school determine the Cost of Living for the students based the school’s population.</p>",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    },
+                    {
+                        "id": "d134e1f",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "<strong>Below is the information we need from you in order to comply with the regulation.</strong>",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    },
+                    {
+                        "id": "4df5919",
+                        "elType": "widget",
+                        "settings": {
+                            "form_name": "SABER Survey",
+                            "form_fields": [
+                                {
+                                    "custom_id": "name",
+                                    "field_label": "First Name",
+                                    "placeholder": "First Name",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "_id": "241b159",
+                                    "required": "true"
+                                },
+                                {
+                                    "custom_id": "field_7293d48",
+                                    "field_label": "Last Name",
+                                    "placeholder": "Last Name",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "7293d48"
+                                },
+                                {
+                                    "custom_id": "field_5683ed1",
+                                    "field_label": "ID School",
+                                    "placeholder": "ID School",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "5683ed1"
+                                },
+                                {
+                                    "custom_id": "field_8bf7e9e",
+                                    "field_type": "select",
+                                    "field_label": "Choose your group",
+                                    "placeholder": "ID School",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "field_options": "PTA\nRN",
+                                    "_id": "8bf7e9e"
+                                },
+                                {
+                                    "custom_id": "email",
+                                    "field_type": "email",
+                                    "required": "true",
+                                    "field_label": "Email",
+                                    "placeholder": "Email",
+                                    "_id": "850e06d"
+                                },
+                                {
+                                    "custom_id": "field_c169549",
+                                    "field_label": "Rent (Monthly) *",
+                                    "placeholder": "Rent (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "c169549"
+                                },
+                                {
+                                    "custom_id": "field_c12e701",
+                                    "field_label": "Utilities (Monthly) *",
+                                    "placeholder": "Utilities (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "c12e701"
+                                },
+                                {
+                                    "custom_id": "field_2f612da",
+                                    "field_label": "Food Costs (Monthly) *",
+                                    "placeholder": "Food Costs (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "2f612da"
+                                },
+                                {
+                                    "custom_id": "field_7dabd04",
+                                    "field_label": "Clothing (Monthly) *",
+                                    "placeholder": "Clothing (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "7dabd04"
+                                },
+                                {
+                                    "custom_id": "field_7bb4e9b",
+                                    "field_label": "Laundry And Cleaning (Monthly) *",
+                                    "placeholder": "Laundry And Cleaning (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "7bb4e9b"
+                                },
+                                {
+                                    "custom_id": "field_e5c93a6",
+                                    "field_label": "Recreation (Monthly) *",
+                                    "placeholder": "Recreation (Monthly) *",
+                                    "dynamic": {
+                                        "active": true
+                                    },
+                                    "required": "true",
+                                    "_id": "e5c93a6"
+                                }
+                            ],
+                            "step_next_label": "Next",
+                            "step_previous_label": "Previous",
+                            "button_text": "Submit",
+                            "email_to": "cristiannino@bunji.io",
+                            "email_subject": "New message from \"Saber College\"",
+                            "email_content": "[all-fields]",
+                            "email_from": "email@localhost",
+                            "email_from_name": "Saber College",
+                            "email_to_2": "cristiannino@bunji.io",
+                            "email_subject_2": "New message from \"Saber College\"",
+                            "email_content_2": "[all-fields]",
+                            "email_from_2": "email@localhost",
+                            "email_from_name_2": "Saber College",
+                            "email_reply_to_2": "cristiannino@bunji.io",
+                            "mailchimp_fields_map": [],
+                            "drip_fields_map": [],
+                            "activecampaign_fields_map": [],
+                            "getresponse_fields_map": [],
+                            "convertkit_fields_map": [],
+                            "mailerlite_fields_map": [],
+                            "success_message": "Your submission was successful.",
+                            "error_message": "Your submission failed because of an error.",
+                            "server_message": "Your submission failed because of a server error.",
+                            "invalid_message": "Your submission failed because the form is invalid.",
+                            "required_field_message": "This field is required.",
+                            "button_typography_typography": "custom",
+                            "button_typography_font_family": "Nunito",
+                            "button_typography_font_weight": "700",
+                            "__globals__": {
+                                "button_text_color": "globals/colors?id=primary",
+                                "previous_button_text_color": "globals/colors?id=primary",
+                                "button_hover_color": "globals/colors?id=primary",
+                                "previous_button_text_color_hover": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "form"
+                    }
+                ],
+                "isInner": false,
+                "styles": {
+                    "e-4bfebd7-150ce7e": {
+                        "id": "e-4bfebd7-150ce7e",
+                        "label": "local",
+                        "type": "class",
+                        "variants": [
+                            {
+                                "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                },
+                                "props": {
+                                    "max-width": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 900,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "flex-direction": {
+                                        "$$type": "string",
+                                        "value": "column"
+                                    },
+                                    "gap": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 12,
+                                            "unit": "px"
+                                        }
+                                    }
+                                },
+                                "custom_css": null
+                            }
+                        ]
+                    }
+                },
+                "interactions": [],
+                "editor_settings": [],
+                "version": "0.0"
+            }
+        ],
+        "isInner": false,
+        "styles": {
+            "e-73f5ea7-f741102": {
+                "id": "e-73f5ea7-f741102",
+                "label": "local",
+                "type": "class",
+                "variants": [
+                    {
+                        "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                        },
+                        "props": {
+                            "flex-direction": {
+                                "$$type": "string",
+                                "value": "column"
+                            },
+                            "align-items": {
+                                "$$type": "string",
+                                "value": "center"
+                            }
+                        },
+                        "custom_css": null
+                    }
+                ]
+            }
+        },
+        "interactions": [],
+        "editor_settings": [],
+        "version": "0.0"
+    }
+]

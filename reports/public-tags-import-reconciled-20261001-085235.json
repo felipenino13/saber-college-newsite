@@ -1,0 +1,25 @@
+{
+    "source": "https://sabercollege.edu/",
+    "run_at": "2026-10-01T13:52:37+00:00",
+    "public_tags": 108,
+    "public_posts": 89,
+    "terms_created": 0,
+    "terms_existing": 108,
+    "terms_failed": [],
+    "posts_matched": 87,
+    "posts_unmatched": [
+        {
+            "public_id": 3818,
+            "slug": "%f0%9f%a9%ba-do-you-dream-of-becoming-a-registered-nurse-in-florida-heres-how-saber-college-supports-your-journey",
+            "title": "🩺 Do you dream of becoming a Registered Nurse in Florida? Here’s how SABER College supports your journey"
+        },
+        {
+            "public_id": 3805,
+            "slug": "want-to-study-nursing-but-work-during-the-week-discover-weekend-nursing",
+            "title": "Want to Study Nursing but Work During the Week? Discover Weekend Nursing"
+        }
+    ],
+    "posts_tagged": 73,
+    "relationships_assigned": 665,
+    "assignment_errors": []
+}

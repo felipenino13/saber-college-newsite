@@ -1,0 +1,26 @@
+{
+    "page_id": 898,
+    "url": "http://localhost:8082/general/visa-i-20-assistance/",
+    "backup": "/tmp/visa-i20-898-before-20261002-150218.json",
+    "content_fields_preserved": 21,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        987,
+        1699
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "text-editor",
+        "icon",
+        "image",
+        "icon-list"
+    ],
+    "elementor_widgets": 36
+}

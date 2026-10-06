@@ -1,0 +1,804 @@
+{
+    "generated_at": "2026-10-05 13:47:34",
+    "site_url": "http://localhost:8082/",
+    "posts": [
+        {
+            "id": 25,
+            "type": "page",
+            "status": "publish",
+            "title": "About Us",
+            "path": "/about_saber_college/",
+            "base_matches": {
+                "dulce_estevez": [
+                    "Dulce Estevez"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "d52ccd1",
+                    "type": "heading",
+                    "path": "7.1.0.0.0.0",
+                    "setting": "title",
+                    "matches": {
+                        "dulce_estevez": [
+                            "Dulce Estevez"
+                        ]
+                    },
+                    "value": "Dulce Estevez"
+                }
+            ]
+        },
+        {
+            "id": 859,
+            "type": "page",
+            "status": "publish",
+            "title": "SABER College Leadership",
+            "path": "/general/saber_college_leadership/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "Lucy Alvarez"
+                ],
+                "dulce_estevez": [
+                    "Dulce Estevez"
+                ],
+                "marivi_rodriguez": [
+                    "Marivi Rodriguez"
+                ],
+                "claudio_bettinelli": [
+                    "Claudio Bettinelli"
+                ],
+                "karen_flynn": [
+                    "Karen Flynn"
+                ],
+                "gaspara_bard": [
+                    "Gaspara Bardritch"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "20ad238",
+                    "type": "icon-list",
+                    "path": "4.0.1.0",
+                    "setting": "icon_list",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "Lucy Alvarez"
+                        ],
+                        "dulce_estevez": [
+                            "Dulce Estevez"
+                        ],
+                        "marivi_rodriguez": [
+                            "Marivi Rodriguez"
+                        ],
+                        "claudio_bettinelli": [
+                            "Claudio Bettinelli"
+                        ],
+                        "karen_flynn": [
+                            "Karen Flynn"
+                        ],
+                        "gaspara_bard": [
+                            "Gaspara Bardritch"
+                        ]
+                    },
+                    "value": "[{\"text\":\"Amarilis Somoza — Dean of Academic Affairs\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"a07430d\"},{\"text\":\"Karen Flynn, PT, MS — Director of the Physical Therapist Assistant Program\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"4bdf551\"},{\"text\":\"Pavel S. Pugh Alvarez, DNP, APRN, PMHNP-C, FNP-C, CNE, FEP — Director of Nursing and Health Sciences\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"0c4e6fc\"},{\"text\":\"Gaspara Bardritch, PT, MSPT, DPT — Academic Coordinator of Clinical Education (ACCE)\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"d7041cd\"},{\"text\":\"Alexan"
+                }
+            ]
+        },
+        {
+            "id": 861,
+            "type": "page",
+            "status": "publish",
+            "title": "Campus Location",
+            "path": "/campus-location/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "Lucy Alvarez",
+                    "lalvarez@sabercollege.edu"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "4a46000",
+                    "type": "icon-list",
+                    "path": "4.0.1.0.1",
+                    "setting": "icon_list",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "Lucy Alvarez",
+                            "lalvarez@sabercollege.edu"
+                        ]
+                    },
+                    "value": "[{\"text\":\"Senior Director of Admissions: Lucy Alvarez\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"6d756b8\"},{\"text\":\"Email: lalvarez@sabercollege.edu\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"518ca33\"},{\"text\":\"Phone: (305) 443-7030\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"f16dfcf\"}]"
+                }
+            ]
+        },
+        {
+            "id": 877,
+            "type": "page",
+            "status": "publish",
+            "title": "Nursing Admissions",
+            "path": "/saber_college_programs/professional-nursing-program/nursing-admissions/",
+            "base_matches": {
+                "esol": [
+                    "ESOL"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "caa7f81",
+                    "type": "text-editor",
+                    "path": "3.0.0.1.2",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "We are here to help! We will be happy to refer you to a professional who can provide information, assistance, and guidance to students in resolving personal and social problems and difficulties. You may also refer yourself to community services as needed. The College is committed to maintaining a safe and healthy campus environment that supports the academic success of all community members. We provide confidential, professional counseling services for students experiencing difficulties related to academic performance, personal relationships, substance use, depression, and other mental health issues."
+                }
+            ]
+        },
+        {
+            "id": 902,
+            "type": "page",
+            "status": "publish",
+            "title": "Student Transcript Request",
+            "path": "/student-services/student-transcript-request/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "lalvarez@sabercollege.edu"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "2b9865a",
+                    "type": "text-editor",
+                    "path": "2.0.1.0",
+                    "setting": "editor",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "lalvarez@sabercollege.edu"
+                        ]
+                    },
+                    "value": "To initiate the process, simply make a payment by calling 305-443-9170 at the main office. (Please mention the reference “payment for a transcript request”). The fee is $10.00 per copy and $25.00 for out-of-state requests. We've made it as convenient as possible for you.\n\n\nDownload and complete the request form with your information and scan the form to the following email address:\n\n\nregistrar@sabercollege.edu (All Programs)\n\n\nlinette@sabercollege.edu (All Nursing after Dec 2020)\n\n\ndestevez@sabercollege.edu (All Nursing before Dec 2020)\n\n\nlalvarez@sabercollege.edu  (All Nursing before Dec 2020)\n\n\nkarocha@sabercollege.edu (PTA Program)\n\n\n\n\nDon’t forget to attach proof of payment."
+                }
+            ]
+        },
+        {
+            "id": 915,
+            "type": "page",
+            "status": "publish",
+            "title": "Graduation Requirements",
+            "path": "/general/graduation-requirements/",
+            "base_matches": {
+                "esol": [
+                    "ESOL"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "56ad851",
+                    "type": "text-editor",
+                    "path": "2.0.1.2.1",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Students must fulfill all monetary obligations to SABER College prior to graduation. This includes paying tuition, fees, and any other outstanding balances. Students with unresolved financial accounts will not receive official transcripts, diplomas, or documentation of program completion until their accounts are settled in full."
+                }
+            ]
+        },
+        {
+            "id": 917,
+            "type": "page",
+            "status": "publish",
+            "title": "Gainful Employment",
+            "path": "/general/gainful-employment-programs/",
+            "base_matches": {
+                "year_2026_2027": [
+                    "2026-2027"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "b3cd81d",
+                    "type": "text-editor",
+                    "path": "4.0.0.1.0",
+                    "setting": "editor",
+                    "matches": {
+                        "year_2026_2027": [
+                            "2026-2027"
+                        ]
+                    },
+                    "value": "Fiscal Year: 2026-2027"
+                }
+            ]
+        },
+        {
+            "id": 919,
+            "type": "page",
+            "status": "publish",
+            "title": "Faculty",
+            "path": "/general/saber-college-faculty/",
+            "base_matches": {
+                "karen_flynn": [
+                    "Karen Flynn"
+                ],
+                "gaspara_bard": [
+                    "Gaspara Barditch"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "96c6c6f",
+                    "type": "icon-list",
+                    "path": "4.0.1.0",
+                    "setting": "icon_list",
+                    "matches": {
+                        "karen_flynn": [
+                            "Karen Flynn"
+                        ],
+                        "gaspara_bard": [
+                            "Gaspara Barditch"
+                        ]
+                    },
+                    "value": "[{\"text\":\"Karen Flynn — BS / MS Physical Therapy\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"f1fda6a\"},{\"text\":\"Gaspara Barditch — MS / Doctorate Physical Therapy\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"befabb0\"},{\"text\":\"Lorena Castillo — BS Physical Therapy\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"38a6361\"},{\"text\":\"Ayleen Prieto — A.S. Physical Therapy\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"1108ffa\"},{\"text\":\"Aura Sanchez — MS Physical Therapy\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"46e50ec\"}]"
+                }
+            ]
+        },
+        {
+            "id": 989,
+            "type": "post",
+            "status": "publish",
+            "title": "Registered Nurse (RN) – Associate in Applied Science",
+            "path": "/registered-nurse-rn-associate-in-applied-science/",
+            "base_matches": {
+                "esol": [
+                    "ESOL"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1034,
+            "type": "post",
+            "status": "publish",
+            "title": "Transfer your General Education Credits and Fast-Track Your PTA Career",
+            "path": "/blog-pta-program-in-miami-january-2025/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "Lucy Alvarez",
+                    "lalvarez@sabercollege.edu"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1037,
+            "type": "post",
+            "status": "publish",
+            "title": "The Importance of Professional Nursing Values",
+            "path": "/professional-nursing-values/",
+            "base_matches": {
+                "esol": [
+                    "ESOL"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1040,
+            "type": "post",
+            "status": "trash",
+            "title": "Programa VESL Online en SABER College: Aprende inglés con estructura y flexibilidad",
+            "path": "/?p=1040",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1087,
+            "type": "post",
+            "status": "publish",
+            "title": "SABER College Celebrates Historic Dual Commencement for Nursing and PTA Graduates",
+            "path": "/saber-college-dual-commencement/",
+            "base_matches": {
+                "karen_arocha": [
+                    "Karen Arocha"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1108,
+            "type": "post",
+            "status": "trash",
+            "title": "Fall 2025 Start Dates at SABER College: Your Pathway to Healthcare and Language Success",
+            "path": "/?p=1108",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ],
+                "medical_assisting": [
+                    "Medical Assistant"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1111,
+            "type": "post",
+            "status": "trash",
+            "title": "Fechas de Inicio Otoño 2025: ¡Tu Camino al Éxito Comienza en SABER College!",
+            "path": "/?p=1111",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1141,
+            "type": "post",
+            "status": "trash",
+            "title": "La importancia de hablar inglés para avanzar en los Estados Unidos: oportunidades reales, dentro y fuera del hogar",
+            "path": "/?p=1141",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1146,
+            "type": "post",
+            "status": "publish",
+            "title": "Weekend Nursing Program in Miami A New Path at SABER College",
+            "path": "/weekend-nursing-program/",
+            "base_matches": {
+                "medical_assisting": [
+                    "Medical Assistant"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1155,
+            "type": "post",
+            "status": "trash",
+            "title": "VESL Online en Florida: 7 Verdades Clave | SABER College",
+            "path": "/?p=1155",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ],
+                "esol": [
+                    "English for Speakers of Other Languages"
+                ]
+            },
+            "elementor_matches": []
+        },
+        {
+            "id": 1238,
+            "type": "page",
+            "status": "publish",
+            "title": "Contact Us",
+            "path": "/about_saber_college/contact/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "Lucy Alvarez",
+                    "lalvarez@sabercollege.edu"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "f96ae6c",
+                    "type": "icon-list",
+                    "path": "1.0.7.1",
+                    "setting": "icon_list",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "Lucy Alvarez",
+                            "lalvarez@sabercollege.edu"
+                        ]
+                    },
+                    "value": "[{\"text\":\"Senior Director of Admissions: Lucy Alvarez\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"084b1a8\"},{\"text\":\"Email: lalvarez@sabercollege.edu\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"b6c4323\"},{\"text\":\"Phone: (305) 443-7030\",\"selected_icon\":{\"value\":\"fas fa-angle-right\",\"library\":\"fa-solid\"},\"_id\":\"579a5d1\"}]"
+                }
+            ]
+        },
+        {
+            "id": 1639,
+            "type": "page",
+            "status": "publish",
+            "title": "LP – Campus Location",
+            "path": "/lp/campus-location/",
+            "base_matches": {
+                "lucy_alvarez": [
+                    "Lucy Alvarez",
+                    "lalvarez@sabercollege.edu"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "c895f31",
+                    "type": "text-editor",
+                    "path": "0.10",
+                    "setting": "editor",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "Lucy Alvarez",
+                            "lalvarez@sabercollege.edu"
+                        ]
+                    },
+                    "value": "Senior Director of Admissions: Lucy Alvarez\nEmail: lalvarez@sabercollege.edu\nPhone: (305) 443-7030"
+                },
+                {
+                    "id": "00781ca",
+                    "type": "text-editor",
+                    "path": "0.11",
+                    "setting": "editor",
+                    "matches": {
+                        "lucy_alvarez": [
+                            "Lucy Alvarez",
+                            "lalvarez@sabercollege.edu"
+                        ]
+                    },
+                    "value": "Senior Director of Admissions: Lucy Alvarez\nEmail: lalvarez@sabercollege.edu\nPhone: (305) 443-7030"
+                }
+            ]
+        },
+        {
+            "id": 1643,
+            "type": "page",
+            "status": "trash",
+            "title": "LP – VESL",
+            "path": "/?page_id=1643",
+            "base_matches": {
+                "vesl": [
+                    "VESL"
+                ],
+                "esol": [
+                    "ESOL"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "fdb7c6c",
+                    "type": "heading",
+                    "path": "0.0.0",
+                    "setting": "title",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Domina el inglés con ESOL Online y transforma tu futuro"
+                },
+                {
+                    "id": "f9612c1",
+                    "type": "text-editor",
+                    "path": "0.0.2",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "✓\n                        Programa 100% online\n                        \n\n                        ✓\n                        Clases en vivo por Zoom + días asincrónicos\n                        \n\n                        ✓\n                        Formación progresiva en 6 niveles (ESOL I a ESOL VI)​"
+                },
+                {
+                    "id": "4e1034a",
+                    "type": "heading",
+                    "path": "1.0",
+                    "setting": "title",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Overview del Programa ESOL Online de SABER College"
+                },
+                {
+                    "id": "14c249d",
+                    "type": "text-editor",
+                    "path": "1.1",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "El programa ESOL Online de SABER College (English as a Second Language) está\n                        diseñado para ayudarte a aprender inglés de forma práctica, progresiva y aplicada\n                        a la vida real, al trabajo y a contextos académicos. A través de una estructura\n                        100% online, los estudiantes desarrollan habilidades de comunicación en listening,\n                        speaking, reading y writing.​"
+                },
+                {
+                    "id": "6f6b6ea",
+                    "type": "heading",
+                    "path": "2.0",
+                    "setting": "title",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "¿Por qué elegir el programa ESOL Online de SABER College?​"
+                },
+                {
+                    "id": "5f7d890",
+                    "type": "text-editor",
+                    "path": "2.2",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Aprendizaje organizado por niveles (ESOL I a ESOL VI) que te permite avanzar paso a paso según tu nivel actual.​"
+                },
+                {
+                    "id": "8ed19ca",
+                    "type": "heading",
+                    "path": "3.0",
+                    "setting": "title",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "¿Qué aprenderás en el programa ESOL Online?​"
+                },
+                {
+                    "id": "56eed5c",
+                    "type": "text-editor",
+                    "path": "3.3",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Estructura básica y avanzada del inglés\nVocabulario funcional para la vida diaria​\nComprensión del idioma en contextos reales​\nProgresión por niveles (ESOL I a ESOL VI)​"
+                },
+                {
+                    "id": "4170cd7",
+                    "type": "heading",
+                    "path": "4.0",
+                    "setting": "title",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Estructura del Programa ESOL Online"
+                },
+                {
+                    "id": "79c714a",
+                    "type": "text-editor",
+                    "path": "4.3",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Programa organizado en 6 niveles progresivos\nESOL I-VI\nCada nivel está diseñado para avanzar de forma gradual según tu dominio del idioma."
+                },
+                {
+                    "id": "19f8390",
+                    "type": "text-editor",
+                    "path": "5.16",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "El programa ESOL Online cuenta con 1,200 horas de formación 100% online, organizadas en 6 niveles (ESOL I a ESOL VI)."
+                },
+                {
+                    "id": "3341ef1",
+                    "type": "text-editor",
+                    "path": "5.23",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Sí. Antes de iniciar, el estudiante presenta una prueba de nivel que permite\n                               ubicarlo en el nivel ESOL correspondiente, asegurando un aprendizaje adecuado\n                               a sus competencias actuales."
+                },
+                {
+                    "id": "19f8390",
+                    "type": "text-editor",
+                    "path": "7.2",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "El programa ESOL Online cuenta con 1,200 horas de formación 100% online, organizadas en 6 niveles (ESOL I a ESOL VI)."
+                },
+                {
+                    "id": "3341ef1",
+                    "type": "text-editor",
+                    "path": "7.9",
+                    "setting": "editor",
+                    "matches": {
+                        "esol": [
+                            "ESOL"
+                        ]
+                    },
+                    "value": "Sí. Antes de iniciar, el estudiante presenta una prueba de nivel que permite\n                               ubicarlo en el nivel ESOL correspondiente, asegurando un aprendizaje adecuado\n                               a sus competencias actuales."
+                }
+            ]
+        },
+        {
+            "id": 1649,
+            "type": "page",
+            "status": "trash",
+            "title": "LP – Medical Assistant",
+            "path": "/?page_id=1649",
+            "base_matches": {
+                "medical_assisting": [
+                    "Medical Assisting",
+                    "Medical Assistant"
+                ]
+            },
+            "elementor_matches": [
+                {
+                    "id": "04e3085",
+                    "type": "heading",
+                    "path": "0.0.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assistant"
+                        ]
+                    },
+                    "value": "Become a Medical Assistant (A.S.) and Start Your Career in Healthcare"
+                },
+                {
+                    "id": "3fb96b1",
+                    "type": "heading",
+                    "path": "1.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "Medical Assisting A.S. Degree Program Overview"
+                },
+                {
+                    "id": "d8e876d",
+                    "type": "text-editor",
+                    "path": "1.1",
+                    "setting": "editor",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "The Associate of Science in Medical Assisting at SABER College provides a\n                        comprehensive foundation in both clinical and administrative healthcare skills.\n                        Students complete theoretical courses online and develop hands-on competencies\n                        through on-campus labs and a supervised externship."
+                },
+                {
+                    "id": "f5f75a2",
+                    "type": "heading",
+                    "path": "2.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "Why Choose the Medical Assisting A.S. Program at SABER College?"
+                },
+                {
+                    "id": "d6ad59e",
+                    "type": "heading",
+                    "path": "3.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "What You Will Learn in the Medical Assisting Program"
+                },
+                {
+                    "id": "97eca08",
+                    "type": "heading",
+                    "path": "4.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "Medical Assisting Program Curriculum"
+                },
+                {
+                    "id": "6ba34fc",
+                    "type": "heading",
+                    "path": "4.4",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "Core Medical Assisting Courses (On Campus)"
+                },
+                {
+                    "id": "b367960",
+                    "type": "text-editor",
+                    "path": "4.5",
+                    "setting": "editor",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assisting"
+                        ]
+                    },
+                    "value": "Introduction to Medical Assisting\nAnatomy &amp; Pathology\nMedical Terminology\nOffice Procedures\nMicrobiology &amp; Sterilization\nPharmacology\nMedical Laboratory Techniques + Lab\nElectrocardiography (EKG)\nPhlebotomy\nClinical Procedures + Lab\nMedical Law &amp; Ethics"
+                },
+                {
+                    "id": "6a4229b",
+                    "type": "heading",
+                    "path": "5.0",
+                    "setting": "title",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assistant"
+                        ]
+                    },
+                    "value": "Career Outlook for Medical Assistants"
+                },
+                {
+                    "id": "16154f2",
+                    "type": "text-editor",
+                    "path": "5.1",
+                    "setting": "editor",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assistant"
+                        ]
+                    },
+                    "value": "Medical Assistants are in high demand across Florida and the U.S.\n                        Employment is projected to grow 15% from 2023 to 2034, much faster\n                        than the national average."
+                },
+                {
+                    "id": "671702c",
+                    "type": "text-editor",
+                    "path": "5.3",
+                    "setting": "editor",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assistant"
+                        ]
+                    },
+                    "value": "Medical Assistant\nPhlebotomist\nMedical Office Assistant\nLab Technician\nClinical Support Specialist"
+                },
+                {
+                    "id": "8bf9229",
+                    "type": "text-editor",
+                    "path": "5.4",
+                    "setting": "editor",
+                    "matches": {
+                        "medical_assisting": [
+                            "Medical Assistant"
+                        ]
+                    },
+                    "value": "Medical assistants work in hospitals, outpatient centers, specialty clinics,\n                        and physician offices. Graduates may also pursue advanced specializations\n                        such as cardiology, dermatology, or pediatrics."
+                }
+            ]
+        }
+    ],
+    "terms": [],
+    "menus": []
+}

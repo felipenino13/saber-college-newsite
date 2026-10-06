@@ -1,0 +1,24 @@
+{
+    "page_id": 885,
+    "url": "http://localhost:8082/general/tuition-payment-options/",
+    "backup": "/tmp/tuition-payment-885-before-20261002-133032.json",
+    "content_fields_preserved": 12,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        1026
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "text-editor",
+        "image",
+        "icon"
+    ],
+    "elementor_widgets": 22
+}

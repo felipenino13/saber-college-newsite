@@ -1,0 +1,27 @@
+{
+    "page_id": 904,
+    "url": "http://localhost:8082/student-services/saber-survey/",
+    "backup": "/tmp/saber-survey-904-before-20261002-154026.json",
+    "content_fields_preserved": 5,
+    "form_fields_preserved": 11,
+    "form_configuration_preserved": true,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        572
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "text-editor",
+        "image",
+        "icon",
+        "form"
+    ],
+    "elementor_widgets": 12
+}

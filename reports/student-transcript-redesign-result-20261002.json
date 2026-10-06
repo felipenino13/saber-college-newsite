@@ -1,0 +1,25 @@
+{
+    "page_id": 902,
+    "url": "http://localhost:8082/student-services/student-transcript-request/",
+    "backup": "/tmp/student-transcript-902-before-20261002-152747.json",
+    "content_fields_preserved": 6,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        1699
+    ],
+    "document": 1804,
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "icon",
+        "text-editor",
+        "image"
+    ],
+    "elementor_widgets": 12
+}

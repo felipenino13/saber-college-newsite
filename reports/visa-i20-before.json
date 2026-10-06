@@ -1,0 +1,490 @@
+{
+    "data": [
+        {
+            "id": "80238f4",
+            "elType": "e-flexbox",
+            "settings": {
+                "classes": {
+                    "$$type": "classes",
+                    "value": [
+                        "e-80238f4-9682000"
+                    ]
+                }
+            },
+            "elements": [
+                {
+                    "id": "de269bb",
+                    "elType": "e-flexbox",
+                    "settings": {
+                        "classes": {
+                            "$$type": "classes",
+                            "value": [
+                                "e-de269bb-51d7db8"
+                            ]
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "06fc8b6",
+                            "elType": "widget",
+                            "settings": {
+                                "shortcode": "[rank_math_breadcrumb]",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "shortcode"
+                        }
+                    ],
+                    "isInner": false,
+                    "styles": {
+                        "e-de269bb-51d7db8": {
+                            "id": "e-de269bb-51d7db8",
+                            "label": "local",
+                            "type": "class",
+                            "variants": [
+                                {
+                                    "meta": {
+                                        "breakpoint": "desktop",
+                                        "state": null
+                                    },
+                                    "props": {
+                                        "max-width": {
+                                            "$$type": "size",
+                                            "value": {
+                                                "size": 1200,
+                                                "unit": "px"
+                                            }
+                                        },
+                                        "padding": {
+                                            "$$type": "size",
+                                            "value": {
+                                                "size": 0,
+                                                "unit": "px"
+                                            }
+                                        },
+                                        "justify-content": {
+                                            "$$type": "string",
+                                            "value": "center"
+                                        }
+                                    },
+                                    "custom_css": null
+                                }
+                            ]
+                        }
+                    },
+                    "interactions": [],
+                    "editor_settings": [],
+                    "version": "0.0"
+                }
+            ],
+            "isInner": false,
+            "styles": {
+                "e-80238f4-9682000": {
+                    "id": "e-80238f4-9682000",
+                    "label": "local",
+                    "type": "class",
+                    "variants": [
+                        {
+                            "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                            },
+                            "props": {
+                                "flex-direction": {
+                                    "$$type": "string",
+                                    "value": "column"
+                                },
+                                "align-items": {
+                                    "$$type": "string",
+                                    "value": "center"
+                                }
+                            },
+                            "custom_css": null
+                        }
+                    ]
+                }
+            },
+            "interactions": [],
+            "editor_settings": [],
+            "version": "0.0"
+        },
+        {
+            "id": "071c778",
+            "elType": "e-flexbox",
+            "settings": {
+                "classes": {
+                    "$$type": "classes",
+                    "value": [
+                        "e-071c778-e6797bb"
+                    ]
+                }
+            },
+            "elements": [
+                {
+                    "id": "440be65",
+                    "elType": "e-flexbox",
+                    "settings": {
+                        "classes": {
+                            "$$type": "classes",
+                            "value": [
+                                "e-440be65-8352403"
+                            ]
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "0afdcc5",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "VISA I-20 Assistance for International Students",
+                                "header_size": "h1",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "39864a0",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Discover general visa I-20 assistance and admission requirements at SABER College to enhance your educational journey.\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "97fd8f9",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "<p><a href=\"/wp-content/uploads/2022/08/ADMISSION-OF-INTERNATIONAL-STUDENTS.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Click Here for Admission Requirements</strong></a></p>",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "11c7185",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Are you thinking about coming to the United States to study?  The U.S. is a great place to learn, and we can help you make your dream of studying in the U.S. come true.  SABER College prides itself on being an international learning community dedicated to educating responsible and productive world citizens.",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "9766170",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Our welcoming environment allows students to communicate across different cultures, languages, and nationalities. We focus on helping people obtain student visas, and we are ready to help you with yours. We have been assisting people in getting their student visas for years, and we have helped many students achieve their goal of studying in the United States.",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "6f524af",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "We can help you study in the U.S.",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "9c0ea31",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "We know that getting a visa can feel daunting, but our certified team of professionals will be there to guide you every step of the way. You can focus on your studies while we focus on the details and paperwork.\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "be0c041",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Our assisting services include I-20 Form and Student Visa information. Our expert team of certified and friendly professionals will help you. We, at Saber College, serve individual students, traveling groups, business, and high school student groups who would like to come to the US to study.",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "2428553",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "Why study in the U.S.?",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "12ef8a1",
+                            "elType": "widget",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "<strong>Excellent educational opportunities:</strong> The top schools in the world are here, which means if you study in the US, you\u2019re getting an education from some of the best schools in the world.",
+                                        "_id": "3f34ea3"
+                                    },
+                                    {
+                                        "text": "<strong>New experiences:</strong> The US has a wide variety of cultures and traditions for you to explore; this is your chance to experience something new!New experiences: The US has a wide variety of cultures and traditions for you to explore; this is your chance to experience something new!",
+                                        "_id": "c080b1d"
+                                    },
+                                    {
+                                        "text": "<strong>Learn English:</strong> Studying in an English-speaking country will give you a chance to learn English from native speakers and practice speaking it every day.Learn English: Studying in an English-speaking country will give you a chance to learn English from native speakers and practice speaking it every day",
+                                        "_id": "1033eb8"
+                                    }
+                                ],
+                                "icon_self_vertical_align": "flex-start",
+                                "icon_vertical_offset": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals/colors?id=primary",
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "icon-list"
+                        },
+                        {
+                            "id": "2bd928a",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "We are a SEVP-SEVIS Certified School",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "96e8c90",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "As a school, we are\u00a0<a href=\"https://studyinthestates.dhs.gov/certified-school/9690\">SEVP-certified</a>\u00a0by the Student and Exchange Visitor Program, administered by U.S. Immigration and Customs Enforcement (ICE) from the Department Of Homeland Security. The program helps ensure that United States schools comply with the full range of requirements for international students.",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "c15c1f5",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "To be a SEVP-certified school, we must undergo rigorous oversight of all aspects of the program, including immigration compliance and international student services. This means that our school is approved to enroll students with an F-1 student visa and M-1 international students with an I-20, which is a document they need to apply for a student visa.",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "bd01d63",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "I-20 Process - International student services",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "adec432",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "As an international student, you\u2019ll need to complete the following steps:\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "560bef8",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "<ol>\n \t<li>Complete all academic requirements for admission to a degree program. This step is handled exclusively by the SABER Admissions Office for students pursuing an associate\u2019s degree program or general education classes.\n</li>\n \t<li>Prepare proof of financial support. The International Student Services office will need your I-20 Form, which lists your financial resources and course of study. The SABER Admissions Office will issue this form.\n</li>\n \t<li>As part of your I-20 application, you must submit a completed affidavit of support form with a bank signature or bank letter detailing funding, a government sponsorship letter, or any combination thereof to your I-20 application.Note: Government sponsorship letters must specifically mention SABER College as the designated school for the student, and government sponsorship letters must cover one full year (12 months) of student costs if used as the sole source of funding.\n</li>\n \t<li>To provide you with your I-20, SABER\u2019s International Student Services department will need a scanned copy of your passport\u2019s data page.  This should include a clear image of your name, date of birth, and passport expiration date. Note that F-1 visa holders must maintain a passport that is at least 6 months from expiration while inside the United States.\n</li>\n \t<li>To provide you with your I-20, SABER\u2019s International Student Services department will need a scanned copy of your passport\u2019s data page.  This should include a clear image of your name, date of birth, and passport expiration date. Note that F-1 visa holders must maintain a passport that is at least 6 months from expiration while inside the United States.\n</li>\n \t<li>If you are bringing any of your underage children or spouse to the U.S. with you, we need to know so that we can add them to your I-20 application as F-2 dependents. If your dependents are arriving in the U.S. after you have received your I-20, please you will need to complete the \u201cAdd New Dependent\u201d form instead.\n</li>\n</ol>",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "fdd7f3c",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Once you have completed all five steps and submitted them to our office, we will begin processing your I-20. You will receive an e-mail message asking you to confirm that all the data on your I-20 is accurate. Be sure to double-check details such as the spelling of your name and the accuracy of your date of birth.\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "3efbc28",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "You will also be required to provide information for shipping your form I-20.\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        },
+                        {
+                            "id": "20f3b50",
+                            "elType": "widget",
+                            "settings": {
+                                "title": "Make your dream a reality",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_weight": "800"
+                            },
+                            "elements": [],
+                            "widgetType": "heading"
+                        },
+                        {
+                            "id": "a09b3a9",
+                            "elType": "widget",
+                            "settings": {
+                                "editor": "Saber College advisors are here to help you with the process of studying abroad. Our staff has experience and expertise in international education, and we are happy to assist you in any way. We will do all we can to ensure that your SABER experience will be a positive one.\n\n",
+                                "__globals__": {
+                                    "text_color": "globals/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "widgetType": "text-editor"
+                        }
+                    ],
+                    "isInner": false,
+                    "styles": {
+                        "e-440be65-8352403": {
+                            "id": "e-440be65-8352403",
+                            "label": "local",
+                            "type": "class",
+                            "variants": [
+                                {
+                                    "meta": {
+                                        "breakpoint": "desktop",
+                                        "state": null
+                                    },
+                                    "props": {
+                                        "max-width": {
+                                            "$$type": "size",
+                                            "value": {
+                                                "size": 900,
+                                                "unit": "px"
+                                            }
+                                        },
+                                        "flex-direction": {
+                                            "$$type": "string",
+                                            "value": "column"
+                                        },
+                                        "gap": {
+                                            "$$type": "size",
+                                            "value": {
+                                                "size": 12,
+                                                "unit": "px"
+                                            }
+                                        }
+                                    },
+                                    "custom_css": null
+                                }
+                            ]
+                        }
+                    },
+                    "interactions": [],
+                    "editor_settings": [],
+                    "version": "0.0"
+                }
+            ],
+            "isInner": false,
+            "styles": {
+                "e-071c778-e6797bb": {
+                    "id": "e-071c778-e6797bb",
+                    "label": "local",
+                    "type": "class",
+                    "variants": [
+                        {
+                            "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                            },
+                            "props": {
+                                "flex-direction": {
+                                    "$$type": "string",
+                                    "value": "column"
+                                },
+                                "align-items": {
+                                    "$$type": "string",
+                                    "value": "center"
+                                }
+                            },
+                            "custom_css": null
+                        }
+                    ]
+                }
+            },
+            "interactions": [],
+            "editor_settings": [],
+            "version": "0.0"
+        }
+    ],
+    "settings": {
+        "hide_title": "yes"
+    },
+    "content": "[rank_math_breadcrumb]\t\t\t<h1>VISA I-20 Assistance for International Students</h1>\t\tDiscover general visa I-20 assistance and admission requirements at SABER College to enhance your educational journey.\n<p><a href=\"/wp-content/uploads/2022/08/ADMISSION-OF-INTERNATIONAL-STUDENTS.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Click Here for Admission Requirements</strong></a></p>Are you thinking about coming to the United States to study?  The U.S. is a great place to learn, and we can help you make your dream of studying in the U.S. come true.  SABER College prides itself on being an international learning community dedicated to educating responsible and productive world citizens.Our welcoming environment allows students to communicate across different cultures, languages, and nationalities. We focus on helping people obtain student visas, and we are ready to help you with yours. We have been assisting people in getting their student visas for years, and we have helped many students achieve their goal of studying in the United States.\t\t\t<h2>We can help you study in the U.S.</h2>\t\tWe know that getting a visa can feel daunting, but our certified team of professionals will be there to guide you every step of the way. You can focus on your studies while we focus on the details and paperwork.\nOur assisting services include I-20 Form and Student Visa information. Our expert team of certified and friendly professionals will help you. We, at Saber College, serve individual students, traveling groups, business, and high school student groups who would like to come to the US to study.\t\t\t<h2>Why study in the U.S.?</h2>\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<strong>Excellent educational opportunities:</strong> The top schools in the world are here, which means if you study in the US, you\u2019re getting an education from some of the best schools in the world.\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<strong>New experiences:</strong> The US has a wide variety of cultures and traditions for you to explore; this is your chance to experience something new!New experiences: The US has a wide variety of cultures and traditions for you to explore; this is your chance to experience something new!\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<strong>Learn English:</strong> Studying in an English-speaking country will give you a chance to learn English from native speakers and practice speaking it every day.Learn English: Studying in an English-speaking country will give you a chance to learn English from native speakers and practice speaking it every day\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t<h2>We are a SEVP-SEVIS Certified School</h2>\t\tAs a school, we are\u00a0<a href=\"https://studyinthestates.dhs.gov/certified-school/9690\">SEVP-certified</a>\u00a0by the Student and Exchange Visitor Program, administered by U.S. Immigration and Customs Enforcement (ICE) from the Department Of Homeland Security. The program helps ensure that United States schools comply with the full range of requirements for international students.To be a SEVP-certified school, we must undergo rigorous oversight of all aspects of the program, including immigration compliance and international student services. This means that our school is approved to enroll students with an F-1 student visa and M-1 international students with an I-20, which is a document they need to apply for a student visa.\t\t\t<h2>I-20 Process - International student services</h2>\t\tAs an international student, you\u2019ll need to complete the following steps:\n<ol>\n \t<li>Complete all academic requirements for admission to a degree program. This step is handled exclusively by the SABER Admissions Office for students pursuing an associate\u2019s degree program or general education classes.\n</li>\n \t<li>Prepare proof of financial support. The International Student Services office will need your I-20 Form, which lists your financial resources and course of study. The SABER Admissions Office will issue this form.\n</li>\n \t<li>As part of your I-20 application, you must submit a completed affidavit of support form with a bank signature or bank letter detailing funding, a government sponsorship letter, or any combination thereof to your I-20 application.Note: Government sponsorship letters must specifically mention SABER College as the designated school for the student, and government sponsorship letters must cover one full year (12 months) of student costs if used as the sole source of funding.\n</li>\n \t<li>To provide you with your I-20, SABER\u2019s International Student Services department will need a scanned copy of your passport\u2019s data page.  This should include a clear image of your name, date of birth, and passport expiration date. Note that F-1 visa holders must maintain a passport that is at least 6 months from expiration while inside the United States.\n</li>\n \t<li>To provide you with your I-20, SABER\u2019s International Student Services department will need a scanned copy of your passport\u2019s data page.  This should include a clear image of your name, date of birth, and passport expiration date. Note that F-1 visa holders must maintain a passport that is at least 6 months from expiration while inside the United States.\n</li>\n \t<li>If you are bringing any of your underage children or spouse to the U.S. with you, we need to know so that we can add them to your I-20 application as F-2 dependents. If your dependents are arriving in the U.S. after you have received your I-20, please you will need to complete the \u201cAdd New Dependent\u201d form instead.\n</li>\n</ol>Once you have completed all five steps and submitted them to our office, we will begin processing your I-20. You will receive an e-mail message asking you to confirm that all the data on your I-20 is accurate. Be sure to double-check details such as the spelling of your name and the accuracy of your date of birth.\nYou will also be required to provide information for shipping your form I-20.\n\t\t\t<h2>Make your dream a reality</h2>\t\tSaber College advisors are here to help you with the process of studying abroad. Our staff has experience and expertise in international education, and we are happy to assist you in any way. We will do all we can to ensure that your SABER experience will be a positive one."
+}

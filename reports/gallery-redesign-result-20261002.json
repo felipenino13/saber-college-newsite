@@ -1,0 +1,29 @@
+{
+    "page_id": 863,
+    "url": "http://localhost:8082/general/explore-saber-college-gallery/",
+    "backup": "/tmp/gallery-863-before-20261002-165113.json",
+    "content_fields_preserved": 18,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        999,
+        993,
+        1699,
+        1088,
+        441
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "text-editor",
+        "image",
+        "icon",
+        "icon-list"
+    ],
+    "elementor_widgets": 31
+}

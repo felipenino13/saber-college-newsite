@@ -1,0 +1,25 @@
+{
+    "page_id": 881,
+    "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/admissions-pta/",
+    "backup": "/tmp/pta-admissions-881-before-20261002-125347.json",
+    "content_fields_preserved": 13,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        1663,
+        1665
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "image",
+        "text-editor",
+        "icon"
+    ],
+    "elementor_widgets": 21
+}

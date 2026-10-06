@@ -1,0 +1,27 @@
+{
+    "page_id": 2066,
+    "created": false,
+    "status": "publish",
+    "url": "http://localhost:8082/saber-design-system-elementor/",
+    "noindex": [
+        "noindex"
+    ],
+    "protected_templates_unchanged": true,
+    "sections": 7,
+    "widgets": 94,
+    "widget_types": [
+        "divider",
+        "heading",
+        "text-editor",
+        "button",
+        "image",
+        "menu-anchor",
+        "icon",
+        "form"
+    ],
+    "assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    }
+}

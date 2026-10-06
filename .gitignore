@@ -1,0 +1,16 @@
+# WordPress database backups
+database/*.sql
+database/elementor-backups/
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Local dependency runtimes and caches
+.tools/
+__pycache__/
+*.py[cod]
+
+# Runtime logs
+*.log

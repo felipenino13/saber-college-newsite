@@ -1,0 +1,59 @@
+/* Reusable visual system for program landing pages built with Elementor. */
+:root { --navy:#002f63; --yellow:#ffc400; --cream:#fff7e5; --sky:#eff8ff; }
+.sc-lp { color:var(--navy); font-family:Nunito, sans-serif; overflow:hidden; }
+.sc-lp .e-con { max-width:100%; }
+.sc-lp__section > .e-con-inner, .sc-lp__section { margin:0 auto; }
+.sc-lp__hero { min-height:650px; padding:70px max(5vw, 28px); background:#fff center/cover no-repeat; position:relative; display:flex!important; flex-direction:row!important; gap:48px; align-items:center; justify-content:center; }
+.sc-lp__hero > .e-con-inner { max-width:1180px; margin:auto; display:flex; gap:48px; align-items:center; position:relative; z-index:1; }
+.sc-lp__hero-copy { width:52%; max-width:560px; gap:14px; }
+.sc-lp__hero-copy h1 { color:var(--navy); font-size:clamp(34px,4vw,58px); line-height:1.04; font-weight:800; margin:0; }
+.sc-lp__hero-copy p { color:#15324e; font-size:18px; line-height:1.55; }
+.sc-lp__hero-copy ul { margin:0; padding-left:22px; font-weight:700; line-height:1.8; }
+.sc-lp__hero-copy a { display:inline-block; background:var(--navy); color:#fff; padding:13px 22px; border-radius:4px; text-decoration:none; font-weight:800; }
+.sc-lp__form { position:absolute!important; z-index:2; top:72px; right:max(5vw,28px); width:420px; max-width:38%; background:rgba(255,255,255,.96); box-shadow:0 18px 45px rgba(0,35,75,.2); border-radius:4px; padding:26px; }
+.sc-lp__form .elementor-field-group { margin-bottom:11px; }
+.sc-lp__form .elementor-button { background:var(--yellow); color:var(--navy); font-weight:800; }
+.sc-lp__split { padding:70px max(5vw,28px); background:var(--section-color,#fff); background-position:82% center; background-repeat:no-repeat; background-size:min(48%,620px) auto; }
+.sc-lp__split > .e-con-inner { max-width:1180px; margin:auto; width:100%; min-height:260px; }
+.sc-lp__split .e-con { width:54%; max-width:620px; }
+.sc-lp__split h2, .sc-lp__cards h2, .sc-lp__faq h2 { color:var(--navy); font-size:clamp(28px,3vw,42px); font-weight:800; line-height:1.1; }
+.sc-lp__split p, .sc-lp__split li { font-size:17px; line-height:1.6; }
+.sc-lp__split a { display:inline-block; background:var(--navy); color:#fff; padding:12px 20px; border-radius:4px; text-decoration:none; font-weight:800; }
+.sc-lp__overview { --section-color:var(--yellow); }
+.sc-lp__learn { --section-color:var(--sky); }
+.sc-lp__curriculum { --section-color:#f4faff; background-position:18% center; }
+.sc-lp__curriculum .e-con { margin-left:auto; }
+.sc-lp__career { --section-color:var(--cream); }
+.sc-lp__cards { padding:70px max(5vw,28px); background:#fff8e6; text-align:center; }
+.sc-lp__cards > .e-con-inner { max-width:1180px; margin:auto; }
+.sc-lp__cards h2 { margin-bottom:34px; }
+.sc-lp__cards .elementor-widget-text-editor { display:inline-flex; vertical-align:top; width:30%; min-height:100px; margin:1%; padding:20px; text-align:left; background:#fff; box-shadow:0 5px 16px rgba(0,35,75,.08); font-weight:700; align-items:center; }
+.sc-lp__admissions { --section-color:#fff; }
+.sc-lp__overview, .sc-lp__learn, .sc-lp__curriculum, .sc-lp__career, .sc-lp__admissions { padding:70px max(5vw,28px); background:var(--section-color,#fff) 82% center/min(48%,620px) auto no-repeat; }
+.sc-lp__overview > .e-con-inner, .sc-lp__learn > .e-con-inner, .sc-lp__curriculum > .e-con-inner, .sc-lp__career > .e-con-inner, .sc-lp__admissions > .e-con-inner { max-width:1180px; margin:auto; width:100%; min-height:260px; }
+.sc-lp__overview .e-con, .sc-lp__learn .e-con, .sc-lp__curriculum .e-con, .sc-lp__career .e-con, .sc-lp__admissions .e-con { width:54%; max-width:620px; }
+.sc-lp__faq { padding:75px max(5vw,28px); background:var(--sky); }
+.sc-lp__faq > .e-con-inner { max-width:760px; margin:auto; }
+.sc-lp__faq h2 { text-align:center; }
+.sc-lp__faq .elementor-widget-heading:not(:first-child) { border:1px solid #e0e5e9; background:#fffdf4; padding:16px 22px; margin:0; }
+.sc-lp__faq .elementor-widget-text-editor { border:1px solid #e0e5e9; border-top:0; background:#fff; padding:16px 22px; }
+.sc-lp__footer { padding:55px max(5vw,28px); background:#111b24; color:#fff; }
+.sc-lp__footer > .e-con-inner { max-width:1180px; margin:auto; display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:28px; }
+.sc-lp__footer img { width:190px; max-width:100%; height:auto; }
+.sc-lp__footer .elementor-widget-text-editor { width:100%; padding-top:24px; border-top:1px solid rgba(255,255,255,.25); text-align:center; font-size:13px; line-height:1.5; }
+body.page-id-1640 .sc-lp__hero { background-image:url('/wp-content/uploads/2026/09/pnp-landing-01-100.jpg'); }
+body.page-id-1640 .sc-lp__overview { background-image:url('/wp-content/uploads/2026/09/pnp-landing-02.png'); }
+body.page-id-1640 .sc-lp__learn { background-image:url('/wp-content/uploads/2026/09/pnp-landing-03.png'); }
+body.page-id-1640 .sc-lp__curriculum { background-image:url('/wp-content/uploads/2026/09/pnp-landing-04.png'); }
+body.page-id-1641 .sc-lp__hero { background-image:url('/wp-content/uploads/2026/09/therapist-module-01.png'); }
+body.page-id-1641 .sc-lp__overview { background-image:url('/wp-content/uploads/2026/09/therapist-module-02.png'); }
+body.page-id-1641 .sc-lp__learn { background-image:url('/wp-content/uploads/2026/09/therapist-module-03.png'); }
+body.page-id-1643 .sc-lp__hero { background-image:url('/wp-content/uploads/2026/09/esol-module-01.png'); }
+body.page-id-1643 .sc-lp__overview { background-image:url('/wp-content/uploads/2026/09/esol-module-02-100.jpg'); }
+body.page-id-1643 .sc-lp__learn { background-image:url('/wp-content/uploads/2026/09/esol-module-03.png'); }
+body.page-id-1643 .sc-lp__curriculum { background-image:url('/wp-content/uploads/2026/09/esol-module-04.png'); }
+body.page-id-1649 .sc-lp__hero { background-image:url('/wp-content/uploads/2026/09/medical-module-01-100.jpg'); }
+body.page-id-1649 .sc-lp__overview { background-image:url('/wp-content/uploads/2026/09/medical-module-02.png'); }
+body.page-id-1649 .sc-lp__learn { background-image:url('/wp-content/uploads/2026/09/medical-module-03-v2.png'); }
+body.page-id-1649 .sc-lp__curriculum { background-image:url('/wp-content/uploads/2026/09/medical-module-04.png'); }
+@media (max-width: 767px) { .sc-lp__hero { min-height:0; padding:40px 22px; background-position:center bottom; flex-direction:column!important; } .sc-lp__hero > .e-con-inner { display:block; } .sc-lp__hero-copy, .sc-lp__form, .sc-lp__split .e-con { width:100%; max-width:100%; } .sc-lp__form { position:static!important; margin-top:28px; } .sc-lp__hero-copy { margin-bottom:28px; } .sc-lp__split { padding:48px 22px 250px; background-position:center bottom; background-size:90% auto; } .sc-lp__curriculum { padding-top:250px; padding-bottom:48px; background-position:center top; } .sc-lp__cards .elementor-widget-text-editor { width:100%; margin:8px 0; } .sc-lp__footer > .e-con-inner { display:block; } .sc-lp__footer img { margin:12px 0; } }

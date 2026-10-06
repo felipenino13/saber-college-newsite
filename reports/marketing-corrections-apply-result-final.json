@@ -1,0 +1,46 @@
+BACKUP=/tmp/saber-marketing-corrections-before-20261005-140417.json
+{
+    "applied_at": "2026-10-05 14:04:27",
+    "backup": "/tmp/saber-marketing-corrections-before-20261005-140417.json",
+    "modified_pages": [
+        36,
+        859,
+        861,
+        863,
+        877,
+        887,
+        896,
+        900,
+        911,
+        915,
+        917,
+        919,
+        921,
+        1238,
+        1639
+    ],
+    "actions": [
+        "General Overview: retired-program references removed.",
+        "Leadership: staff, Board of Directors, four accreditation marks and supplied FAQ added.",
+        "Campus Location: Lucy Alvarez updated and VESL card removed.",
+        "Gallery: retired-program references removed.",
+        "Accreditation: NLN CNEA statement and official seal added; existing COE, CIE and CAPTE marks retained.",
+        "Academic Affairs: supplied SEO copy applied verbatim.",
+        "Career Services: supplied SEO copy applied verbatim.",
+        "Net Price Calculator: retired-program reference removed.",
+        "Gainful Employment: fiscal year updated to 2026-2027.",
+        "Faculty: supplied Nursing, PTA and General Education lists applied; VESL faculty removed.",
+        "Distance Education: VESL and retired healthcare-training references removed.",
+        "Contact Us: Lucy Alvarez updated and VESL contact block removed.",
+        "LP Campus Location: Lucy Alvarez updated and VESL block removed."
+    ],
+    "disabled_rank_math_redirects": [],
+    "notes": [
+        "The source contradicts itself on Gaspara’s surname (Bardritch/Barditch). Faculty retains “Gaspara Barditch” from the supplied faculty table; Leadership uses “Gaspara Bardritch” from the supplied leadership list. Marketing must confirm the correct spelling.",
+        "No replacement URL was supplied for the retired VESL and Medical Assisting pages, articles, categories or tags. Redirects that pointed to those removed destinations were disabled; final redirect or 410 decisions remain pending.",
+        "The Net Price Calculator page contains no calculator embed or editable academic-year field; it currently links back to itself. The requested 2026 - 2027 year could not be applied without the calculator provider/embed configuration.",
+        "The Weekend Nursing article keeps the generic phrase “medical assistants” because it describes applicants’ prior occupations and does not advertise a SABER Medical Assisting program.",
+        "The source asks to verify Board of Directors & Administrators, Facilities, ACT/SAT requirements, COVID-era copy, HEERF archiving and Institutional Plans, but provides no approved URLs or replacement decisions. Those items were not invented."
+    ]
+}
+Success: Verified marketing corrections applied.

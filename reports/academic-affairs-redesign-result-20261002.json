@@ -1,0 +1,26 @@
+{
+    "page_id": 896,
+    "url": "http://localhost:8082/student-services/academic-affairs/",
+    "backup": "/tmp/academic-affairs-896-before-20261002-143731.json",
+    "content_fields_preserved": 5,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065,
+        "path-navy": 2067
+    },
+    "images": [
+        1317,
+        1699
+    ],
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "text-editor",
+        "image",
+        "icon",
+        "icon-list"
+    ],
+    "elementor_widgets": 10
+}

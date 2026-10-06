@@ -1,0 +1,22 @@
+{
+    "page_id": 877,
+    "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/nursing-admissions/",
+    "backup": "/tmp/nursing-admissions-877-before-20261002-115453.json",
+    "content_fields_preserved": 13,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065
+    },
+    "hero_image": 1317,
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "image",
+        "text-editor",
+        "icon",
+        "icon-list"
+    ],
+    "elementor_widgets": 18
+}

@@ -1,0 +1,45 @@
+{
+    "source": "https://sabercollege.edu/",
+    "run_at": "2026-10-01T13:51:02+00:00",
+    "public_tags": 108,
+    "public_posts": 89,
+    "terms_created": 108,
+    "terms_existing": 0,
+    "terms_failed": [],
+    "posts_matched": 83,
+    "posts_unmatched": [
+        {
+            "public_id": 3818,
+            "slug": "%f0%9f%a9%ba-do-you-dream-of-becoming-a-registered-nurse-in-florida-heres-how-saber-college-supports-your-journey",
+            "title": "🩺 Do you dream of becoming a Registered Nurse in Florida? Here’s how SABER College supports your journey"
+        },
+        {
+            "public_id": 3805,
+            "slug": "want-to-study-nursing-but-work-during-the-week-discover-weekend-nursing",
+            "title": "Want to Study Nursing but Work During the Week? Discover Weekend Nursing"
+        },
+        {
+            "public_id": 3198,
+            "slug": "vesl-online-florida-saber-college",
+            "title": "Siete mitos sobre hablar inglés en Florida y por qué el idioma sigue siendo clave para progresar"
+        },
+        {
+            "public_id": 3113,
+            "slug": "programa-vesl-online-para-trabajo",
+            "title": "La importancia de hablar inglés para avanzar en los Estados Unidos: oportunidades reales, dentro y fuera del hogar"
+        },
+        {
+            "public_id": 2372,
+            "slug": "blog-curso-vesl-online-ingles-en-linea",
+            "title": "Programa VESL Online | Aprende inglés en línea, a tu ritmo."
+        },
+        {
+            "public_id": 1487,
+            "slug": "registered-nurse-associate-in-applied-science",
+            "title": "Registered Nurse (RN) – Associate in Applied Science"
+        }
+    ],
+    "posts_tagged": 69,
+    "relationships_assigned": 640,
+    "assignment_errors": []
+}

@@ -1,0 +1,284 @@
+[
+    {
+        "id": "dd16c99",
+        "elType": "e-flexbox",
+        "settings": {
+            "classes": {
+                "$$type": "classes",
+                "value": [
+                    "e-dd16c99-5cd9e16"
+                ]
+            }
+        },
+        "elements": [
+            {
+                "id": "437ba69",
+                "elType": "e-flexbox",
+                "settings": {
+                    "classes": {
+                        "$$type": "classes",
+                        "value": [
+                            "e-437ba69-1b6b6af"
+                        ]
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "0ef606e",
+                        "elType": "widget",
+                        "settings": {
+                            "shortcode": "[rank_math_breadcrumb]",
+                            "_margin": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": true
+                            },
+                            "_padding": {
+                                "unit": "px",
+                                "top": "0",
+                                "right": "0",
+                                "bottom": "0",
+                                "left": "0",
+                                "isLinked": true
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "shortcode"
+                    }
+                ],
+                "isInner": false,
+                "styles": {
+                    "e-437ba69-1b6b6af": {
+                        "id": "e-437ba69-1b6b6af",
+                        "label": "local",
+                        "type": "class",
+                        "variants": [
+                            {
+                                "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                },
+                                "props": {
+                                    "max-width": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 1200,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "padding": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 0,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "justify-content": {
+                                        "$$type": "string",
+                                        "value": "center"
+                                    }
+                                },
+                                "custom_css": null
+                            }
+                        ]
+                    }
+                },
+                "interactions": [],
+                "editor_settings": [],
+                "version": "0.0"
+            }
+        ],
+        "isInner": false,
+        "styles": {
+            "e-dd16c99-5cd9e16": {
+                "id": "e-dd16c99-5cd9e16",
+                "label": "local",
+                "type": "class",
+                "variants": [
+                    {
+                        "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                        },
+                        "props": {
+                            "flex-direction": {
+                                "$$type": "string",
+                                "value": "column"
+                            },
+                            "align-items": {
+                                "$$type": "string",
+                                "value": "center"
+                            }
+                        },
+                        "custom_css": null
+                    }
+                ]
+            }
+        },
+        "interactions": [],
+        "editor_settings": [],
+        "version": "0.0"
+    },
+    {
+        "id": "e97f02a",
+        "elType": "e-flexbox",
+        "settings": {
+            "classes": {
+                "$$type": "classes",
+                "value": [
+                    "e-e97f02a-b2aa433"
+                ]
+            }
+        },
+        "elements": [
+            {
+                "id": "ff14900",
+                "elType": "e-flexbox",
+                "settings": {
+                    "classes": {
+                        "$$type": "classes",
+                        "value": [
+                            "e-ff14900-8ae3b49"
+                        ]
+                    }
+                },
+                "elements": [
+                    {
+                        "id": "c78e913",
+                        "elType": "widget",
+                        "settings": {
+                            "title": "Please follow the steps below to submit your Student Transcript Request.\n",
+                            "header_size": "h1",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Nunito",
+                            "typography_font_weight": "800"
+                        },
+                        "elements": [],
+                        "widgetType": "heading"
+                    },
+                    {
+                        "id": "25b14b5",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "<a href=\"/wp-content/uploads/2024/10/SABER-College-Transcript-Request-10-07-24-New-Logo.docx.pdf\" target=\"_blank\" rel=\"noopener\"><strong>Click the image to download the form</strong></a>",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    },
+                    {
+                        "id": "2b9865a",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "<ol>\n<li>\nTo initiate the process, simply make a payment by calling 305-443-9170 at the main office. (Please mention the reference “payment for a transcript request”). The fee is $10.00 per copy and $25.00 for out-of-state requests. We've made it as convenient as possible for you.\n</li>\n<li>\nDownload and complete the request form with your information and scan the form to the following email address:\n<ul>\n<li>\nregistrar@sabercollege.edu (All Programs)\n</li>\n<li>\nlinette@sabercollege.edu (All Nursing after Dec 2020)\n</li>\n<li>\ndestevez@sabercollege.edu (All Nursing before Dec 2020)\n</li>\n<li>\nlalvarez@sabercollege.edu  (All Nursing before Dec 2020)\n</li>\n<li>\nkarocha@sabercollege.edu (PTA Program)\n</li>\n</ul>\n</li>\n<li>\nDon’t forget to attach proof of payment.\n</li>\n</ol>",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    },
+                    {
+                        "id": "db01cd8",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "<em>Transcripts will be prepared for pickup every Friday afternoon before 2:00 PM. If the request is to be sent to other institutions, this will occur every Friday by the close of business.</em>",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    },
+                    {
+                        "id": "abaad2b",
+                        "elType": "widget",
+                        "settings": {
+                            "editor": "If you would like to learn more about SABER College, you are cordially invited to visit our campus in Miami, Florida.",
+                            "__globals__": {
+                                "text_color": "globals/colors?id=primary"
+                            }
+                        },
+                        "elements": [],
+                        "widgetType": "text-editor"
+                    }
+                ],
+                "isInner": false,
+                "styles": {
+                    "e-ff14900-8ae3b49": {
+                        "id": "e-ff14900-8ae3b49",
+                        "label": "local",
+                        "type": "class",
+                        "variants": [
+                            {
+                                "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                },
+                                "props": {
+                                    "max-width": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 900,
+                                            "unit": "px"
+                                        }
+                                    },
+                                    "flex-direction": {
+                                        "$$type": "string",
+                                        "value": "column"
+                                    },
+                                    "gap": {
+                                        "$$type": "size",
+                                        "value": {
+                                            "size": 12,
+                                            "unit": "px"
+                                        }
+                                    }
+                                },
+                                "custom_css": null
+                            }
+                        ]
+                    }
+                },
+                "interactions": [],
+                "editor_settings": [],
+                "version": "0.0"
+            }
+        ],
+        "isInner": false,
+        "styles": {
+            "e-e97f02a-b2aa433": {
+                "id": "e-e97f02a-b2aa433",
+                "label": "local",
+                "type": "class",
+                "variants": [
+                    {
+                        "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                        },
+                        "props": {
+                            "flex-direction": {
+                                "$$type": "string",
+                                "value": "column"
+                            },
+                            "align-items": {
+                                "$$type": "string",
+                                "value": "center"
+                            }
+                        },
+                        "custom_css": null
+                    }
+                ]
+            }
+        },
+        "interactions": [],
+        "editor_settings": [],
+        "version": "0.0"
+    }
+]

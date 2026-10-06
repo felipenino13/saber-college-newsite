@@ -1,0 +1,21 @@
+{
+    "page_id": 34,
+    "url": "http://localhost:8082/student-services/",
+    "backup": "/tmp/student-services-34-before-20261002-113958.json",
+    "source_text_and_link_widgets_preserved": 11,
+    "title_preserved": true,
+    "protected_templates_unchanged": true,
+    "design_assets": {
+        "path-light": 2064,
+        "path-warm": 2065
+    },
+    "native_widget_types": [
+        "shortcode",
+        "divider",
+        "heading",
+        "image",
+        "icon",
+        "text-editor"
+    ],
+    "elementor_widgets": 37
+}
