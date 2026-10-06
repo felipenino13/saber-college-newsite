@@ -14,3 +14,6 @@ __pycache__/
 
 # Runtime logs
 *.log
+
+# CSS generado automáticamente por Elementor
+/wordpress/wp-content/uploads/elementor/css/
