@@ -1,0 +1,100 @@
+[33m2fa7701[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Initial secure project snapshot
+ .codex/post-409-seo-content.html                   |    121 [32m+[m
+ .dockerignore                                      |      7 [32m+[m
+ .env.example                                       |      8 [32m+[m
+ .gitignore                                         |     16 [32m+[m
+ README.md                                          |      2 [32m+[m
+ .../SABER_College_Correcciones_Marketing.docx      |    Bin [31m0[m -> [32m33873[m bytes
+ .../SABER_College_Correcciones_Marketing.md        |    343 [32m+[m
+ archive-compilado.md                               |    643 [32m+[m
+ archive-new.md                                     |    393 [32m+[m
+ archive.md                                         |    522 [32m+[m
+ backgrounds.md                                     |    238 [32m+[m
+ blogs-compilado.md                                 |    125 [32m+[m
+ blogs-new.md                                       |    103 [32m+[m
+ blogs.md                                           |    104 [32m+[m
+ crawl-report.csv                                   |    153 [32m+[m
+ database/.gitkeep                                  |      0
+ design-system-assets/path-light.svg                |     15 [32m+[m
+ design-system-assets/path-navy.svg                 |     10 [32m+[m
+ design-system-assets/path-warm.svg                 |      9 [32m+[m
+ design-system-assets/preview-desktop.jpg           |    Bin [31m0[m -> [32m98716[m bytes
+ design-system-assets/system.css                    |    262 [32m+[m
+ design-system-assets/system.js                     |    169 [32m+[m
+ design-system.html                                 |    777 [32m+[m
+ design-system.md                                   |    695 [32m+[m
+ diseno.md                                          |     89 [32m+[m
+ docker-compose.yml                                 |     46 [32m+[m
+ docker/wordpress/Dockerfile                        |     26 [32m+[m
+ docker/wordpress/performance.conf                  |     28 [32m+[m
+ docker/wordpress/saber-entrypoint.sh               |     12 [32m+[m
+ pages-compilado.md                                 |    123 [32m+[m
+ pages-new.md                                       |     71 [32m+[m
+ pages.md                                           |     62 [32m+[m
+ phase-6-crawl.mjs                                  |    286 [32m+[m
+ phase-7-audit.mjs                                  |    163 [32m+[m
+ php/uploads.ini                                    |     14 [32m+[m
+ profile.md                                         |    685 [32m+[m
+ redirections.csv                                   |    112 [32m+[m
+ .../img/admisiones/adventhealth-admissions.jpg     |    Bin [31m0[m -> [32m570319[m bytes
+ referentes/img/admisiones/ahu-bsn-admissions.jpg   |    Bin [31m0[m -> [32m633916[m bytes
+ referentes/img/admisiones/duke-admissions.jpg      |    Bin [31m0[m -> [32m777570[m bytes
+ .../img/admisiones/johns-hopkins-admissions.jpg    |    Bin [31m0[m -> [32m716658[m bytes
+ referentes/img/admisiones/mgbu-admissions.jpg      |    Bin [31m0[m -> [32m872091[m bytes
+ referentes/img/admisiones/penn-admissions.jpg      |    Bin [31m0[m -> [32m672339[m bytes
+ referentes/img/articles/ahu-msn-accreditation.jpg  |    Bin [31m0[m -> [32m595353[m bytes
+ .../img/articles/chamberlain-alumni-story.jpg      |    Bin [31m0[m -> [32m1549309[m bytes
+ referentes/img/articles/jhu-outside-track.jpg      |    Bin [31m0[m -> [32m553132[m bytes
+ referentes/img/blog/ahu-blog.jpg                   |    Bin [31m0[m -> [32m26528[m bytes
+ referentes/img/blog/chamberlain-blog.jpg           |    Bin [31m0[m -> [32m576802[m bytes
+ referentes/img/blog/johns-hopkins-magazine.jpg     |    Bin [31m0[m -> [32m479138[m bytes
+ referentes/img/conversion/johns-hopkins-apply.jpg  |    Bin [31m0[m -> [32m667378[m bytes
+ .../conversion/west-coast-request-information.jpg  |    Bin [31m0[m -> [32m105833[m bytes
+ referentes/img/home/adventhealth-university.jpg    |    Bin [31m0[m -> [32m666374[m bytes
+ referentes/img/home/chamberlain.jpg                |    Bin [31m0[m -> [32m993569[m bytes
+ referentes/img/home/duke-nursing.jpg               |    Bin [31m0[m -> [32m1131568[m bytes
+ referentes/img/home/johns-hopkins-nursing.jpg      |    Bin [31m0[m -> [32m1368597[m bytes
+ referentes/img/home/mgbu.jpg                       |    Bin [31m0[m -> [32m382752[m bytes
+ referentes/img/home/miami-sonhs.jpg                |    Bin [31m0[m -> [32m1137233[m bytes
+ referentes/img/home/penn-nursing.jpg               |    Bin [31m0[m -> [32m724806[m bytes
+ referentes/img/home/west-coast-university.jpg      |    Bin [31m0[m -> [32m733341[m bytes
+ referentes/img/legales/adventhealth-privacy.jpg    |    Bin [31m0[m -> [32m279656[m bytes
+ .../img/legales/ahu-institutional-summaries.jpg    |    Bin [31m0[m -> [32m205701[m bytes
+ referentes/img/manifest.json                       |    508 [32m+[m
+ .../img/manuales-recursos/adventhealth-catalog.jpg |    Bin [31m0[m -> [32m663740[m bytes
+ referentes/img/manuales-recursos/usahs-catalog.jpg |    Bin [31m0[m -> [32m444205[m bytes
+ .../img/nosotros-campus/adventhealth-about.jpg     |    Bin [31m0[m -> [32m622628[m bytes
+ referentes/img/nosotros-campus/jhu-about.jpg       |    Bin [31m0[m -> [32m798430[m bytes
+ referentes/img/nosotros-campus/mgbu-about.jpg      |    Bin [31m0[m -> [32m380960[m bytes
+ referentes/img/programas/adventhealth-programs.jpg |    Bin [31m0[m -> [32m280106[m bytes
+ referentes/img/programas/ahu-bs-nursing.jpg        |    Bin [31m0[m -> [32m702521[m bytes
+ .../img/programas/chamberlain-nursing-programs.jpg |    Bin [31m0[m -> [32m1295394[m bytes
+ .../img/programas/johns-hopkins-programs.jpg       |    Bin [31m0[m -> [32m598644[m bytes
+ referentes/img/programas/mgbu-academics.jpg        |    Bin [31m0[m -> [32m369543[m bytes
+ referentes/img/programas/west-coast-programs.jpg   |    Bin [31m0[m -> [32m756085[m bytes
+ referentes/referentes.md                           |    200 [32m+[m
+ reports/academic-affairs-desktop-20261002.png      |    Bin [31m0[m -> [32m93290[m bytes
+ reports/academic-affairs-redesign-20261002.md      |     45 [32m+[m
+ .../academic-affairs-redesign-result-20261002.json |     26 [32m+[m
+ reports/accreditation-desktop-20261002.png         |    Bin [31m0[m -> [32m113068[m bytes
+ reports/accreditation-redesign-20261002.md         |     47 [32m+[m
+ .../accreditation-redesign-result-20261002.json    |     28 [32m+[m
+ reports/apply-saber-desktop-20261002.png           |    Bin [31m0[m -> [32m85820[m bytes
+ reports/apply-saber-redesign-20261002.md           |     47 [32m+[m
+ reports/apply-saber-redesign-result-20261002.json  |     25 [32m+[m
+ reports/campus-location-desktop-20261002.png       |    Bin [31m0[m -> [32m329825[m bytes
+ reports/campus-location-redesign-20261002.md       |     32 [32m+[m
+ .../campus-location-redesign-result-20261002.json  |     24 [32m+[m
+ reports/candidate-survey-410.png                   |    Bin [31m0[m -> [32m260140[m bytes
+ reports/candidate-survey-572.png                   |    Bin [31m0[m -> [32m31516[m bytes
+ reports/career-services-desktop-20261002.png       |    Bin [31m0[m -> [32m286191[m bytes
+ reports/career-services-redesign-20261002.md       |     37 [32m+[m
+ .../career-services-redesign-result-20261002.json  |     25 [32m+[m
+ reports/elementor-design-system-20261002.md        |     48 [32m+[m
+ .../elementor-design-system-desktop-20261002.png   |    Bin [31m0[m -> [32m97072[m bytes
+ .../elementor-design-system-result-20261002.json   |     27 [32m+[m
+ reports/elementor-style-validation-2026-10-06.md   |     57 [32m+[m
+ reports/form-general-ui-2026-10-06.md              |     40 [32m+[m
+ reports/gallery-desktop-20261002.png               |    Bin [31m0[m -> [32m723649[m bytes
+ reports/gallery-redesign-20261002.md               |     33 [32m+[m
+ reports/gallery-redesign-result-20
