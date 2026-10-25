@@ -1,0 +1,4759 @@
+{
+  "lighthouseVersion": "13.5.0",
+  "fetchTime": "2026-10-22T13:34:14.611Z",
+  "finalUrl": "https://abc16946.sg-host.com/",
+  "formFactor": "desktop",
+  "throttlingMethod": "simulate",
+  "categories": {
+    "performance": {
+      "score": 98,
+      "title": "Performance"
+    },
+    "accessibility": {
+      "score": 89,
+      "title": "Accessibility"
+    },
+    "best-practices": {
+      "score": 88,
+      "title": "Best Practices"
+    },
+    "seo": {
+      "score": 100,
+      "title": "SEO"
+    }
+  },
+  "metrics": {
+    "first-contentful-paint": {
+      "score": 0.98,
+      "displayValue": "0.7 s",
+      "numericValue": 696.2180465753733
+    },
+    "largest-contentful-paint": {
+      "score": 0.96,
+      "displayValue": "0.9 s",
+      "numericValue": 904.8023163150747
+    },
+    "speed-index": {
+      "score": 0.95,
+      "displayValue": "1.1 s",
+      "numericValue": 1085.2859724553027
+    },
+    "total-blocking-time": {
+      "score": 1,
+      "displayValue": "0 ms",
+      "numericValue": 0
+    },
+    "cumulative-layout-shift": {
+      "score": 0.98,
+      "displayValue": "0.057",
+      "numericValue": 0.057198523111523604
+    },
+    "server-response-time": {
+      "score": 1,
+      "displayValue": "Root document took 210 ms",
+      "numericValue": 213
+    },
+    "max-potential-fid": {
+      "score": 1,
+      "displayValue": "30 ms",
+      "numericValue": 28
+    }
+  },
+  "opportunities": [
+    {
+      "id": "server-response-time",
+      "title": "Initial server response time was short",
+      "score": 1,
+      "displayValue": "Root document took 210 ms",
+      "savingsMs": 113,
+      "savingsBytes": 0
+    },
+    {
+      "id": "unused-javascript",
+      "title": "Reduce unused JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 183 KiB",
+      "savingsMs": 0,
+      "savingsBytes": 187778
+    },
+    {
+      "id": "unminified-javascript",
+      "title": "Minify JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 28 KiB",
+      "savingsMs": 0,
+      "savingsBytes": 29117
+    },
+    {
+      "id": "unminified-css",
+      "title": "Minify CSS",
+      "score": 0.5,
+      "displayValue": "Est savings of 2 KiB",
+      "savingsMs": 0,
+      "savingsBytes": 2121
+    }
+  ],
+  "failedAudits": [
+    {
+      "id": "aria-required-children",
+      "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+      "score": 0,
+      "description": "Some ARIA parent roles must contain specific child roles to perform their intended accessibility functions. [Learn more about roles and required children elements](https://dequeuniversity.com/rules/axe/4.13/aria-required-children)."
+    },
+    {
+      "id": "link-name",
+      "title": "Links do not have a discernible name",
+      "score": 0,
+      "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn how to make links accessible](https://dequeuniversity.com/rules/axe/4.13/link-name)."
+    },
+    {
+      "id": "target-size",
+      "title": "Touch targets do not have sufficient size or spacing.",
+      "score": 0,
+      "description": "Touch targets with sufficient size and spacing help users who may have difficulty targeting small controls to activate the targets. [Learn more about touch targets](https://dequeuniversity.com/rules/axe/4.13/target-size)."
+    },
+    {
+      "id": "paste-preventing-inputs",
+      "title": "Prevents users from pasting into input fields",
+      "score": 0,
+      "description": "Preventing input pasting is a bad practice for the UX, and weakens security by blocking password managers.[Learn more about user-friendly input fields](https://developer.chrome.com/docs/lighthouse/best-practices/paste-preventing-inputs/)."
+    },
+    {
+      "id": "image-delivery-insight",
+      "title": "Improve image delivery",
+      "score": 0,
+      "displayValue": "Est savings of 488 KiB",
+      "description": "Reducing the download time of images can improve the perceived load time of the page and LCP. [Learn more about optimizing image size](https://developer.chrome.com/docs/performance/insights/image-delivery)"
+    },
+    {
+      "id": "network-dependency-tree-insight",
+      "title": "Network dependency tree",
+      "score": 0,
+      "description": "[Avoid chaining critical requests](https://developer.chrome.com/docs/performance/insights/network-dependency-tree) by reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load."
+    },
+    {
+      "id": "unminified-css",
+      "title": "Minify CSS",
+      "score": 0.5,
+      "displayValue": "Est savings of 2 KiB",
+      "description": "Minifying CSS files can reduce network payload sizes. [Learn how to minify CSS](https://developer.chrome.com/docs/lighthouse/performance/unminified-css/)."
+    },
+    {
+      "id": "unminified-javascript",
+      "title": "Minify JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 28 KiB",
+      "description": "Minifying JavaScript files can reduce payload sizes and script parse time. [Learn how to minify JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unminified-javascript/)."
+    },
+    {
+      "id": "unused-javascript",
+      "title": "Reduce unused JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 183 KiB",
+      "description": "Reduce unused JavaScript and defer loading scripts until they are required to decrease bytes consumed by network activity. [Learn how to reduce unused JavaScript](https://developer.chrome.com/docs/lighthouse/performance/unused-javascript/)."
+    },
+    {
+      "id": "cache-insight",
+      "title": "Use efficient cache lifetimes",
+      "score": 0.5,
+      "displayValue": "Est savings of 37 KiB",
+      "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more about caching](https://developer.chrome.com/docs/performance/insights/cache)."
+    },
+    {
+      "id": "render-blocking-insight",
+      "title": "Render-blocking requests",
+      "score": 0.5,
+      "description": "Requests are blocking the page's initial render, which may delay LCP. [Deferring or inlining](https://developer.chrome.com/docs/performance/insights/render-blocking) can move these network requests out of the critical path."
+    },
+    {
+      "id": "speed-index",
+      "title": "Speed Index",
+      "score": 0.95,
+      "displayValue": "1.1 s",
+      "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more about the Speed Index metric](https://developer.chrome.com/docs/lighthouse/performance/speed-index/)."
+    },
+    {
+      "id": "largest-contentful-paint",
+      "title": "Largest Contentful Paint",
+      "score": 0.96,
+      "displayValue": "0.9 s",
+      "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more about the Largest Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint/)"
+    },
+    {
+      "id": "first-contentful-paint",
+      "title": "First Contentful Paint",
+      "score": 0.98,
+      "displayValue": "0.7 s",
+      "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more about the First Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/)."
+    },
+    {
+      "id": "cumulative-layout-shift",
+      "title": "Cumulative Layout Shift",
+      "score": 0.98,
+      "displayValue": "0.057",
+      "description": "Cumulative Layout Shift measures the movement of visible elements within the viewport. [Learn more about the Cumulative Layout Shift metric](https://web.dev/articles/cls)."
+    }
+  ],
+  "diagnostics": {
+    "lcp-discovery-insight": {
+      "title": "LCP request discovery",
+      "score": 1,
+      "details": {
+        "type": "list",
+        "items": [
+          {
+            "type": "checklist",
+            "items": {
+              "priorityHinted": {
+                "label": "fetchpriority=high applied",
+                "value": true
+              },
+              "requestDiscoverable": {
+                "label": "Request is discoverable in initial document",
+                "value": true
+              },
+              "eagerlyLoaded": {
+                "label": "LCP resources should not use loading=lazy",
+                "value": true
+              }
+            }
+          },
+          {
+            "type": "node",
+            "lhId": "page-14-SECTION",
+            "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,1,SECTION",
+            "selector": "main#content > div.page-content > div.elementor > section.elementor-element",
+            "boundingRect": {
+              "top": 157,
+              "bottom": 917,
+              "left": 0,
+              "right": 1905,
+              "width": 1905,
+              "height": 760
+            },
+            "snippet": "<section class=\"elementor-element elementor-element-6cc418c e-con e-atomic-element e-flexb…\" data-id=\"6cc418c\" data-element_type=\"e-flexbox\" data-e-type=\"e-flexbox\" data-interaction-id=\"6cc418c\">",
+            "nodeLabel": "Healthcare Career Training in Miami\n\nYour Future in Healthcare Starts Here\n\nGai…"
+          }
+        ]
+      }
+    },
+    "lcp-breakdown-insight": {
+      "title": "LCP breakdown",
+      "score": 1,
+      "details": {
+        "type": "list",
+        "items": [
+          {
+            "type": "table",
+            "headings": [
+              {
+                "key": "label",
+                "valueType": "text",
+                "label": "Subpart"
+              },
+              {
+                "key": "duration",
+                "valueType": "ms",
+                "label": "Duration"
+              }
+            ],
+            "items": [
+              {
+                "subpart": "timeToFirstByte",
+                "label": "Time to first byte",
+                "duration": 221.931
+              },
+              {
+                "subpart": "resourceLoadDelay",
+                "label": "Resource load delay",
+                "duration": 29.844
+              },
+              {
+                "subpart": "resourceLoadDuration",
+                "label": "Resource load duration",
+                "duration": 228.959
+              },
+              {
+                "subpart": "elementRenderDelay",
+                "label": "Element render delay",
+                "duration": 201.868
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "lhId": "page-14-SECTION",
+            "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,1,SECTION",
+            "selector": "main#content > div.page-content > div.elementor > section.elementor-element",
+            "boundingRect": {
+              "top": 157,
+              "bottom": 917,
+              "left": 0,
+              "right": 1905,
+              "width": 1905,
+              "height": 760
+            },
+            "snippet": "<section class=\"elementor-element elementor-element-6cc418c e-con e-atomic-element e-flexb…\" data-id=\"6cc418c\" data-element_type=\"e-flexbox\" data-e-type=\"e-flexbox\" data-interaction-id=\"6cc418c\">",
+            "nodeLabel": "Healthcare Career Training in Miami\n\nYour Future in Healthcare Starts Here\n\nGai…"
+          }
+        ]
+      }
+    },
+    "render-blocking-insight": {
+      "title": "Render-blocking requests",
+      "score": 0.5,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "timespanMs",
+            "label": "Duration"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+            "totalBytes": 4925
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+            "totalBytes": 29872
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-53.css?ver=1792449489",
+            "totalBytes": 986
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-16.css?ver=1792449489",
+            "totalBytes": 1031
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-312-frontend-desktop.css?ver=6ad69bd128e28",
+            "totalBytes": 364
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a",
+            "totalBytes": 1768
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-16-frontend-desktop.css?ver=6ad69bd128816",
+            "totalBytes": 686
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-53-frontend-desktop.css?ver=6ad69bd128a29",
+            "totalBytes": 682
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad69bd127e95",
+            "totalBytes": 1282
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-7.css?ver=1792449489",
+            "totalBytes": 3877
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-grid.min.css?ver=4.1.0",
+            "totalBytes": 1353
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-common.min.css?ver=4.1.0",
+            "totalBytes": 357
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.2.2",
+            "totalBytes": 947
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.1.0",
+            "totalBytes": 1643
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.2",
+            "totalBytes": 364
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.1.0",
+            "totalBytes": 3445
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.2",
+            "totalBytes": 1167
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.2",
+            "totalBytes": 333
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-5.css?ver=1792449488",
+            "totalBytes": 860
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.2",
+            "totalBytes": 6800
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9",
+            "totalBytes": 1497
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9",
+            "totalBytes": 1367
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9",
+            "totalBytes": 1825
+          }
+        ]
+      }
+    },
+    "image-delivery-insight": {
+      "title": "Improve image delivery",
+      "score": 0,
+      "displayValue": "Est savings of 488 KiB",
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "node",
+            "valueType": "node",
+            "label": ""
+          },
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL",
+            "subItemsHeading": {
+              "key": "reason",
+              "valueType": "text"
+            }
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Resource Size"
+          },
+          {
+            "key": "wastedBytes",
+            "valueType": "bytes",
+            "label": "Est Savings",
+            "subItemsHeading": {
+              "key": "wastedBytes",
+              "valueType": "bytes"
+            }
+          }
+        ],
+        "items": [
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-0-DIV",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,8,DIV,0,A,0,DIV",
+              "selector": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element",
+              "boundingRect": {
+                "top": 3957,
+                "bottom": 4107,
+                "left": 1265,
+                "right": 1533,
+                "width": 268,
+                "height": 150
+              },
+              "snippet": "<div class=\"elementor-element elementor-element-bbacff6 cine e-flex e-con-boxed e-con …\" data-id=\"bbacff6\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\" bis_skin_checked=\"1\">",
+              "nodeLabel": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/help-venezuela.jpg",
+            "totalBytes": 464432,
+            "wastedBytes": 118832,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 118832
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-1-IMG",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,6,SECTION,1,DIV,1,DIV,0,IMG",
+              "selector": "section.elementor-element > div.elementor-element > div.elementor-element > img#632",
+              "boundingRect": {
+                "top": 3206,
+                "bottom": 3796,
+                "left": 963,
+                "right": 1553,
+                "width": 590,
+                "height": 590
+              },
+              "snippet": "<img loading=\"lazy\" decoding=\"async\" class=\"e-image-base \" data-interaction-id=\"d83d807\" data-e-type=\"widget\" data-id=\"d83d807\" id=\"632\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/Saber_Nursing_23Ju…\" width=\"1080\" height=\"1080\" srcset=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/Saber_Nursing_23Ju…\" alt=\"Professional Nursing student at SABER College\">",
+              "nodeLabel": "Professional Nursing student at SABER College"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/Saber_Nursing_23JunLand_PTA-1.png",
+            "totalBytes": 104300,
+            "wastedBytes": 73173,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "This image file is larger than it needs to be (1080x1080) for its displayed dimensions (590x590). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 73173
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-2-IMG",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,8,SECTION,0,DIV,1,DIV,0,IMG",
+              "selector": "section.elementor-element > div.elementor-element > div.elementor-element > img#466",
+              "boundingRect": {
+                "top": 4427,
+                "bottom": 5032,
+                "left": 953,
+                "right": 1905,
+                "width": 953,
+                "height": 606
+              },
+              "snippet": "<img loading=\"lazy\" decoding=\"async\" class=\"e-image-base \" data-interaction-id=\"476065e\" data-e-type=\"widget\" data-id=\"476065e\" id=\"466\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-banner-…\" width=\"1425\" height=\"906\" srcset=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-banner-…\" alt=\"Sabi, the SABER College mascot, promoting student support\">",
+              "nodeLabel": "Sabi, the SABER College mascot, promoting student support"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-banner-call-to-action.png",
+            "totalBytes": 121774,
+            "wastedBytes": 66508,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "This image file is larger than it needs to be (1425x906) for its displayed dimensions (960x610). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 66508
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-3-IMG",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,1,SECTION,0,DIV,1,DIV,0,DIV,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large",
+              "boundingRect": {
+                "top": 157,
+                "bottom": 917,
+                "left": 793,
+                "right": 1553,
+                "width": 760,
+                "height": 760
+              },
+              "snippet": "<img decoding=\"async\" width=\"800\" height=\"800\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-1024x10…\" class=\"attachment-large size-large wp-image-414\" alt=\"Sabi, the SABER College mascot, dressed as a nurse\" srcset=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-1024x10…\" sizes=\"(max-width: 800px) 100vw, 800px\">",
+              "nodeLabel": "Sabi, the SABER College mascot, dressed as a nurse"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-1024x1024.png",
+            "totalBytes": 93218,
+            "wastedBytes": 41870,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "This image file is larger than it needs to be (1024x1024) for its displayed dimensions (760x760). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 41870
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-4-DIV",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,A,0,DIV",
+              "selector": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element",
+              "boundingRect": {
+                "top": 3957,
+                "bottom": 4107,
+                "left": 373,
+                "right": 640,
+                "width": 268,
+                "height": 150
+              },
+              "snippet": "<div class=\"elementor-element elementor-element-bbacff6 cine e-flex e-con-boxed e-con …\" data-id=\"bbacff6\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\" bis_skin_checked=\"1\">",
+              "nodeLabel": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/SABER_Blog-_PTA_AGO26-e1787860862637.png",
+            "totalBytes": 263504,
+            "wastedBytes": 37784,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 37784
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-5-IMG",
+              "path": "1,HTML,4,BODY,1,HEADER,1,DIV,0,DIV,0,DIV,0,DIV,0,A,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > a > img.attachment-full",
+              "boundingRect": {
+                "top": 51,
+                "bottom": 196,
+                "left": 213,
+                "right": 358,
+                "width": 145,
+                "height": 145
+              },
+              "snippet": "<img fetchpriority=\"high\" width=\"283\" height=\"283\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/saber-college.png\" class=\"attachment-full size-full wp-image-21\" alt=\"\" srcset=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/saber-college.png …\" sizes=\"(max-width: 283px) 100vw, 283px\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > a > img.attachment-full"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/saber-college.png",
+            "totalBytes": 32200,
+            "wastedBytes": 28696,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 18852
+                },
+                {
+                  "reason": "This image file is larger than it needs to be (283x283) for its displayed dimensions (145x145). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 23747
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-6-DIV",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,1,SECTION,0,DIV,0,DIV,2,DIV,0,FORM,4,DIV,1,DIV,4,DIV,1,DIV,0,DIV,0,DIV,0,DIV,0,DIV",
+              "selector": "div.iti__country-container > div.iti__selected-country > div.iti__selected-country-primary > div.iti__flag",
+              "boundingRect": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "width": 0,
+                "height": 0
+              },
+              "snippet": "<div class=\"iti__flag iti__us\" bis_skin_checked=\"1\">",
+              "nodeLabel": "div.iti__country-container > div.iti__selected-country > div.iti__selected-country-primary > div.iti__flag"
+            },
+            "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/img/flags.webp",
+            "totalBytes": 38636,
+            "wastedBytes": 26436,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 26436
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-7-IMG",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,1,DIV,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large",
+              "boundingRect": {
+                "top": 7110,
+                "bottom": 7168,
+                "left": 632,
+                "right": 690,
+                "width": 58,
+                "height": 58
+              },
+              "snippet": "<img width=\"112\" height=\"112\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/COE.png\" class=\"attachment-large size-large wp-image-458\" alt=\"Council on Occupational Education logo\">",
+              "nodeLabel": "Council on Occupational Education logo"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/COE.png",
+            "totalBytes": 23528,
+            "wastedBytes": 22975,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 21437
+                },
+                {
+                  "reason": "This image file is larger than it needs to be (112x112) for its displayed dimensions (58x58). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 17306
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-8-IMG",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,4,DIV,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large",
+              "boundingRect": {
+                "top": 7110,
+                "bottom": 7163,
+                "left": 859,
+                "right": 913,
+                "width": 53,
+                "height": 53
+              },
+              "snippet": "<img width=\"129\" height=\"129\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/cie-florida-white.…\" class=\"attachment-large size-large wp-image-692\" alt=\"\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/cie-florida-white.png",
+            "totalBytes": 16360,
+            "wastedBytes": 15883,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 13586
+                },
+                {
+                  "reason": "This image file is larger than it needs to be (129x129) for its displayed dimensions (53x53). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 13548
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-9-IMG",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,2,DIV,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large",
+              "boundingRect": {
+                "top": 7110,
+                "bottom": 7166,
+                "left": 710,
+                "right": 766,
+                "width": 56,
+                "height": 56
+              },
+              "snippet": "<img width=\"109\" height=\"109\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/BON.png\" class=\"attachment-large size-large wp-image-455\" alt=\"\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/BON.png",
+            "totalBytes": 16392,
+            "wastedBytes": 15869,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 14412
+                },
+                {
+                  "reason": "This image file is larger than it needs to be (109x109) for its displayed dimensions (56x56). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 12058
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-10-IMG",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,IMG",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large",
+              "boundingRect": {
+                "top": 7110,
+                "bottom": 7168,
+                "left": 554,
+                "right": 612,
+                "width": 58,
+                "height": 58
+              },
+              "snippet": "<img width=\"112\" height=\"112\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/CNEA.png\" class=\"attachment-large size-large wp-image-457\" alt=\"\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-element > img.attachment-large"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/CNEA.png",
+            "totalBytes": 15372,
+            "wastedBytes": 14819,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 13281
+                },
+                {
+                  "reason": "This image file is larger than it needs to be (112x112) for its displayed dimensions (58x58). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 11307
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-11-DIV",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,A,0,DIV",
+              "selector": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element",
+              "boundingRect": {
+                "top": 3957,
+                "bottom": 4107,
+                "left": 968,
+                "right": 1235,
+                "width": 268,
+                "height": 150
+              },
+              "snippet": "<div class=\"elementor-element elementor-element-bbacff6 cine e-flex e-con-boxed e-con …\" data-id=\"bbacff6\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\" bis_skin_checked=\"1\">",
+              "nodeLabel": "div.elementor-loop-container > div.elementor > a.elementor-element > div.elementor-element"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/lanzamiento-sabri_vertv2.png",
+            "totalBytes": 256410,
+            "wastedBytes": 13410,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "Increasing the image compression factor could improve this image's download size.",
+                  "wastedBytes": 13410
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-12-IMG",
+              "path": "1,HTML,4,BODY,1,HEADER,0,DIV,0,DIV,1,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,DIV,0,IMG",
+              "selector": "div#mwai-chatbot-default > div.mwai-trigger > div.mwai-icon-container > img.mwai-icon",
+              "boundingRect": {
+                "top": 791,
+                "bottom": 881,
+                "left": 1785,
+                "right": 1875,
+                "width": 90,
+                "height": 90
+              },
+              "snippet": "<img class=\"mwai-icon\" width=\"90\" height=\"90\" alt=\"AI Engine Chatbot\" src=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/chat-sabi-square-n…\">",
+              "nodeLabel": "AI Engine Chatbot"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/chat-sabi-square-notification.png",
+            "totalBytes": 13614,
+            "wastedBytes": 12503,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "This image file is larger than it needs to be (315x316) for its displayed dimensions (90x90). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 12503
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "page-13-VIDEO",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,3,SECTION,0,DIV,1,DIV,0,VIDEO",
+              "selector": "section.elementor-element > div.elementor-element > div.elementor-element > video.e-d01d8ea-66fd1f9",
+              "boundingRect": {
+                "top": 1692,
+                "bottom": 2228,
+                "left": 953,
+                "right": 1905,
+                "width": 953,
+                "height": 536
+              },
+              "snippet": "<video data-id=\"d01d8ea\" data-interaction-id=\"d01d8ea\" data-e-type=\"e-self-hosted-video\" data-interactions=\"null\" class=\"e-d01d8ea-66fd1f9 e-self-hosted-video-base\" muted=\"\" loop=\"\" playsinline=\"\" controlslist=\"nodownload\" preload=\"none\" data-saber-lazy-video=\"true\" poster=\"https://abc16946.sg-host.com/wp-content/uploads/2026/08/img_Nurse2-1024x57…\">",
+              "nodeLabel": "section.elementor-element > div.elementor-element > div.elementor-element > video.e-d01d8ea-66fd1f9"
+            },
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/img_Nurse2-1024x572.png",
+            "totalBytes": 94448,
+            "wastedBytes": 11437,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "reason": "This image file is larger than it needs to be (1024x572) for its displayed dimensions (960x536). Use responsive images to reduce the image download size.",
+                  "wastedBytes": 11437
+                }
+              ]
+            }
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "wastedBytes": 500195
+        }
+      }
+    },
+    "network-dependency-tree-insight": {
+      "title": "Network dependency tree",
+      "score": 0,
+      "details": {
+        "type": "list",
+        "items": [
+          {
+            "type": "list-section",
+            "value": {
+              "type": "network-tree",
+              "chains": {
+                "D875B53D7165F1234FFB359D8F2EA166": {
+                  "url": "https://abc16946.sg-host.com/",
+                  "navStartToEndTime": 427,
+                  "transferSize": 37054,
+                  "isLongest": true,
+                  "children": {
+                    "26556.172": {
+                      "url": "https://ipinfo.io/2800:e2:2c80:79:7133:6c92:7943:ba78/json",
+                      "navStartToEndTime": 1527,
+                      "transferSize": 435,
+                      "isLongest": true,
+                      "children": {}
+                    },
+                    "26556.52": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1",
+                      "navStartToEndTime": 794,
+                      "transferSize": 41001,
+                      "children": {
+                        "26556.173": {
+                          "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/utils.js",
+                          "navStartToEndTime": 1451,
+                          "transferSize": 63565,
+                          "children": {}
+                        }
+                      }
+                    },
+                    "26556.30": {
+                      "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/intlTelInput.min.js",
+                      "navStartToEndTime": 428,
+                      "transferSize": 16520,
+                      "children": {
+                        "26556.103": {
+                          "url": "https://api64.ipify.org/?format=json",
+                          "navStartToEndTime": 1105,
+                          "transferSize": 146,
+                          "children": {}
+                        }
+                      }
+                    },
+                    "26556.61": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.1.0",
+                      "navStartToEndTime": 839,
+                      "transferSize": 10296,
+                      "children": {}
+                    },
+                    "26556.55": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/app/chatbot.js?ver=1790199070",
+                      "navStartToEndTime": 836,
+                      "transferSize": 98571,
+                      "children": {}
+                    },
+                    "26556.60": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.1.0",
+                      "navStartToEndTime": 829,
+                      "transferSize": 6428,
+                      "children": {}
+                    },
+                    "26556.59": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+                      "navStartToEndTime": 828,
+                      "transferSize": 2628,
+                      "children": {}
+                    },
+                    "26556.58": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+                      "navStartToEndTime": 828,
+                      "transferSize": 2007,
+                      "children": {}
+                    },
+                    "26556.57": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.1.0",
+                      "navStartToEndTime": 828,
+                      "transferSize": 2858,
+                      "children": {}
+                    },
+                    "26556.54": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/element.min.js?ver=4a4370b2b349066fd440",
+                      "navStartToEndTime": 793,
+                      "transferSize": 5260,
+                      "children": {}
+                    },
+                    "26556.53": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/escape-html.min.js?ver=87ebe53e97bba59805a5",
+                      "navStartToEndTime": 793,
+                      "transferSize": 809,
+                      "children": {}
+                    },
+                    "26556.51": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1",
+                      "navStartToEndTime": 792,
+                      "transferSize": 4362,
+                      "children": {}
+                    },
+                    "26556.50": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+                      "navStartToEndTime": 792,
+                      "transferSize": 1935,
+                      "children": {}
+                    },
+                    "26556.49": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+                      "navStartToEndTime": 791,
+                      "transferSize": 7079,
+                      "children": {}
+                    },
+                    "26556.48": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.2",
+                      "navStartToEndTime": 788,
+                      "transferSize": 10348,
+                      "children": {}
+                    },
+                    "26556.46": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.2",
+                      "navStartToEndTime": 788,
+                      "transferSize": 15583,
+                      "children": {}
+                    },
+                    "26556.47": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+                      "navStartToEndTime": 788,
+                      "transferSize": 6507,
+                      "children": {}
+                    },
+                    "26556.45": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.2",
+                      "navStartToEndTime": 787,
+                      "transferSize": 2583,
+                      "children": {}
+                    },
+                    "26556.44": {
+                      "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+                      "navStartToEndTime": 787,
+                      "transferSize": 741,
+                      "children": {}
+                    },
+                    "26556.43": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-post-info.min.css?ver=4.1.0",
+                      "navStartToEndTime": 768,
+                      "transferSize": 399,
+                      "children": {}
+                    },
+                    "26556.42": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/themes/timeless.css?ver=1790199070",
+                      "navStartToEndTime": 767,
+                      "transferSize": 15679,
+                      "children": {}
+                    },
+                    "26556.27": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+                      "navStartToEndTime": 597,
+                      "transferSize": 4925,
+                      "children": {}
+                    },
+                    "26556.26": {
+                      "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+                      "navStartToEndTime": 585,
+                      "transferSize": 29872,
+                      "children": {}
+                    },
+                    "26556.25": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-53.css?ver=1792449489",
+                      "navStartToEndTime": 584,
+                      "transferSize": 986,
+                      "children": {}
+                    },
+                    "26556.24": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-16.css?ver=1792449489",
+                      "navStartToEndTime": 584,
+                      "transferSize": 1031,
+                      "children": {}
+                    },
+                    "26556.23": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-312-frontend-desktop.css?ver=6ad69bd128e28",
+                      "navStartToEndTime": 584,
+                      "transferSize": 364,
+                      "children": {}
+                    },
+                    "26556.22": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a",
+                      "navStartToEndTime": 584,
+                      "transferSize": 1768,
+                      "children": {}
+                    },
+                    "26556.21": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-53-frontend-desktop.css?ver=6ad69bd128a29",
+                      "navStartToEndTime": 583,
+                      "transferSize": 682,
+                      "children": {}
+                    },
+                    "26556.20": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-16-frontend-desktop.css?ver=6ad69bd128816",
+                      "navStartToEndTime": 583,
+                      "transferSize": 686,
+                      "children": {}
+                    },
+                    "26556.19": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad69bd127e95",
+                      "navStartToEndTime": 583,
+                      "transferSize": 1282,
+                      "children": {}
+                    },
+                    "26556.18": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-7.css?ver=1792449489",
+                      "navStartToEndTime": 582,
+                      "transferSize": 3877,
+                      "children": {}
+                    },
+                    "26556.17": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-grid.min.css?ver=4.1.0",
+                      "navStartToEndTime": 582,
+                      "transferSize": 1353,
+                      "children": {}
+                    },
+                    "26556.16": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-common.min.css?ver=4.1.0",
+                      "navStartToEndTime": 582,
+                      "transferSize": 357,
+                      "children": {}
+                    },
+                    "26556.15": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.2.2",
+                      "navStartToEndTime": 578,
+                      "transferSize": 947,
+                      "children": {}
+                    },
+                    "26556.14": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.1.0",
+                      "navStartToEndTime": 578,
+                      "transferSize": 1643,
+                      "children": {}
+                    },
+                    "26556.13": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.2",
+                      "navStartToEndTime": 578,
+                      "transferSize": 364,
+                      "children": {}
+                    },
+                    "26556.12": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.1.0",
+                      "navStartToEndTime": 578,
+                      "transferSize": 3445,
+                      "children": {}
+                    },
+                    "26556.10": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.2",
+                      "navStartToEndTime": 572,
+                      "transferSize": 1167,
+                      "children": {}
+                    },
+                    "26556.11": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.2",
+                      "navStartToEndTime": 571,
+                      "transferSize": 333,
+                      "children": {}
+                    },
+                    "26556.9": {
+                      "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-5.css?ver=1792449488",
+                      "navStartToEndTime": 571,
+                      "transferSize": 860,
+                      "children": {}
+                    },
+                    "26556.8": {
+                      "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.2",
+                      "navStartToEndTime": 487,
+                      "transferSize": 6800,
+                      "children": {}
+                    },
+                    "26556.7": {
+                      "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9",
+                      "navStartToEndTime": 426,
+                      "transferSize": 1497,
+                      "children": {}
+                    },
+                    "26556.6": {
+                      "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9",
+                      "navStartToEndTime": 425,
+                      "transferSize": 1367,
+                      "children": {}
+                    },
+                    "26556.5": {
+                      "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9",
+                      "navStartToEndTime": 425,
+                      "transferSize": 1825,
+                      "children": {}
+                    },
+                    "26556.29": {
+                      "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/css/intlTelInput.css",
+                      "navStartToEndTime": 424,
+                      "transferSize": 3733,
+                      "children": {}
+                    }
+                  }
+                }
+              },
+              "longestChain": {
+                "duration": 1527
+              }
+            }
+          },
+          {
+            "type": "list-section",
+            "title": "Preconnected origins",
+            "description": "[preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints help the browser establish a connection earlier in the page load, saving time when the first request for that origin is made. The following are the origins that the page preconnected to.",
+            "value": {
+              "type": "table",
+              "headings": [
+                {
+                  "key": "origin",
+                  "valueType": "text",
+                  "subItemsHeading": {
+                    "key": "warning"
+                  },
+                  "label": "Origin"
+                },
+                {
+                  "key": "source",
+                  "valueType": "node",
+                  "label": "Source"
+                }
+              ],
+              "items": [
+                {
+                  "origin": "https://core.service.elfsight.com/",
+                  "source": {
+                    "type": "node",
+                    "lhId": "page-33-LINK",
+                    "path": "1,HTML,3,HEAD,77,LINK",
+                    "selector": "head > link",
+                    "boundingRect": {
+                      "top": 0,
+                      "bottom": 0,
+                      "left": 0,
+                      "right": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "snippet": "<link href=\"https://core.service.elfsight.com\" rel=\"preconnect\" crossorigin=\"\">",
+                    "nodeLabel": "head > link"
+                  },
+                  "subItems": {
+                    "type": "subitems",
+                    "items": [
+                      {
+                        "warning": "Unused preconnect. Only use `preconnect` for origins that the page is likely to request."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "list-section",
+            "title": "Preconnect candidates",
+            "description": "Add [preconnect](https://developer.chrome.com/docs/lighthouse/performance/uses-rel-preconnect/) hints to your most important origins, but try to use no more than 4.",
+            "value": {
+              "type": "text",
+              "value": "No additional origins are good candidates for preconnecting"
+            }
+          }
+        ]
+      }
+    },
+    "third-parties-insight": {
+      "title": "3rd parties",
+      "score": 1,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "entity",
+            "valueType": "text",
+            "label": "3rd party",
+            "subItemsHeading": {
+              "key": "url",
+              "valueType": "url"
+            }
+          },
+          {
+            "key": "transferSize",
+            "granularity": 1,
+            "valueType": "bytes",
+            "label": "Transfer size",
+            "subItemsHeading": {
+              "key": "transferSize"
+            }
+          },
+          {
+            "key": "mainThreadTime",
+            "granularity": 1,
+            "valueType": "ms",
+            "label": "Main thread time",
+            "subItemsHeading": {
+              "key": "mainThreadTime"
+            }
+          }
+        ],
+        "items": [
+          {
+            "entity": "eppiocemhmnlbhjplcgkofciiegomcon",
+            "mainThreadTime": 99.28199999779463,
+            "transferSize": 0,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/processor.js",
+                  "mainThreadTime": 36.97300000023097,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/ad-blocker/content.js",
+                  "mainThreadTime": 36.06199999898672,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/content.js",
+                  "mainThreadTime": 21.994999999180436,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/101.js",
+                  "mainThreadTime": 1.2819999996572733,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js",
+                  "mainThreadTime": 1.281000000424683,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js",
+                  "mainThreadTime": 0.9240000005811453,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js",
+                  "mainThreadTime": 0.47199999913573265,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/200.js",
+                  "mainThreadTime": 0.29299999959766865,
+                  "transferSize": 0
+                }
+              ]
+            }
+          },
+          {
+            "entity": "ddkjiahejlhfcafbddmgiahcphecmpfh",
+            "mainThreadTime": 70.39300000201911,
+            "transferSize": 0,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/ublock-filters.js",
+                  "mainThreadTime": 26.37899999972433,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/ublock-filters.js",
+                  "mainThreadTime": 20.922000001184642,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/scriptlet-begin.js",
+                  "mainThreadTime": 8.126999999396503,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/scriptlet-begin.js",
+                  "mainThreadTime": 3.27900000102818,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/popup/easylist.js",
+                  "mainThreadTime": 1.9540000008419156,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/spa-1.js",
+                  "mainThreadTime": 1.4680000003427267,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/popup/ublock-badware.js",
+                  "mainThreadTime": 1.3760000001639128,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/js/scripting/css-specific.js",
+                  "mainThreadTime": 1.1889999993145466,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/js/scripting/prevent-popup.js",
+                  "mainThreadTime": 0.9320000000298023,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/easyprivacy.js",
+                  "mainThreadTime": 0.6720000002533197,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/easyprivacy.js",
+                  "mainThreadTime": 0.5870000002905726,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/spa-1.js",
+                  "mainThreadTime": 0.48900000005960464,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/popup/ublock-filters.js",
+                  "mainThreadTime": 0.4680000003427267,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/ublock-badware.js",
+                  "mainThreadTime": 0.4560000002384186,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/ublock-badware.js",
+                  "mainThreadTime": 0.38100000005215406,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/js/scripting/css-api.js",
+                  "mainThreadTime": 0.2639999995008111,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/js/scripting/isolated-api.js",
+                  "mainThreadTime": 0.25699999928474426,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/popup/spa-0.js",
+                  "mainThreadTime": 0.14599999971687794,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/scriptlet-end.js",
+                  "mainThreadTime": 0.13299999944865704,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/ublock-filters.js",
+                  "mainThreadTime": 0.12600000016391277,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/scriptlet-end.js",
+                  "mainThreadTime": 0.12100000027567148,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/js/scripting/prevent-popup-target.js",
+                  "mainThreadTime": 0.10199999995529652,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/easylist.js",
+                  "mainThreadTime": 0.09999999962747097,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/popup/spa-1.js",
+                  "mainThreadTime": 0.0989999994635582,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/spa-1.js",
+                  "mainThreadTime": 0.0970000009983778,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/ublock-badware.js",
+                  "mainThreadTime": 0.09200000017881393,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/spa-0.js",
+                  "mainThreadTime": 0.08900000061839819,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/specific/easyprivacy.js",
+                  "mainThreadTime": 0.08799999952316284,
+                  "transferSize": 0
+                }
+              ]
+            }
+          },
+          {
+            "entity": "trustindex.io",
+            "mainThreadTime": 5.998000000603497,
+            "transferSize": 25749,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "https://cdn.trustindex.io/loader.js?ver=1",
+                  "mainThreadTime": 5.998000000603497,
+                  "transferSize": 25749
+                }
+              ]
+            }
+          },
+          {
+            "entity": "elfsightcdn.com",
+            "mainThreadTime": 4.24000000115484,
+            "transferSize": 15526,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "https://elfsightcdn.com/platform.js",
+                  "mainThreadTime": 4.24000000115484,
+                  "transferSize": 15526
+                }
+              ]
+            }
+          },
+          {
+            "entity": "kejbdjndbnbjgmefkgdddjlbokphdefk",
+            "mainThreadTime": 3.4950000010430813,
+            "transferSize": 0,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/cs/ta/content_script_bin.js",
+                  "mainThreadTime": 2.098000000230968,
+                  "transferSize": 0
+                },
+                {
+                  "url": "chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/cs/ta/tag_assistant_api_bin.js",
+                  "mainThreadTime": 1.3970000008121133,
+                  "transferSize": 0
+                }
+              ]
+            }
+          },
+          {
+            "entity": "JSDelivr CDN",
+            "mainThreadTime": 2.510000000707805,
+            "transferSize": 122860,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/intlTelInput.min.js",
+                  "mainThreadTime": 2.510000000707805,
+                  "transferSize": 16520
+                },
+                {
+                  "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/utils.js",
+                  "mainThreadTime": 0,
+                  "transferSize": 63565
+                },
+                {
+                  "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/img/flags.webp",
+                  "mainThreadTime": 0,
+                  "transferSize": 39042
+                },
+                {
+                  "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/css/intlTelInput.css",
+                  "mainThreadTime": 0,
+                  "transferSize": 3733
+                }
+              ]
+            }
+          },
+          {
+            "entity": "Ipify",
+            "mainThreadTime": 0,
+            "transferSize": 146,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "https://api64.ipify.org/?format=json",
+                  "mainThreadTime": 0,
+                  "transferSize": 146
+                }
+              ]
+            }
+          },
+          {
+            "entity": "ipinfo.io",
+            "mainThreadTime": 0,
+            "transferSize": 435,
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "url": "https://ipinfo.io/2800:e2:2c80:79:7133:6c92:7943:ba78/json",
+                  "mainThreadTime": 0,
+                  "transferSize": 435
+                }
+              ]
+            }
+          }
+        ],
+        "isEntityGrouped": true
+      }
+    },
+    "unused-css-rules": {
+      "title": "Reduce unused CSS",
+      "score": 1,
+      "displayValue": "",
+      "numericValue": 0,
+      "details": {
+        "type": "opportunity",
+        "headings": [],
+        "items": [],
+        "overallSavingsMs": 0,
+        "overallSavingsBytes": 0,
+        "sortedBy": [
+          "wastedBytes"
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "metricSavings": {
+            "FCP": 0,
+            "LCP": 0
+          }
+        }
+      }
+    },
+    "unused-javascript": {
+      "title": "Reduce unused JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 183 KiB",
+      "numericValue": 0,
+      "details": {
+        "type": "opportunity",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "subItemsHeading": {
+              "key": "source",
+              "valueType": "code"
+            },
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "subItemsHeading": {
+              "key": "sourceBytes"
+            },
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedBytes",
+            "valueType": "bytes",
+            "subItemsHeading": {
+              "key": "sourceWastedBytes"
+            },
+            "label": "Est Savings"
+          }
+        ],
+        "items": [
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/ad-blocker/content.js",
+            "totalBytes": 80406,
+            "wastedBytes": 66097,
+            "wastedPercent": 82.2035985159405
+          },
+          {
+            "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/scriptlet-begin.js",
+            "totalBytes": 62195,
+            "wastedBytes": 58640,
+            "wastedPercent": 94.28453183778936
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/processor.js",
+            "totalBytes": 75331,
+            "wastedBytes": 32860,
+            "wastedPercent": 43.621071076552404
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/app/chatbot.js?ver=1790199070",
+            "totalBytes": 65761,
+            "wastedBytes": 30181,
+            "wastedPercent": 45.895292462591996
+          }
+        ],
+        "overallSavingsMs": 0,
+        "overallSavingsBytes": 187778,
+        "sortedBy": [
+          "wastedBytes"
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "metricSavings": {
+            "FCP": 0,
+            "LCP": 0
+          }
+        }
+      }
+    },
+    "font-display-insight": {
+      "title": "Font display",
+      "score": 1,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "wastedMs",
+            "valueType": "ms",
+            "label": "Est Savings"
+          }
+        ],
+        "items": [],
+        "skipSumming": [
+          "wastedMs"
+        ]
+      }
+    },
+    "dom-size-insight": {
+      "title": "Optimize DOM size",
+      "score": 1,
+      "numericValue": 1055,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "statistic",
+            "valueType": "text",
+            "label": "Statistic"
+          },
+          {
+            "key": "node",
+            "valueType": "node",
+            "label": "Element"
+          },
+          {
+            "key": "value",
+            "valueType": "numeric",
+            "label": "Value"
+          }
+        ],
+        "items": [
+          {
+            "statistic": "Total elements",
+            "value": {
+              "type": "numeric",
+              "granularity": 1,
+              "value": 1055
+            }
+          },
+          {
+            "statistic": "DOM depth",
+            "node": {
+              "type": "node",
+              "lhId": "page-36-TIME",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,A,1,DIV,0,DIV,1,DIV,0,UL,0,LI,0,SPAN,0,TIME",
+              "selector": "ul.elementor-inline-items > li.elementor-icon-list-item > span.elementor-icon-list-text > time",
+              "boundingRect": {
+                "top": 4180,
+                "bottom": 4199,
+                "left": 373,
+                "right": 479,
+                "width": 107,
+                "height": 19
+              },
+              "snippet": "<time>",
+              "nodeLabel": "August 28, 2026"
+            },
+            "value": {
+              "type": "numeric",
+              "granularity": 1,
+              "value": 19
+            }
+          },
+          {
+            "statistic": "Most children",
+            "node": {
+              "type": "node",
+              "lhId": "page-35-BODY",
+              "path": "1,HTML,4,BODY",
+              "selector": "body.home",
+              "boundingRect": {
+                "top": 0,
+                "bottom": 7265,
+                "left": 0,
+                "right": 1905,
+                "width": 1905,
+                "height": 7265
+              },
+              "snippet": "<body class=\"home wp-singular page-template-default page page-id-7 wp-custom-logo wp-em…\" __processed_57167e29-3db4-431a-9e06-6c125c0d026b__=\"true\" bis_register=\"W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaW…\" data-elementor-device-mode=\"desktop\">",
+              "nodeLabel": "body.home"
+            },
+            "value": {
+              "type": "numeric",
+              "granularity": 1,
+              "value": 36
+            }
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "totalElements": 1055,
+          "maxChildren": 36,
+          "maxDepth": 19
+        }
+      }
+    },
+    "mainthread-work-breakdown": {
+      "title": "Minimizes main-thread work",
+      "score": 1,
+      "displayValue": "1.0 s",
+      "numericValue": 951.2879999999934,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "groupLabel",
+            "valueType": "text",
+            "label": "Category"
+          },
+          {
+            "key": "duration",
+            "valueType": "ms",
+            "granularity": 1,
+            "label": "Time Spent"
+          }
+        ],
+        "items": [
+          {
+            "group": "scriptEvaluation",
+            "groupLabel": "Script Evaluation",
+            "duration": 383.5449999999966
+          },
+          {
+            "group": "other",
+            "groupLabel": "Other",
+            "duration": 234.7989999999967
+          },
+          {
+            "group": "styleLayout",
+            "groupLabel": "Style & Layout",
+            "duration": 145.26700000000002
+          },
+          {
+            "group": "scriptParseCompile",
+            "groupLabel": "Script Parsing & Compilation",
+            "duration": 123.35500000000016
+          },
+          {
+            "group": "parseHTML",
+            "groupLabel": "Parse HTML & CSS",
+            "duration": 33.626
+          },
+          {
+            "group": "paintCompositeRender",
+            "groupLabel": "Rendering",
+            "duration": 28.84300000000001
+          },
+          {
+            "group": "garbageCollection",
+            "groupLabel": "Garbage Collection",
+            "duration": 1.8529999999999998
+          }
+        ],
+        "sortedBy": [
+          "duration"
+        ]
+      }
+    },
+    "bootup-time": {
+      "title": "JavaScript execution time",
+      "score": 1,
+      "displayValue": "0.3 s",
+      "numericValue": 333.3790000000006,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "total",
+            "granularity": 1,
+            "valueType": "ms",
+            "label": "Total CPU Time"
+          },
+          {
+            "key": "scripting",
+            "granularity": 1,
+            "valueType": "ms",
+            "label": "Script Evaluation"
+          },
+          {
+            "key": "scriptParseCompile",
+            "granularity": 1,
+            "valueType": "ms",
+            "label": "Script Parse"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://abc16946.sg-host.com/",
+            "total": 430.78499999999985,
+            "scripting": 79.81999999999985,
+            "scriptParseCompile": 94.67800000000001
+          },
+          {
+            "url": "Unattributable",
+            "total": 167.20400000000006,
+            "scripting": 29.66100000000002,
+            "scriptParseCompile": 0
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+            "total": 143.0800000000007,
+            "scripting": 127.40400000000072,
+            "scriptParseCompile": 1.816
+          }
+        ],
+        "summary": {
+          "wastedMs": 333.3790000000006
+        },
+        "sortedBy": [
+          "total"
+        ]
+      }
+    },
+    "network-requests": {
+      "title": "Network Requests",
+      "score": 1,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "protocol",
+            "valueType": "text",
+            "label": "Protocol"
+          },
+          {
+            "key": "networkRequestTime",
+            "valueType": "ms",
+            "granularity": 1,
+            "label": "Network Request Time"
+          },
+          {
+            "key": "networkEndTime",
+            "valueType": "ms",
+            "granularity": 1,
+            "label": "Network End Time"
+          },
+          {
+            "key": "transferSize",
+            "valueType": "bytes",
+            "displayUnit": "kb",
+            "granularity": 1,
+            "label": "Transfer Size"
+          },
+          {
+            "key": "resourceSize",
+            "valueType": "bytes",
+            "displayUnit": "kb",
+            "granularity": 1,
+            "label": "Resource Size"
+          },
+          {
+            "key": "statusCode",
+            "valueType": "text",
+            "label": "Status Code"
+          },
+          {
+            "key": "mimeType",
+            "valueType": "text",
+            "label": "MIME Type"
+          },
+          {
+            "key": "resourceType",
+            "valueType": "text",
+            "label": "Resource Type"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://abc16946.sg-host.com/",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 0,
+            "networkRequestTime": 1.5009999992325902,
+            "networkEndTime": 223.47499999962747,
+            "finished": true,
+            "transferSize": 37054,
+            "resourceSize": 239078,
+            "statusCode": 200,
+            "mimeType": "text/html",
+            "resourceType": "Document",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 250.4439999992028,
+            "networkRequestTime": 264.80299999937415,
+            "networkEndTime": 380.9249999988824,
+            "finished": true,
+            "transferSize": 31207,
+            "resourceSize": 30948,
+            "statusCode": 200,
+            "mimeType": "font/woff2",
+            "resourceType": "Font",
+            "priority": "High",
+            "isLinkPreload": true,
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 250.75999999977648,
+            "networkRequestTime": 267.6579999998212,
+            "networkEndTime": 471.7819999996573,
+            "finished": true,
+            "transferSize": 39420,
+            "resourceSize": 39152,
+            "statusCode": 200,
+            "mimeType": "font/woff2",
+            "resourceType": "Font",
+            "priority": "High",
+            "isLinkPreload": true,
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 250.8549999985844,
+            "networkRequestTime": 267.8649999992922,
+            "networkEndTime": 479.81399999931455,
+            "finished": true,
+            "transferSize": 32940,
+            "resourceSize": 32681,
+            "statusCode": 200,
+            "mimeType": "image/jpeg",
+            "resourceType": "Image",
+            "priority": "High",
+            "isLinkPreload": true,
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.0699999993667,
+            "networkRequestTime": 268.38399999961257,
+            "networkEndTime": 385.3219999996945,
+            "finished": true,
+            "transferSize": 1825,
+            "resourceSize": 5497,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.25899999961257,
+            "networkRequestTime": 268.5729999989271,
+            "networkEndTime": 406.261999999173,
+            "finished": true,
+            "transferSize": 1367,
+            "resourceSize": 5098,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.3659999994561,
+            "networkRequestTime": 268.9329999992624,
+            "networkEndTime": 406.50599999912083,
+            "finished": true,
+            "transferSize": 1497,
+            "resourceSize": 7183,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.46299999952316,
+            "networkRequestTime": 269.2159999990836,
+            "networkEndTime": 485.55399999953806,
+            "finished": true,
+            "transferSize": 6800,
+            "resourceSize": 54666,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-5.css?ver=1792449488",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.6029999991879,
+            "networkRequestTime": 269.4329999992624,
+            "networkEndTime": 563.8569999998435,
+            "finished": true,
+            "transferSize": 860,
+            "resourceSize": 2028,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.69699999969453,
+            "networkRequestTime": 269.74599999934435,
+            "networkEndTime": 565.4209999991581,
+            "finished": true,
+            "transferSize": 1167,
+            "resourceSize": 10255,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.76899999938905,
+            "networkRequestTime": 269.90199999976903,
+            "networkEndTime": 566.3559999987483,
+            "finished": true,
+            "transferSize": 333,
+            "resourceSize": 214,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-nav-menu.min.css?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.8300000000745,
+            "networkRequestTime": 270.20199999958277,
+            "networkEndTime": 567.4929999988526,
+            "finished": true,
+            "transferSize": 3445,
+            "resourceSize": 27363,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.91199999954551,
+            "networkRequestTime": 270.4069999996573,
+            "networkEndTime": 567.7049999991432,
+            "finished": true,
+            "transferSize": 364,
+            "resourceSize": 560,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 251.9699999988079,
+            "networkRequestTime": 270.6059999996796,
+            "networkEndTime": 567.8999999994412,
+            "finished": true,
+            "transferSize": 1643,
+            "resourceSize": 6797,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.04499999899417,
+            "networkRequestTime": 270.9109999993816,
+            "networkEndTime": 568.0989999994636,
+            "finished": true,
+            "transferSize": 947,
+            "resourceSize": 5206,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-common.min.css?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.11199999973178,
+            "networkRequestTime": 271.06499999947846,
+            "networkEndTime": 571.4429999990389,
+            "finished": true,
+            "transferSize": 357,
+            "resourceSize": 207,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-loop-grid.min.css?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.18999999947846,
+            "networkRequestTime": 271.3319999985397,
+            "networkEndTime": 571.9759999988601,
+            "finished": true,
+            "transferSize": 1353,
+            "resourceSize": 13218,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-7.css?ver=1792449489",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.32299999892712,
+            "networkRequestTime": 271.56299999915063,
+            "networkEndTime": 572.2649999996647,
+            "finished": true,
+            "transferSize": 3877,
+            "resourceSize": 45874,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6ad69bd127e95",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.40399999916553,
+            "networkRequestTime": 271.78999999910593,
+            "networkEndTime": 572.4729999992996,
+            "finished": true,
+            "transferSize": 1282,
+            "resourceSize": 5573,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-16-frontend-desktop.css?ver=6ad69bd128816",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.4879999998957,
+            "networkRequestTime": 272.0349999992177,
+            "networkEndTime": 572.6399999987334,
+            "finished": true,
+            "transferSize": 686,
+            "resourceSize": 1562,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-53-frontend-desktop.css?ver=6ad69bd128a29",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.57799999881536,
+            "networkRequestTime": 272.3189999992028,
+            "networkEndTime": 572.831999999471,
+            "finished": true,
+            "transferSize": 682,
+            "resourceSize": 1570,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.64399999938905,
+            "networkRequestTime": 272.51999999955297,
+            "networkEndTime": 573.019999999553,
+            "finished": true,
+            "transferSize": 1768,
+            "resourceSize": 8316,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-312-frontend-desktop.css?ver=6ad69bd128e28",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.70099999941885,
+            "networkRequestTime": 272.7629999993369,
+            "networkEndTime": 573.2119999993593,
+            "finished": true,
+            "transferSize": 364,
+            "resourceSize": 310,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-16.css?ver=1792449489",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.7659999988973,
+            "networkRequestTime": 272.93999999947846,
+            "networkEndTime": 573.4129999997094,
+            "finished": true,
+            "transferSize": 1031,
+            "resourceSize": 4794,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-53.css?ver=1792449489",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.82999999914318,
+            "networkRequestTime": 273.1409999988973,
+            "networkEndTime": 573.6339999986812,
+            "finished": true,
+            "transferSize": 986,
+            "resourceSize": 8310,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryHigh",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 252.91599999926984,
+            "networkRequestTime": 273.4639999996871,
+            "networkEndTime": 574.4739999994636,
+            "finished": true,
+            "transferSize": 29872,
+            "resourceSize": 87553,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.00599999912083,
+            "networkRequestTime": 273.6629999997094,
+            "networkEndTime": 590.5619999989867,
+            "finished": true,
+            "transferSize": 4925,
+            "resourceSize": 13577,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/saber-college.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.06199999898672,
+            "networkRequestTime": 273.9599999990314,
+            "networkEndTime": 590.8529999991879,
+            "finished": true,
+            "transferSize": 32459,
+            "resourceSize": 32200,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/css/intlTelInput.css",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.16500000003725,
+            "networkRequestTime": 274.1820000000298,
+            "networkEndTime": 314.2730000000447,
+            "finished": true,
+            "transferSize": 3733,
+            "resourceSize": 15545,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "JSDelivr CDN"
+          },
+          {
+            "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/intlTelInput.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.24499999918044,
+            "networkRequestTime": 274.4709999989718,
+            "networkEndTime": 320.29099999926984,
+            "finished": true,
+            "transferSize": 16520,
+            "resourceSize": 45592,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "JSDelivr CDN"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-1024x1024.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.3179999999702,
+            "networkRequestTime": 431.32299999985844,
+            "networkEndTime": 658.2469999985769,
+            "finished": true,
+            "transferSize": 93550,
+            "resourceSize": 93218,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/185371858.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.38299999851733,
+            "networkRequestTime": 431.74599999934435,
+            "networkEndTime": 664.7439999990165,
+            "finished": true,
+            "transferSize": 6169,
+            "resourceSize": 5938,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/img_Nurse2-1024x572.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.4589999988675,
+            "networkRequestTime": 599.8829999994487,
+            "networkEndTime": 707.8779999995604,
+            "finished": true,
+            "transferSize": 94780,
+            "resourceSize": 94448,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-nurse-banner-call-to-action.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.53099999856204,
+            "networkRequestTime": 600.2749999994412,
+            "networkEndTime": 756.3379999995232,
+            "finished": true,
+            "transferSize": 122134,
+            "resourceSize": 121774,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://elfsightcdn.com/platform.js",
+            "sessionTargetType": "page",
+            "protocol": "h3",
+            "cache": "none",
+            "rendererStartTime": 253.6589999999851,
+            "networkRequestTime": 609.527999999933,
+            "networkEndTime": 1080.1129999998957,
+            "finished": true,
+            "transferSize": 15526,
+            "resourceSize": 44147,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "elfsightcdn.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/sabi-saber-college.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.74699999950826,
+            "networkRequestTime": 610.125,
+            "networkEndTime": 815.0109999990091,
+            "finished": true,
+            "transferSize": 13211,
+            "resourceSize": 12970,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/CNEA.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.8179999999702,
+            "networkRequestTime": 610.351999999024,
+            "networkEndTime": 815.296999999322,
+            "finished": true,
+            "transferSize": 15613,
+            "resourceSize": 15372,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/COE.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.89599999971688,
+            "networkRequestTime": 610.6339999996126,
+            "networkEndTime": 820.5669999998063,
+            "finished": true,
+            "transferSize": 23778,
+            "resourceSize": 23528,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/BON.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 253.9589999988675,
+            "networkRequestTime": 610.7949999989942,
+            "networkEndTime": 821.0319999996573,
+            "finished": true,
+            "transferSize": 16642,
+            "resourceSize": 16392,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/cie-florida-white.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.03899999894202,
+            "networkRequestTime": 611.1199999991804,
+            "networkEndTime": 821.3989999992773,
+            "finished": true,
+            "transferSize": 16601,
+            "resourceSize": 16360,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/themes/timeless.css?ver=1790199070",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.1049999995157,
+            "networkRequestTime": 600.5679999990389,
+            "networkEndTime": 759.4789999993518,
+            "finished": true,
+            "transferSize": 15679,
+            "resourceSize": 136226,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/css/widget-post-info.min.css?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.171999999322,
+            "networkRequestTime": 600.886999999173,
+            "networkEndTime": 759.9780000001192,
+            "finished": true,
+            "transferSize": 399,
+            "resourceSize": 559,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.24199999962002,
+            "networkRequestTime": 601.2469999995083,
+            "networkEndTime": 760.1689999997616,
+            "finished": true,
+            "transferSize": 741,
+            "resourceSize": 1830,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.31199999991804,
+            "networkRequestTime": 601.8899999996647,
+            "networkEndTime": 763.2119999993593,
+            "finished": true,
+            "transferSize": 2583,
+            "resourceSize": 5819,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.37999999895692,
+            "networkRequestTime": 602.6049999995157,
+            "networkEndTime": 763.785000000149,
+            "finished": true,
+            "transferSize": 15583,
+            "resourceSize": 50602,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.43899999931455,
+            "networkRequestTime": 603.0079999994487,
+            "networkEndTime": 764.1599999992177,
+            "finished": true,
+            "transferSize": 6507,
+            "resourceSize": 18674,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.2",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.50299999956042,
+            "networkRequestTime": 604.9519999995828,
+            "networkEndTime": 764.5059999991208,
+            "finished": true,
+            "transferSize": 10348,
+            "resourceSize": 32098,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.56799999903888,
+            "networkRequestTime": 605.234999999404,
+            "networkEndTime": 774.4939999990165,
+            "finished": true,
+            "transferSize": 7079,
+            "resourceSize": 24112,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.62899999972433,
+            "networkRequestTime": 605.5979999992996,
+            "networkEndTime": 774.7679999992251,
+            "finished": true,
+            "transferSize": 1935,
+            "resourceSize": 5520,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.6939999992028,
+            "networkRequestTime": 605.7719999998808,
+            "networkEndTime": 775.0919999992475,
+            "finished": true,
+            "transferSize": 4362,
+            "resourceSize": 10751,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.7519999993965,
+            "networkRequestTime": 605.9309999998659,
+            "networkEndTime": 781.8709999993443,
+            "finished": true,
+            "transferSize": 41001,
+            "resourceSize": 131835,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/escape-html.min.js?ver=87ebe53e97bba59805a5",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.8089999994263,
+            "networkRequestTime": 606.0549999987707,
+            "networkEndTime": 782.198999999091,
+            "finished": true,
+            "transferSize": 809,
+            "resourceSize": 1158,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/element.min.js?ver=4a4370b2b349066fd440",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 254.87199999950826,
+            "networkRequestTime": 606.4189999997616,
+            "networkEndTime": 782.484999999404,
+            "finished": true,
+            "transferSize": 5260,
+            "resourceSize": 12468,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/app/chatbot.js?ver=1790199070",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 255.10099999979138,
+            "networkRequestTime": 606.9869999997318,
+            "networkEndTime": 804.4919999986887,
+            "finished": true,
+            "transferSize": 98571,
+            "resourceSize": 344262,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://cdn.trustindex.io/loader.js?ver=1",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 255.25699999928474,
+            "networkRequestTime": 611.3519999999553,
+            "networkEndTime": 664.1869999989867,
+            "finished": true,
+            "transferSize": 25749,
+            "resourceSize": 98848,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "trustindex.io"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 255.46899999957532,
+            "networkRequestTime": 607.1639999998733,
+            "networkEndTime": 807.268999999389,
+            "finished": true,
+            "transferSize": 2858,
+            "resourceSize": 6242,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 255.78899999987334,
+            "networkRequestTime": 607.3109999997541,
+            "networkEndTime": 807.5689999992028,
+            "finished": true,
+            "transferSize": 2007,
+            "resourceSize": 5107,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 255.94199999980628,
+            "networkRequestTime": 607.597000000067,
+            "networkEndTime": 807.7789999991655,
+            "finished": true,
+            "transferSize": 2628,
+            "resourceSize": 5791,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 256.0359999993816,
+            "networkRequestTime": 608.7399999992922,
+            "networkEndTime": 808.0519999992102,
+            "finished": true,
+            "transferSize": 6428,
+            "resourceSize": 23939,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=4.1.0",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 256.09999999962747,
+            "networkRequestTime": 609.1899999994785,
+            "networkEndTime": 813.0829999996349,
+            "finished": true,
+            "transferSize": 10296,
+            "resourceSize": 43922,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Medium",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 376.1599999992177,
+            "networkRequestTime": 376.1599999992177,
+            "networkEndTime": 378.65499999932945,
+            "finished": true,
+            "transferSize": 2255,
+            "resourceSize": 2255,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Urban VPN Proxy"
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 376.89299999922514,
+            "networkRequestTime": 376.89299999922514,
+            "networkEndTime": 379.0319999996573,
+            "finished": true,
+            "transferSize": 5311,
+            "resourceSize": 5311,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Urban VPN Proxy"
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 413.1619999995455,
+            "networkRequestTime": 413.1619999995455,
+            "networkEndTime": 415.85699999984354,
+            "finished": true,
+            "transferSize": 6630,
+            "resourceSize": 6630,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Urban VPN Proxy"
+          },
+          {
+            "url": "chrome-extension://kejbdjndbnbjgmefkgdddjlbokphdefk/cs/ta/tag_assistant_api_bin.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 420.8649999992922,
+            "networkRequestTime": 420.8649999992922,
+            "networkEndTime": 424.179999999702,
+            "finished": true,
+            "transferSize": 13326,
+            "resourceSize": 13326,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Tag Assistant"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/base-mobile.css?ver=6ad69bd127e95",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 422.57400000002235,
+            "networkRequestTime": 611.5849999990314,
+            "networkEndTime": 821.6929999990389,
+            "finished": true,
+            "transferSize": 310,
+            "resourceSize": 87,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryLow",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-16-frontend-mobile.css?ver=6ad69bd128816",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 422.6919999998063,
+            "networkRequestTime": 612.0299999993294,
+            "networkEndTime": 822.019999999553,
+            "finished": true,
+            "transferSize": 355,
+            "resourceSize": 249,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryLow",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-53-frontend-mobile.css?ver=6ad69bd128a29",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 422.7729999991134,
+            "networkRequestTime": 612.3299999991432,
+            "networkEndTime": 822.4679999994114,
+            "finished": true,
+            "transferSize": 365,
+            "resourceSize": 298,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryLow",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-mobile.css?ver=6ad69bd128c9a",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 422.84999999962747,
+            "networkRequestTime": 612.5579999992624,
+            "networkEndTime": 822.7289999993518,
+            "finished": true,
+            "transferSize": 576,
+            "resourceSize": 1184,
+            "statusCode": 200,
+            "mimeType": "text/css",
+            "resourceType": "Stylesheet",
+            "priority": "VeryLow",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/200.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 452.2309999987483,
+            "networkRequestTime": 452.2309999987483,
+            "networkEndTime": 454.31299999915063,
+            "finished": true,
+            "transferSize": 2761,
+            "resourceSize": 2761,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Urban VPN Proxy"
+          },
+          {
+            "url": "chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/executors/101.js",
+            "sessionTargetType": "page",
+            "protocol": "chrome-extension",
+            "cache": "none",
+            "rendererStartTime": 453.97199999913573,
+            "networkRequestTime": 453.97199999913573,
+            "networkEndTime": 457.1699999989942,
+            "finished": true,
+            "transferSize": 3667,
+            "resourceSize": 3667,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "Urban VPN Proxy"
+          },
+          {
+            "url": "https://api64.ipify.org/?format=json",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 602.7549999998882,
+            "networkRequestTime": 613.6499999985099,
+            "networkEndTime": 1074.9049999993294,
+            "finished": true,
+            "transferSize": 146,
+            "resourceSize": 44,
+            "statusCode": 200,
+            "mimeType": "application/json",
+            "resourceType": "Fetch",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "Ipify"
+          },
+          {
+            "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/img/flags.webp",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 657.4389999993145,
+            "networkRequestTime": 658.5559999989346,
+            "networkEndTime": 681.3229999998584,
+            "finished": true,
+            "transferSize": 39042,
+            "resourceSize": 38636,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "JSDelivr CDN"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/call_lKJ4lRMzKDwgMzLXVhEeMFWG.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 666.9869999988005,
+            "networkRequestTime": 668.2359999995679,
+            "networkEndTime": 822.9259999990463,
+            "finished": true,
+            "transferSize": 17552,
+            "resourceSize": 17302,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/The-BridgeNurse-A_Land-1024x576.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 667.8269999986514,
+            "networkRequestTime": 668.8759999992326,
+            "networkEndTime": 867.0069999992847,
+            "finished": true,
+            "transferSize": 56304,
+            "resourceSize": 56018,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/Saber_PTA_11jun_Land-1024x576.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 669.3999999994412,
+            "networkRequestTime": 671.1259999992326,
+            "networkEndTime": 870.8959999987856,
+            "finished": true,
+            "transferSize": 40124,
+            "resourceSize": 39856,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/call_FB4Bt31w20xpQ6iPYUHKeIgI.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 703.2929999995977,
+            "networkRequestTime": 704.3099999995902,
+            "networkEndTime": 874.2609999999404,
+            "finished": true,
+            "transferSize": 47943,
+            "resourceSize": 47666,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/call_1BXzmQ66IcvZKJQrMDe2mG1f.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 705.9619999993593,
+            "networkRequestTime": 706.8489999994636,
+            "networkEndTime": 877.698999999091,
+            "finished": true,
+            "transferSize": 98665,
+            "resourceSize": 98324,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/SABER_Blog-_PTA_AGO26-e1787860862637.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 706.6399999987334,
+            "networkRequestTime": 707.3709999993443,
+            "networkEndTime": 903.6399999987334,
+            "finished": true,
+            "transferSize": 264026,
+            "resourceSize": 263504,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/SABER-College_mascot_brand-scaled-1.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 707.4129999997094,
+            "networkRequestTime": 708.2129999995232,
+            "networkEndTime": 921.651999999769,
+            "finished": true,
+            "transferSize": 94818,
+            "resourceSize": 94486,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/lanzamiento-sabri_vertv2.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 707.781999998726,
+            "networkRequestTime": 708.5679999999702,
+            "networkEndTime": 930.9529999997467,
+            "finished": true,
+            "transferSize": 256923,
+            "resourceSize": 256410,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/help-venezuela.jpg",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 708.1189999999478,
+            "networkRequestTime": 710.296999999322,
+            "networkEndTime": 987.3029999993742,
+            "finished": true,
+            "transferSize": 465170,
+            "resourceSize": 464432,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/backgrounnd-banner-call-to-action-1024x576.jpg",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 709.2879999997094,
+            "networkRequestTime": 711.3339999988675,
+            "networkEndTime": 981.2659999998286,
+            "finished": true,
+            "transferSize": 53691,
+            "resourceSize": 53405,
+            "statusCode": 200,
+            "mimeType": "image/jpeg",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/saber-design-system/saber-path-light-v02.svg",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 712.948999999091,
+            "networkRequestTime": 714.2999999988824,
+            "networkEndTime": 981.5139999995008,
+            "finished": true,
+            "transferSize": 726,
+            "resourceSize": 1036,
+            "statusCode": 200,
+            "mimeType": "image/svg+xml",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/saber-design-system/saber-path-navy-v02.svg",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 713.3459999989718,
+            "networkRequestTime": 714.8529999991879,
+            "networkEndTime": 981.7429999988526,
+            "finished": true,
+            "transferSize": 574,
+            "resourceSize": 701,
+            "statusCode": 200,
+            "mimeType": "image/svg+xml",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/Saber_Nursing_23JunLand_PTA-1.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 763.6119999997318,
+            "networkRequestTime": 765.4769999999553,
+            "networkEndTime": 991.4799999995157,
+            "finished": true,
+            "transferSize": 104642,
+            "resourceSize": 104300,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "blob:https://abc16946.sg-host.com/aa47ab50-733e-46a2-94c5-7090ac870c24",
+            "sessionTargetType": "worker",
+            "protocol": "blob",
+            "cache": "none",
+            "rendererStartTime": 914.5729999998584,
+            "networkRequestTime": 914.5729999998584,
+            "networkEndTime": 1179.3469999991357,
+            "finished": true,
+            "transferSize": -1,
+            "resourceSize": 1327,
+            "statusCode": 200,
+            "mimeType": "text/javascript",
+            "resourceType": "Script",
+            "priority": "VeryLow"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/chat-sabi-square-notification.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1008.3199999993667,
+            "networkRequestTime": 1009.2609999999404,
+            "networkEndTime": 1108.2449999991804,
+            "finished": true,
+            "transferSize": 13855,
+            "resourceSize": 13614,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/chat-sabi-square.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1008.4889999991283,
+            "networkRequestTime": 1010.2599999997765,
+            "networkEndTime": 1112.2679999992251,
+            "finished": true,
+            "transferSize": 13423,
+            "resourceSize": 13182,
+            "statusCode": 200,
+            "mimeType": "image/webp",
+            "resourceType": "Image",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/nav-menu.3afa8f5eb1fef7c22561.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1017.7679999992251,
+            "networkRequestTime": 1018.7869999995455,
+            "networkEndTime": 1115.6499999994412,
+            "finished": true,
+            "transferSize": 1963,
+            "resourceSize": 5227,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/form.cfd61a9174be80f835c6.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1021.4879999989644,
+            "networkRequestTime": 1022.4909999994561,
+            "networkEndTime": 1121.7229999992996,
+            "finished": true,
+            "transferSize": 5160,
+            "resourceSize": 19710,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/popup.61d4fcab8891b2e07802.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1022.1489999992773,
+            "networkRequestTime": 1023.0359999993816,
+            "networkEndTime": 1124.0499999988824,
+            "finished": true,
+            "transferSize": 636,
+            "resourceSize": 746,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/nested-accordion.294d40984397351fd0f5.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1032.6829999992624,
+            "networkRequestTime": 1033.686999999918,
+            "networkEndTime": 1128.143999999389,
+            "finished": true,
+            "transferSize": 2962,
+            "resourceSize": 9761,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1034.0429999995977,
+            "networkRequestTime": 1035.0509999990463,
+            "networkEndTime": 1133.5229999991134,
+            "finished": true,
+            "transferSize": 2745,
+            "resourceSize": 8481,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/load-more.7c4417f8a727b79f546f.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1054.0789999989793,
+            "networkRequestTime": 1055.1969999996945,
+            "networkEndTime": 1152.73399999924,
+            "finished": true,
+            "transferSize": 1721,
+            "resourceSize": 5329,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/loop.1594a1df76e87a11eda2.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1054.6399999987334,
+            "networkRequestTime": 1056.0599999995902,
+            "networkEndTime": 1157.0599999995902,
+            "finished": true,
+            "transferSize": 3261,
+            "resourceSize": 8803,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/pro-elements/assets/js/ajax-pagination.505018eb312c83998279.bundle.min.js",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1055.1459999997169,
+            "networkRequestTime": 1058.206999999471,
+            "networkEndTime": 1157.341000000015,
+            "finished": true,
+            "transferSize": 1333,
+            "resourceSize": 2798,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://ipinfo.io/2800:e2:2c80:79:7133:6c92:7943:ba78/json",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1106.0959999989718,
+            "networkRequestTime": 1107.3379999995232,
+            "networkEndTime": 1526.3289999989793,
+            "finished": true,
+            "transferSize": 435,
+            "resourceSize": 295,
+            "statusCode": 200,
+            "mimeType": "application/json",
+            "resourceType": "Fetch",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "ipinfo.io"
+          },
+          {
+            "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/utils.js",
+            "sessionTargetType": "page",
+            "protocol": "h3",
+            "cache": "none",
+            "rendererStartTime": 1178.0699999993667,
+            "networkRequestTime": 1180.1359999999404,
+            "networkEndTime": 1447.5509999990463,
+            "finished": true,
+            "transferSize": 63565,
+            "resourceSize": 268518,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "JSDelivr CDN"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1193.3349999999627,
+            "networkRequestTime": 1194.5689999992028,
+            "networkEndTime": 1293.6189999999478,
+            "finished": true,
+            "transferSize": 5197,
+            "resourceSize": 22752,
+            "statusCode": 200,
+            "mimeType": "application/javascript",
+            "resourceType": "Script",
+            "priority": "Low",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          },
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/uploads/2026/08/cropped-saber-college-32x32.png",
+            "sessionTargetType": "page",
+            "protocol": "h2",
+            "cache": "none",
+            "rendererStartTime": 1203.0529999984428,
+            "networkRequestTime": 1204.9329999992624,
+            "networkEndTime": 1300.742999999784,
+            "finished": true,
+            "transferSize": 2247,
+            "resourceSize": 2018,
+            "statusCode": 200,
+            "mimeType": "image/png",
+            "resourceType": "Other",
+            "priority": "High",
+            "experimentalFromMainFrame": true,
+            "entity": "sg-host.com"
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "networkStartTimeTs": 7983935271.000001,
+          "initiators": [
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 6,
+              "columnNumber": 173
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 7,
+              "columnNumber": 167
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 8,
+              "columnNumber": 157
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 65,
+              "columnNumber": 163
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 66,
+              "columnNumber": 175
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 67,
+              "columnNumber": 185
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 68,
+              "columnNumber": 168
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 74,
+              "columnNumber": 158
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 75,
+              "columnNumber": 174
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 76,
+              "columnNumber": 166
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 77,
+              "columnNumber": 175
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 78,
+              "columnNumber": 170
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 79,
+              "columnNumber": 167
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 80,
+              "columnNumber": 188
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 81,
+              "columnNumber": 181
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 82,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 83,
+              "columnNumber": 158
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 84,
+              "columnNumber": 163
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 85,
+              "columnNumber": 189
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 86,
+              "columnNumber": 189
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 87,
+              "columnNumber": 187
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 88,
+              "columnNumber": 191
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 93,
+              "columnNumber": 160
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 94,
+              "columnNumber": 160
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 95,
+              "columnNumber": 109
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 96,
+              "columnNumber": 120
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 165,
+              "columnNumber": 405
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 719,
+              "columnNumber": 107
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 720,
+              "columnNumber": 93
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 943,
+              "columnNumber": 726
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1000,
+              "columnNumber": 487
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1127,
+              "columnNumber": 120
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1479,
+              "columnNumber": 765
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1499,
+              "columnNumber": 56
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1767,
+              "columnNumber": 433
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1918,
+              "columnNumber": 174
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1920,
+              "columnNumber": 211
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1922,
+              "columnNumber": 173
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1926,
+              "columnNumber": 187
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1985,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1986,
+              "columnNumber": 144
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1987,
+              "columnNumber": 149
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1988,
+              "columnNumber": 151
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1993,
+              "columnNumber": 114
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1998,
+              "columnNumber": 135
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1999,
+              "columnNumber": 151
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2000,
+              "columnNumber": 109
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2001,
+              "columnNumber": 110
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2002,
+              "columnNumber": 118
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2003,
+              "columnNumber": 130
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2004,
+              "columnNumber": 122
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2005,
+              "columnNumber": 123
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2006,
+              "columnNumber": 138
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2007,
+              "columnNumber": 160
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2008,
+              "columnNumber": 118
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2009,
+              "columnNumber": 116
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2018,
+              "columnNumber": 142
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 2019,
+              "columnNumber": 150
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 89,
+              "columnNumber": 175
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 90,
+              "columnNumber": 201
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 91,
+              "columnNumber": 201
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 92,
+              "columnNumber": 199
+            },
+            {
+              "type": "parser",
+              "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/css/intlTelInput.css"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/local-7-frontend-desktop.css?ver=6ad69bd128c9a"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-7.css?ver=1792449489"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/wp-content/uploads/elementor/css/post-7.css?ver=1792449489"
+            },
+            {
+              "type": "parser",
+              "url": "https://abc16946.sg-host.com/",
+              "lineNumber": 1984,
+              "columnNumber": 177
+            },
+            {
+              "type": "other",
+              "url": "https://abc16946.sg-host.com/"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "issueDetails": {
+    "aria-required-children": {
+      "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` are missing some or all of those required children.",
+      "score": 0,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "node",
+            "valueType": "node",
+            "subItemsHeading": {
+              "key": "relatedNode",
+              "valueType": "node"
+            },
+            "label": "Failing Elements"
+          }
+        ],
+        "items": [
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-0-DIV",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-widget-container > div.elementor-loop-container",
+              "boundingRect": {
+                "top": 3957,
+                "bottom": 4296,
+                "left": 373,
+                "right": 1533,
+                "width": 1160,
+                "height": 339
+              },
+              "snippet": "<div class=\"elementor-loop-container elementor-grid\" role=\"list\" bis_skin_checked=\"1\">",
+              "nodeLabel": "Why Study PTA at SABER College?\nAugust 28, 2026\nHow Sabi Was Born: Story Behind…",
+              "explanation": "Fix any of the following:\n  Element has children which are not allowed: a"
+            },
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "relatedNode": {
+                    "type": "node",
+                    "lhId": "1-1-A",
+                    "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,2,DIV,0,A",
+                    "selector": "div.elementor-widget-container > div.elementor-loop-container > div.elementor > a.elementor-element",
+                    "boundingRect": {
+                      "top": 3957,
+                      "bottom": 4230,
+                      "left": 373,
+                      "right": 640,
+                      "width": 268,
+                      "height": 273
+                    },
+                    "snippet": "<a class=\"elementor-element elementor-element-a2571c2 e-con e-atomic-element e-flexb…\" data-id=\"a2571c2\" data-element_type=\"e-flexbox\" data-e-type=\"e-flexbox\" data-interaction-id=\"a2571c2\" href=\"https://abc16946.sg-host.com/3779-2/\" target=\"_self\">",
+                    "nodeLabel": "Why Study PTA at SABER College?\nAugust 28, 2026"
+                  }
+                },
+                {
+                  "relatedNode": {
+                    "type": "node",
+                    "lhId": "1-2-A",
+                    "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,A",
+                    "selector": "div.elementor-widget-container > div.elementor-loop-container > div.elementor > a.elementor-element",
+                    "boundingRect": {
+                      "top": 3957,
+                      "bottom": 4252,
+                      "left": 670,
+                      "right": 938,
+                      "width": 268,
+                      "height": 295
+                    },
+                    "snippet": "<a class=\"elementor-element elementor-element-a2571c2 e-con e-atomic-element e-flexb…\" data-id=\"a2571c2\" data-element_type=\"e-flexbox\" data-e-type=\"e-flexbox\" data-interaction-id=\"a2571c2\" href=\"https://abc16946.sg-host.com/how-was-sabi-born-the-story-behind-our-mascot/\" target=\"_self\">",
+                    "nodeLabel": "How Sabi Was Born: Story Behind the SABER College Mascot\nAugust 28, 2026"
+                  }
+                },
+                {
+                  "relatedNode": {
+                    "type": "node",
+                    "lhId": "1-3-A",
+                    "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,7,SECTION,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,6,DIV,0,A",
+                    "selector": "div.elementor-widget-container > div.elementor-loop-container > div.elementor > a.elementor-element",
+                    "boundingRect": {
+                      "top": 3957,
+                      "bottom": 4296,
+                      "left": 968,
+                      "right": 1235,
+                      "width": 268,
+                      "height": 339
+                    },
+                    "snippet": "<a class=\"elementor-element elementor-element-a2571c2 e-con e-atomic-element e-flexb…\" data-id=\"a2571c2\" data-element_type=\"e-flexbox\" data-e-type=\"e-flexbox\" data-interaction-id=\"a2571c2\" href=\"https://abc16946.sg-host.com/more-than-a-mascot-today-we-introduce-sabi-th…\" target=\"_self\">",
+                    "nodeLabel": "More than a mascot: today we introduce Sabi, the symbol that inspires the SABER…"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "impact": "critical",
+          "tags": [
+            "cat.aria",
+            "wcag2a",
+            "wcag131",
+            "EN-301-549",
+            "EN-9.1.3.1",
+            "RGAAv4",
+            "RGAA-9.3.1"
+          ]
+        }
+      }
+    },
+    "link-name": {
+      "title": "Links do not have a discernible name",
+      "score": 0,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "node",
+            "valueType": "node",
+            "subItemsHeading": {
+              "key": "relatedNode",
+              "valueType": "node"
+            },
+            "label": "Failing Elements"
+          }
+        ],
+        "items": [
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-4-A",
+              "path": "1,HTML,4,BODY,1,HEADER,1,DIV,0,DIV,0,DIV,0,DIV,0,A",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-element > a",
+              "boundingRect": {
+                "top": 51,
+                "bottom": 196,
+                "left": 213,
+                "right": 358,
+                "width": 145,
+                "height": 145
+              },
+              "snippet": "<a href=\"https://abc16946.sg-host.com\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-element > a",
+              "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-5-A",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,0,DIV,3,DIV,1,DIV,0,DIV,0,DIV,0,A",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "boundingRect": {
+                "top": 6807,
+                "bottom": 6821,
+                "left": 1441,
+                "right": 1455,
+                "width": 14,
+                "height": 14
+              },
+              "snippet": "<a class=\"elementor-icon\" href=\"https://www.facebook.com/mysabercollege\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-6-A",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,0,DIV,3,DIV,1,DIV,1,DIV,0,DIV,0,A",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "boundingRect": {
+                "top": 6807,
+                "bottom": 6821,
+                "left": 1475,
+                "right": 1489,
+                "width": 14,
+                "height": 14
+              },
+              "snippet": "<a class=\"elementor-icon\" href=\"https://www.instagram.com/sabercollege/\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+            }
+          },
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-7-A",
+              "path": "1,HTML,4,BODY,3,FOOTER,0,DIV,0,DIV,3,DIV,1,DIV,2,DIV,0,DIV,0,A",
+              "selector": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "boundingRect": {
+                "top": 6807,
+                "bottom": 6821,
+                "left": 1509,
+                "right": 1523,
+                "width": 14,
+                "height": 14
+              },
+              "snippet": "<a class=\"elementor-icon\" href=\"https://www.tiktok.com/@sabercollege\">",
+              "nodeLabel": "div.elementor-element > div.elementor-element > div.elementor-icon-wrapper > a.elementor-icon",
+              "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+            }
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "impact": "serious",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT",
+            "RGAAv4",
+            "RGAA-6.2.1"
+          ]
+        }
+      }
+    },
+    "target-size": {
+      "title": "Touch targets do not have sufficient size or spacing.",
+      "score": 0,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "node",
+            "valueType": "node",
+            "subItemsHeading": {
+              "key": "relatedNode",
+              "valueType": "node"
+            },
+            "label": "Failing Elements"
+          }
+        ],
+        "items": [
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-8-A",
+              "path": "1,HTML,4,BODY,1,HEADER,0,DIV,0,DIV,0,DIV,1,P,0,A",
+              "selector": "div.elementor-element > div.elementor-element > p.e-54fc4e9-7e5f6d6 > a",
+              "boundingRect": {
+                "top": 11,
+                "bottom": 30,
+                "left": 498,
+                "right": 501,
+                "width": 3,
+                "height": 19
+              },
+              "snippet": "<a target=\"_blank\" href=\"tel:3054439170\">",
+              "nodeLabel": "|",
+              "explanation": "Fix any of the following:\n  Target has insufficient size (3.4px by 19px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23.4px instead of at least 24px."
+            },
+            "subItems": {
+              "type": "subitems",
+              "items": [
+                {
+                  "relatedNode": {
+                    "type": "node",
+                    "lhId": "1-9-A",
+                    "path": "1,HTML,4,BODY,1,HEADER,0,DIV,0,DIV,0,DIV,2,P,0,A",
+                    "selector": "div.elementor-element > div.elementor-element > p.e-839119c-9c5ab10 > a",
+                    "boundingRect": {
+                      "top": 11,
+                      "bottom": 28,
+                      "left": 511,
+                      "right": 598,
+                      "width": 87,
+                      "height": 17
+                    },
+                    "snippet": "<a target=\"_blank\" href=\"tel:3054439170\">",
+                    "nodeLabel": "(305) 443-9170"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "impact": "serious",
+          "tags": [
+            "cat.sensory-and-visual-cues",
+            "wcag22aa",
+            "wcag258"
+          ]
+        }
+      }
+    },
+    "paste-preventing-inputs": {
+      "title": "Prevents users from pasting into input fields",
+      "score": 0,
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "node",
+            "valueType": "node",
+            "label": "Failing Elements"
+          }
+        ],
+        "items": [
+          {
+            "node": {
+              "type": "node",
+              "lhId": "1-131-INPUT",
+              "path": "1,HTML,4,BODY,2,MAIN,0,DIV,0,DIV,1,SECTION,0,DIV,0,DIV,2,DIV,0,FORM,4,DIV,1,DIV,4,DIV,1,DIV,1,INPUT",
+              "selector": "div.elementor-field-type-step > div.elementor-field-type-text > div.iti > input#form-field-phone",
+              "boundingRect": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0,
+                "width": 0,
+                "height": 0
+              },
+              "snippet": "<input size=\"1\" type=\"text\" name=\"form_fields[phone]\" id=\"form-field-phone\" class=\"elementor-field elementor-size-sm elementor-field-textual iti__tel-input\" placeholder=\"Phone\" data-intl-tel-input-id=\"0\" autocomplete=\"tel\" inputmode=\"tel\" style=\"padding-left: 43px;\">",
+              "nodeLabel": "div.elementor-field-type-step > div.elementor-field-type-text > div.iti > input#form-field-phone"
+            },
+            "type": "text"
+          }
+        ]
+      }
+    },
+    "cache-insight": {
+      "title": "Use efficient cache lifetimes",
+      "score": 0.5,
+      "displayValue": "Est savings of 37 KiB",
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "Request"
+          },
+          {
+            "key": "cacheLifetimeMs",
+            "valueType": "ms",
+            "label": "Cache TTL",
+            "displayUnit": "duration"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size",
+            "displayUnit": "kb",
+            "granularity": 1
+          }
+        ],
+        "items": [
+          {
+            "url": "https://cdn.trustindex.io/loader.js?ver=1",
+            "cacheLifetimeMs": 0,
+            "totalBytes": 25749,
+            "wastedBytes": 25749
+          },
+          {
+            "url": "https://elfsightcdn.com/platform.js",
+            "cacheLifetimeMs": 3600000,
+            "totalBytes": 15526,
+            "wastedBytes": 12420.800000000001
+          }
+        ],
+        "sortedBy": [
+          "wastedBytes"
+        ],
+        "skipSumming": [
+          "cacheLifetimeMs"
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "wastedBytes": 38169.8
+        }
+      }
+    },
+    "unminified-css": {
+      "title": "Minify CSS",
+      "score": 0.5,
+      "displayValue": "Est savings of 2 KiB",
+      "details": {
+        "type": "opportunity",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedBytes",
+            "valueType": "bytes",
+            "label": "Est Savings"
+          }
+        ],
+        "items": [
+          {
+            "url": "https://abc16946.sg-host.com/wp-content/plugins/ai-engine/themes/timeless.css?ver=1790199070",
+            "totalBytes": 15679,
+            "wastedBytes": 2121,
+            "wastedPercent": 13.524981280556736
+          }
+        ],
+        "overallSavingsMs": 0,
+        "overallSavingsBytes": 2121,
+        "sortedBy": [
+          "wastedBytes"
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "metricSavings": {
+            "FCP": 0,
+            "LCP": 0
+          }
+        }
+      }
+    },
+    "unminified-javascript": {
+      "title": "Minify JavaScript",
+      "score": 0.5,
+      "displayValue": "Est savings of 28 KiB",
+      "details": {
+        "type": "opportunity",
+        "headings": [
+          {
+            "key": "url",
+            "valueType": "url",
+            "label": "URL"
+          },
+          {
+            "key": "totalBytes",
+            "valueType": "bytes",
+            "label": "Transfer Size"
+          },
+          {
+            "key": "wastedBytes",
+            "valueType": "bytes",
+            "label": "Est Savings"
+          }
+        ],
+        "items": [
+          {
+            "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/main/scriptlet-begin.js",
+            "totalBytes": 62195,
+            "wastedBytes": 22266,
+            "wastedPercent": 35.800202683702
+          },
+          {
+            "url": "chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/rulesets/scripting/scriptlet/isolated/scriptlet-begin.js",
+            "totalBytes": 18477,
+            "wastedBytes": 6851,
+            "wastedPercent": 37.07672524646378
+          }
+        ],
+        "overallSavingsMs": 0,
+        "overallSavingsBytes": 29117,
+        "sortedBy": [
+          "wastedBytes"
+        ],
+        "debugData": {
+          "type": "debugdata",
+          "metricSavings": {
+            "FCP": 0,
+            "LCP": 0
+          }
+        }
+      }
+    }
+  }
+}

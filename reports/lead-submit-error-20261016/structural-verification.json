@@ -1,0 +1,28 @@
+{
+  "targets": {
+    "2015": {
+      "widget_id": "518a0bf",
+      "node_count_before": 6,
+      "node_count_after": 6,
+      "non_handler_elementor_data_unchanged": true,
+      "form_settings_unchanged": true,
+      "old_selector_removed": true,
+      "checked_radio_selector_present": true,
+      "null_guard_present": true,
+      "script_sha256_before": "9d7c36931ac4874e741f8656723813d37fd8bfa0022b4f7f3efea5989f81e50b",
+      "script_sha256_after": "34544929cc352df431f59b9bec542856a530608beb84345a1588545cce7a3ba5"
+    },
+    "7": {
+      "widget_id": "29f746e",
+      "node_count_before": 157,
+      "node_count_after": 157,
+      "non_handler_elementor_data_unchanged": true,
+      "form_settings_unchanged": true,
+      "old_selector_removed": true,
+      "checked_radio_selector_present": true,
+      "null_guard_present": true,
+      "script_sha256_before": "9d7c36931ac4874e741f8656723813d37fd8bfa0022b4f7f3efea5989f81e50b",
+      "script_sha256_after": "34544929cc352df431f59b9bec542856a530608beb84345a1588545cce7a3ba5"
+    }
+  }
+}

@@ -1,0 +1,1267 @@
+{
+    "generated_at": "2026-10-19T16:13:56+00:00",
+    "site_url": "http://localhost:8082/",
+    "page_count": 43,
+    "pages": [
+        {
+            "id": 7,
+            "title": "Home",
+            "slug": "home",
+            "parent_id": 0,
+            "url": "http://localhost:8082/",
+            "modified_gmt": "2026-10-16T17:46:09+00:00",
+            "focus_keyword": "healthcare career training Miami",
+            "seo_score": "26",
+            "seo_title": "Healthcare Career Training in Miami | SABER College",
+            "seo_description": "Prepare for a healthcare career at SABER College in Miami with hands-on Professional Nursing and Physical Therapist Assistant degree programs.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "26",
+                "rank_math_title": "Healthcare Career Training in Miami | SABER College",
+                "rank_math_description": "Prepare for a healthcare career at SABER College in Miami with hands-on Professional Nursing and Physical Therapist Assistant degree programs.",
+                "rank_math_focus_keyword": "healthcare career training Miami",
+                "rank_math_facebook_title": "Healthcare Career Training in Miami | SABER College",
+                "rank_math_facebook_description": "Prepare for a healthcare career at SABER College in Miami with hands-on Professional Nursing and Physical Therapist Assistant degree programs.",
+                "rank_math_twitter_title": "Healthcare Career Training in Miami | SABER College",
+                "rank_math_twitter_description": "Prepare for a healthcare career at SABER College in Miami with hands-on Professional Nursing and Physical Therapist Assistant degree programs."
+            }
+        },
+        {
+            "id": 25,
+            "title": "About Us",
+            "slug": "about_saber_college",
+            "parent_id": 0,
+            "url": "http://localhost:8082/about_saber_college/",
+            "modified_gmt": "2026-09-24T13:36:13+00:00",
+            "focus_keyword": "about SABER College",
+            "seo_score": "26",
+            "seo_title": "About SABER College | Career Education in Miami",
+            "seo_description": "Learn about SABER College, a Miami institution providing career-focused education and student support since 1972.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "26",
+                "rank_math_og_content_image": {
+                    "check": "7e8405bae509bbf26d9f36dc90478b91",
+                    "images": [
+                        606
+                    ]
+                },
+                "rank_math_title": "About SABER College | Career Education in Miami",
+                "rank_math_description": "Learn about SABER College, a Miami institution providing career-focused education and student support since 1972.",
+                "rank_math_focus_keyword": "about SABER College",
+                "rank_math_facebook_title": "About SABER College | Career Education in Miami",
+                "rank_math_facebook_description": "Learn about SABER College, a Miami institution providing career-focused education and student support since 1972.",
+                "rank_math_twitter_title": "About SABER College | Career Education in Miami",
+                "rank_math_twitter_description": "Learn about SABER College, a Miami institution providing career-focused education and student support since 1972."
+            }
+        },
+        {
+            "id": 30,
+            "title": "Programs",
+            "slug": "saber_college_programs",
+            "parent_id": 0,
+            "url": "http://localhost:8082/saber_college_programs/",
+            "modified_gmt": "2026-10-06T18:26:40+00:00",
+            "focus_keyword": "healthcare programs Miami",
+            "seo_score": "14",
+            "seo_title": "Healthcare Programs in Miami | SABER College",
+            "seo_description": "Explore SABER College healthcare programs in Miami, including Professional Nursing and Physical Therapist Assistant associate degrees.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "14",
+                "rank_math_og_content_image": {
+                    "check": "61e1325f78f94e1f5f98a6ddf393e7d0",
+                    "images": [
+                        84
+                    ]
+                },
+                "rank_math_title": "Healthcare Programs in Miami | SABER College",
+                "rank_math_description": "Explore SABER College healthcare programs in Miami, including Professional Nursing and Physical Therapist Assistant associate degrees.",
+                "rank_math_focus_keyword": "healthcare programs Miami",
+                "rank_math_facebook_title": "Healthcare Programs in Miami | SABER College",
+                "rank_math_facebook_description": "Explore SABER College healthcare programs in Miami, including Professional Nursing and Physical Therapist Assistant associate degrees.",
+                "rank_math_twitter_title": "Healthcare Programs in Miami | SABER College",
+                "rank_math_twitter_description": "Explore SABER College healthcare programs in Miami, including Professional Nursing and Physical Therapist Assistant associate degrees."
+            }
+        },
+        {
+            "id": 34,
+            "title": "Student Services",
+            "slug": "student-services",
+            "parent_id": 0,
+            "url": "http://localhost:8082/student-services/",
+            "modified_gmt": "2026-10-07T14:49:20+00:00",
+            "focus_keyword": "SABER College student services",
+            "seo_score": "19",
+            "seo_title": "Student Services | SABER College",
+            "seo_description": "Access academic affairs, career services, transcript requests, surveys and other student support resources at SABER College.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "19",
+                "rank_math_title": "Student Services | SABER College",
+                "rank_math_description": "Access academic affairs, career services, transcript requests, surveys and other student support resources at SABER College.",
+                "rank_math_focus_keyword": "SABER College student services",
+                "rank_math_facebook_title": "Student Services | SABER College",
+                "rank_math_facebook_description": "Access academic affairs, career services, transcript requests, surveys and other student support resources at SABER College.",
+                "rank_math_twitter_title": "Student Services | SABER College",
+                "rank_math_twitter_description": "Access academic affairs, career services, transcript requests, surveys and other student support resources at SABER College."
+            }
+        },
+        {
+            "id": 36,
+            "title": "General Overview",
+            "slug": "general",
+            "parent_id": 0,
+            "url": "http://localhost:8082/general/",
+            "modified_gmt": "2026-10-07T15:24:58+00:00",
+            "focus_keyword": "SABER College information",
+            "seo_score": "58",
+            "seo_title": "SABER College Information | Miami, Florida",
+            "seo_description": "Find general information about SABER College, its mission, programs, policies and student resources in Miami, Florida.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "58",
+                "rank_math_title": "SABER College Information | Miami, Florida",
+                "rank_math_description": "Find general information about SABER College, its mission, programs, policies and student resources in Miami, Florida.",
+                "rank_math_focus_keyword": "SABER College information",
+                "rank_math_facebook_title": "SABER College Information | Miami, Florida",
+                "rank_math_facebook_description": "Find general information about SABER College, its mission, programs, policies and student resources in Miami, Florida.",
+                "rank_math_twitter_title": "SABER College Information | Miami, Florida",
+                "rank_math_twitter_description": "Find general information about SABER College, its mission, programs, policies and student resources in Miami, Florida.",
+                "rank_math_og_content_image": {
+                    "check": "c4a1f1715b94f7e2e3213489f3340270",
+                    "images": [
+                        "http://localhost:8082/wp-content/uploads/2026/09/location-hero-1024x359.webp"
+                    ]
+                }
+            }
+        },
+        {
+            "id": 859,
+            "title": "SABER College Leadership",
+            "slug": "saber_college_leadership",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/saber_college_leadership/",
+            "modified_gmt": "2026-10-05T14:04:18+00:00",
+            "focus_keyword": "SABER College leadership",
+            "seo_score": "9",
+            "seo_title": "SABER College Leadership Team",
+            "seo_description": "Meet the experienced leadership team guiding SABER College and supporting its mission, students and career-focused programs.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "9",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "SABER College Leadership Team",
+                "rank_math_description": "Meet the experienced leadership team guiding SABER College and supporting its mission, students and career-focused programs.",
+                "rank_math_focus_keyword": "SABER College leadership",
+                "rank_math_facebook_title": "SABER College Leadership Team",
+                "rank_math_facebook_description": "Meet the experienced leadership team guiding SABER College and supporting its mission, students and career-focused programs.",
+                "rank_math_twitter_title": "SABER College Leadership Team",
+                "rank_math_twitter_description": "Meet the experienced leadership team guiding SABER College and supporting its mission, students and career-focused programs."
+            }
+        },
+        {
+            "id": 861,
+            "title": "Campus Location",
+            "slug": "campus-location",
+            "parent_id": 0,
+            "url": "http://localhost:8082/campus-location/",
+            "modified_gmt": "2026-10-07T18:27:46+00:00",
+            "focus_keyword": "SABER College campus location",
+            "seo_score": "64",
+            "seo_title": "SABER College Campus Location in Miami",
+            "seo_description": "Find SABER College at 3990 West Flagler Street in Miami, with contact details, directions and information for planning your visit.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "64",
+                "rank_math_title": "SABER College Campus Location in Miami",
+                "rank_math_description": "Find SABER College at 3990 West Flagler Street in Miami, with contact details, directions and information for planning your visit.",
+                "rank_math_focus_keyword": "SABER College campus location",
+                "rank_math_facebook_title": "SABER College Campus Location in Miami",
+                "rank_math_facebook_description": "Find SABER College at 3990 West Flagler Street in Miami, with contact details, directions and information for planning your visit.",
+                "rank_math_twitter_title": "SABER College Campus Location in Miami",
+                "rank_math_twitter_description": "Find SABER College at 3990 West Flagler Street in Miami, with contact details, directions and information for planning your visit."
+            }
+        },
+        {
+            "id": 863,
+            "title": "Gallery",
+            "slug": "explore-saber-college-gallery",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/explore-saber-college-gallery/",
+            "modified_gmt": "2026-10-07T18:48:05+00:00",
+            "focus_keyword": "SABER College gallery",
+            "seo_score": "76",
+            "seo_title": "SABER College Gallery | Campus Life in Miami",
+            "seo_description": "Explore SABER College campus life, students, programs and events through the college gallery and latest Instagram updates.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "76",
+                "rank_math_title": "SABER College Gallery | Campus Life in Miami",
+                "rank_math_description": "Explore SABER College campus life, students, programs and events through the college gallery and latest Instagram updates.",
+                "rank_math_focus_keyword": "SABER College gallery",
+                "rank_math_facebook_title": "SABER College Gallery | Campus Life in Miami",
+                "rank_math_facebook_description": "Explore SABER College campus life, students, programs and events through the college gallery and latest Instagram updates.",
+                "rank_math_twitter_title": "SABER College Gallery | Campus Life in Miami",
+                "rank_math_twitter_description": "Explore SABER College campus life, students, programs and events through the college gallery and latest Instagram updates.",
+                "rank_math_og_content_image": {
+                    "check": "0665e0233e0f73cefac2b9f7bac8da09",
+                    "images": [
+                        1678
+                    ]
+                }
+            }
+        },
+        {
+            "id": 870,
+            "title": "Professional Nursing Program",
+            "slug": "professional-nursing-program",
+            "parent_id": 30,
+            "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+            "modified_gmt": "2026-10-16T17:37:11+00:00",
+            "focus_keyword": "professional nursing program Miami",
+            "seo_score": "29",
+            "seo_title": "Professional Nursing Program in Miami | SABER College",
+            "seo_description": "Prepare for a nursing career through SABER College's Professional Nursing Associate of Science program in Miami, Florida.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "29",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_og_content_image": {
+                    "check": "574022e8b38e39760a237ea9ea65d455",
+                    "images": [
+                        632
+                    ]
+                },
+                "rank_math_title": "Professional Nursing Program in Miami | SABER College",
+                "rank_math_description": "Prepare for a nursing career through SABER College's Professional Nursing Associate of Science program in Miami, Florida.",
+                "rank_math_focus_keyword": "professional nursing program Miami",
+                "rank_math_facebook_title": "Professional Nursing Program in Miami | SABER College",
+                "rank_math_facebook_description": "Prepare for a nursing career through SABER College's Professional Nursing Associate of Science program in Miami, Florida.",
+                "rank_math_twitter_title": "Professional Nursing Program in Miami | SABER College",
+                "rank_math_twitter_description": "Prepare for a nursing career through SABER College's Professional Nursing Associate of Science program in Miami, Florida."
+            }
+        },
+        {
+            "id": 872,
+            "title": "Physical Therapist Assistant Program",
+            "slug": "physical-therapist-assistant-program",
+            "parent_id": 30,
+            "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+            "modified_gmt": "2026-10-16T17:36:35+00:00",
+            "focus_keyword": "physical therapist assistant program Miami",
+            "seo_score": "24",
+            "seo_title": "Physical Therapist Assistant Program | SABER College",
+            "seo_description": "Train for a rehabilitation career through SABER College's Physical Therapist Assistant Associate of Science program in Miami.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "24",
+                "rank_math_og_content_image": {
+                    "check": "5a142747ee2b28dd1794491d2b52539a",
+                    "images": [
+                        1317
+                    ]
+                },
+                "rank_math_title": "Physical Therapist Assistant Program | SABER College",
+                "rank_math_description": "Train for a rehabilitation career through SABER College's Physical Therapist Assistant Associate of Science program in Miami.",
+                "rank_math_focus_keyword": "physical therapist assistant program Miami",
+                "rank_math_facebook_title": "Physical Therapist Assistant Program | SABER College",
+                "rank_math_facebook_description": "Train for a rehabilitation career through SABER College's Physical Therapist Assistant Associate of Science program in Miami.",
+                "rank_math_twitter_title": "Physical Therapist Assistant Program | SABER College",
+                "rank_math_twitter_description": "Train for a rehabilitation career through SABER College's Physical Therapist Assistant Associate of Science program in Miami."
+            }
+        },
+        {
+            "id": 877,
+            "title": "Nursing Admissions",
+            "slug": "nursing-admissions",
+            "parent_id": 870,
+            "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/nursing-admissions/",
+            "modified_gmt": "2026-10-07T15:41:24+00:00",
+            "focus_keyword": "professional nursing admissions",
+            "seo_score": "50",
+            "seo_title": "Professional Nursing Admissions | SABER College",
+            "seo_description": "Review admission requirements and application steps for the Professional Nursing Associate of Science program at SABER College.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "50",
+                "rank_math_title": "Professional Nursing Admissions | SABER College",
+                "rank_math_description": "Review admission requirements and application steps for the Professional Nursing Associate of Science program at SABER College.",
+                "rank_math_focus_keyword": "professional nursing admissions",
+                "rank_math_facebook_title": "Professional Nursing Admissions | SABER College",
+                "rank_math_facebook_description": "Review admission requirements and application steps for the Professional Nursing Associate of Science program at SABER College.",
+                "rank_math_twitter_title": "Professional Nursing Admissions | SABER College",
+                "rank_math_twitter_description": "Review admission requirements and application steps for the Professional Nursing Associate of Science program at SABER College."
+            }
+        },
+        {
+            "id": 881,
+            "title": "PTA Admissions",
+            "slug": "admissions-pta",
+            "parent_id": 872,
+            "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/admissions-pta/",
+            "modified_gmt": "2026-10-07T16:01:09+00:00",
+            "focus_keyword": "PTA program admissions",
+            "seo_score": "48",
+            "seo_title": "PTA Program Admissions | SABER College",
+            "seo_description": "Review admission requirements and application steps for the Physical Therapist Assistant program at SABER College in Miami.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "48",
+                "rank_math_title": "PTA Program Admissions | SABER College",
+                "rank_math_description": "Review admission requirements and application steps for the Physical Therapist Assistant program at SABER College in Miami.",
+                "rank_math_focus_keyword": "PTA program admissions",
+                "rank_math_facebook_title": "PTA Program Admissions | SABER College",
+                "rank_math_facebook_description": "Review admission requirements and application steps for the Physical Therapist Assistant program at SABER College in Miami.",
+                "rank_math_twitter_title": "PTA Program Admissions | SABER College",
+                "rank_math_twitter_description": "Review admission requirements and application steps for the Physical Therapist Assistant program at SABER College in Miami.",
+                "rank_math_og_content_image": {
+                    "check": "f18bce6405c95bd4d4c946ba93ccc9af",
+                    "images": [
+                        1665
+                    ]
+                }
+            }
+        },
+        {
+            "id": 883,
+            "title": "Apply To SABER College",
+            "slug": "apply-to-saber-college",
+            "parent_id": 0,
+            "url": "http://localhost:8082/apply-to-saber-college/",
+            "modified_gmt": "2026-10-07T16:36:17+00:00",
+            "focus_keyword": "apply to SABER College",
+            "seo_score": "69",
+            "seo_title": "Apply to SABER College | Miami",
+            "seo_description": "Start your application to SABER College and take the next step toward a career-focused healthcare education in Miami.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "69",
+                "rank_math_title": "Apply to SABER College | Miami",
+                "rank_math_description": "Start your application to SABER College and take the next step toward a career-focused healthcare education in Miami.",
+                "rank_math_focus_keyword": "apply to SABER College",
+                "rank_math_facebook_title": "Apply to SABER College | Miami",
+                "rank_math_facebook_description": "Start your application to SABER College and take the next step toward a career-focused healthcare education in Miami.",
+                "rank_math_twitter_title": "Apply to SABER College | Miami",
+                "rank_math_twitter_description": "Start your application to SABER College and take the next step toward a career-focused healthcare education in Miami."
+            }
+        },
+        {
+            "id": 885,
+            "title": "Tuition Payment Options",
+            "slug": "tuition-payment-options",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/tuition-payment-options/",
+            "modified_gmt": "2026-10-07T16:44:41+00:00",
+            "focus_keyword": "SABER College tuition payment options",
+            "seo_score": "19",
+            "seo_title": "Tuition Payment Options | SABER College",
+            "seo_description": "Explore tuition payment options, financial guidance and available resources to help plan your education at SABER College.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "19",
+                "rank_math_title": "Tuition Payment Options | SABER College",
+                "rank_math_description": "Explore tuition payment options, financial guidance and available resources to help plan your education at SABER College.",
+                "rank_math_focus_keyword": "SABER College tuition payment options",
+                "rank_math_facebook_title": "Tuition Payment Options | SABER College",
+                "rank_math_facebook_description": "Explore tuition payment options, financial guidance and available resources to help plan your education at SABER College.",
+                "rank_math_twitter_title": "Tuition Payment Options | SABER College",
+                "rank_math_twitter_description": "Explore tuition payment options, financial guidance and available resources to help plan your education at SABER College.",
+                "rank_math_og_content_image": {
+                    "check": "5bf5794932b05256030499ca36fdcadf",
+                    "images": [
+                        1026
+                    ]
+                }
+            }
+        },
+        {
+            "id": 887,
+            "title": "SABER College Accreditation",
+            "slug": "saber-college-accreditation",
+            "parent_id": 0,
+            "url": "http://localhost:8082/saber-college-accreditation/",
+            "modified_gmt": "2026-10-07T18:53:19+00:00",
+            "focus_keyword": "SABER College accreditation",
+            "seo_score": "82",
+            "seo_title": "SABER College Accreditation and Approvals",
+            "seo_description": "Review SABER College accreditation, regulatory approvals and institutional commitments to quality career-focused education.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "82",
+                "rank_math_title": "SABER College Accreditation and Approvals",
+                "rank_math_description": "Review SABER College accreditation, regulatory approvals and institutional commitments to quality career-focused education.",
+                "rank_math_focus_keyword": "SABER College accreditation",
+                "rank_math_facebook_title": "SABER College Accreditation and Approvals",
+                "rank_math_facebook_description": "Review SABER College accreditation, regulatory approvals and institutional commitments to quality career-focused education.",
+                "rank_math_twitter_title": "SABER College Accreditation and Approvals",
+                "rank_math_twitter_description": "Review SABER College accreditation, regulatory approvals and institutional commitments to quality career-focused education.",
+                "rank_math_og_content_image": {
+                    "check": "1f3d688292d129ad9d0fd06add92b524",
+                    "images": [
+                        691,
+                        458,
+                        1663
+                    ]
+                }
+            }
+        },
+        {
+            "id": 896,
+            "title": "Academic Affairs",
+            "slug": "academic-affairs",
+            "parent_id": 34,
+            "url": "http://localhost:8082/student-services/academic-affairs/",
+            "modified_gmt": "2026-10-07T17:11:26+00:00",
+            "focus_keyword": "SABER College academic affairs",
+            "seo_score": "15",
+            "seo_title": "Academic Affairs | SABER College",
+            "seo_description": "Learn how SABER College Academic Affairs supports academic quality, faculty development, curriculum and student success.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "15",
+                "rank_math_title": "Academic Affairs | SABER College",
+                "rank_math_description": "Learn how SABER College Academic Affairs supports academic quality, faculty development, curriculum and student success.",
+                "rank_math_focus_keyword": "SABER College academic affairs",
+                "rank_math_facebook_title": "Academic Affairs | SABER College",
+                "rank_math_facebook_description": "Learn how SABER College Academic Affairs supports academic quality, faculty development, curriculum and student success.",
+                "rank_math_twitter_title": "Academic Affairs | SABER College",
+                "rank_math_twitter_description": "Learn how SABER College Academic Affairs supports academic quality, faculty development, curriculum and student success.",
+                "rank_math_og_content_image": {
+                    "check": "315c36cbe24b6e44b212367e96766fa4",
+                    "images": [
+                        1699
+                    ]
+                }
+            }
+        },
+        {
+            "id": 898,
+            "title": "VISA I-20 Assistance",
+            "slug": "visa-i-20-assistance",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/visa-i-20-assistance/",
+            "modified_gmt": "2026-10-07T14:24:13+00:00",
+            "focus_keyword": "Visa I-20 assistance",
+            "seo_score": "72",
+            "seo_title": "Visa I-20 Assistance | SABER College",
+            "seo_description": "Find Visa I-20 assistance and admission information for international students interested in studying at SABER College.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "72",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "Visa I-20 Assistance | SABER College",
+                "rank_math_description": "Find Visa I-20 assistance and admission information for international students interested in studying at SABER College.",
+                "rank_math_focus_keyword": "Visa I-20 assistance",
+                "rank_math_facebook_title": "Visa I-20 Assistance | SABER College",
+                "rank_math_facebook_description": "Find Visa I-20 assistance and admission information for international students interested in studying at SABER College.",
+                "rank_math_twitter_title": "Visa I-20 Assistance | SABER College",
+                "rank_math_twitter_description": "Find Visa I-20 assistance and admission information for international students interested in studying at SABER College.",
+                "rank_math_og_content_image": {
+                    "check": "27104aaea4f5170990a677b4af07c619",
+                    "images": [
+                        1699
+                    ]
+                }
+            }
+        },
+        {
+            "id": 900,
+            "title": "Career Services",
+            "slug": "career-services",
+            "parent_id": 34,
+            "url": "http://localhost:8082/student-services/career-services/",
+            "modified_gmt": "2026-10-07T17:25:27+00:00",
+            "focus_keyword": "SABER College career services",
+            "seo_score": "21",
+            "seo_title": "Career Services | SABER College",
+            "seo_description": "Discover career services, employment preparation and professional support available to SABER College students and graduates.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "21",
+                "rank_math_title": "Career Services | SABER College",
+                "rank_math_description": "Discover career services, employment preparation and professional support available to SABER College students and graduates.",
+                "rank_math_focus_keyword": "SABER College career services",
+                "rank_math_facebook_title": "Career Services | SABER College",
+                "rank_math_facebook_description": "Discover career services, employment preparation and professional support available to SABER College students and graduates.",
+                "rank_math_twitter_title": "Career Services | SABER College",
+                "rank_math_twitter_description": "Discover career services, employment preparation and professional support available to SABER College students and graduates.",
+                "rank_math_og_content_image": {
+                    "check": "09843fd02ade921aad079149e5b8ee33",
+                    "images": [
+                        1699
+                    ]
+                }
+            }
+        },
+        {
+            "id": 902,
+            "title": "Student Transcript Request",
+            "slug": "student-transcript-request",
+            "parent_id": 34,
+            "url": "http://localhost:8082/student-services/student-transcript-request/",
+            "modified_gmt": "2026-09-28T18:44:06+00:00",
+            "focus_keyword": "SABER College transcript request",
+            "seo_score": "11",
+            "seo_title": "Student Transcript Request | SABER College",
+            "seo_description": "Follow the steps to request an official SABER College student transcript, including payment and submission information.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "11",
+                "rank_math_title": "Student Transcript Request | SABER College",
+                "rank_math_description": "Follow the steps to request an official SABER College student transcript, including payment and submission information.",
+                "rank_math_focus_keyword": "SABER College transcript request",
+                "rank_math_facebook_title": "Student Transcript Request | SABER College",
+                "rank_math_facebook_description": "Follow the steps to request an official SABER College student transcript, including payment and submission information.",
+                "rank_math_twitter_title": "Student Transcript Request | SABER College",
+                "rank_math_twitter_description": "Follow the steps to request an official SABER College student transcript, including payment and submission information."
+            }
+        },
+        {
+            "id": 904,
+            "title": "SABER Survey",
+            "slug": "saber-survey",
+            "parent_id": 34,
+            "url": "http://localhost:8082/student-services/saber-survey/",
+            "modified_gmt": "2026-10-07T17:36:02+00:00",
+            "focus_keyword": "SABER College survey",
+            "seo_score": "19",
+            "seo_title": "SABER College Student Survey",
+            "seo_description": "Complete the SABER College student survey used to support required cost-of-living and educational reporting.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "19",
+                "rank_math_title": "SABER College Student Survey",
+                "rank_math_description": "Complete the SABER College student survey used to support required cost-of-living and educational reporting.",
+                "rank_math_focus_keyword": "SABER College survey",
+                "rank_math_facebook_title": "SABER College Student Survey",
+                "rank_math_facebook_description": "Complete the SABER College student survey used to support required cost-of-living and educational reporting.",
+                "rank_math_twitter_title": "SABER College Student Survey",
+                "rank_math_twitter_description": "Complete the SABER College student survey used to support required cost-of-living and educational reporting.",
+                "rank_math_og_content_image": {
+                    "check": "4088c7b34fb7f315abcb52d7d9109411",
+                    "images": [
+                        572
+                    ]
+                }
+            }
+        },
+        {
+            "id": 911,
+            "title": "Net Price Calculator",
+            "slug": "net-price-calculator",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/net-price-calculator/",
+            "modified_gmt": "2026-10-07T18:24:37+00:00",
+            "focus_keyword": "SABER College net price calculator",
+            "seo_score": "24",
+            "seo_title": "Net Price Calculator | SABER College",
+            "seo_description": "Estimate the cost of attending SABER College with the Net Price Calculator, including tuition, fees and potential financial aid.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "24",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "Net Price Calculator | SABER College",
+                "rank_math_description": "Estimate the cost of attending SABER College with the Net Price Calculator, including tuition, fees and potential financial aid.",
+                "rank_math_focus_keyword": "SABER College net price calculator",
+                "rank_math_facebook_title": "Net Price Calculator | SABER College",
+                "rank_math_facebook_description": "Estimate the cost of attending SABER College with the Net Price Calculator, including tuition, fees and potential financial aid.",
+                "rank_math_twitter_title": "Net Price Calculator | SABER College",
+                "rank_math_twitter_description": "Estimate the cost of attending SABER College with the Net Price Calculator, including tuition, fees and potential financial aid.",
+                "rank_math_og_content_image": {
+                    "check": "8d6aaca65b602adcc8aaf34f4e14c368",
+                    "images": [
+                        1026
+                    ]
+                }
+            }
+        },
+        {
+            "id": 913,
+            "title": "Manuals",
+            "slug": "manuals",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/manuals/",
+            "modified_gmt": "2026-10-05T20:32:46+00:00",
+            "focus_keyword": "SABER College student manuals",
+            "seo_score": "28",
+            "seo_title": "Student Manuals and Documents | SABER College",
+            "seo_description": "Access SABER College student manuals, institutional documents, policies, handbooks and other academic resources.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "28",
+                "rank_math_title": "Student Manuals and Documents | SABER College",
+                "rank_math_description": "Access SABER College student manuals, institutional documents, policies, handbooks and other academic resources.",
+                "rank_math_focus_keyword": "SABER College student manuals",
+                "rank_math_facebook_title": "Student Manuals and Documents | SABER College",
+                "rank_math_facebook_description": "Access SABER College student manuals, institutional documents, policies, handbooks and other academic resources.",
+                "rank_math_twitter_title": "Student Manuals and Documents | SABER College",
+                "rank_math_twitter_description": "Access SABER College student manuals, institutional documents, policies, handbooks and other academic resources."
+            }
+        },
+        {
+            "id": 915,
+            "title": "Graduation Requirements",
+            "slug": "graduation-requirements",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/graduation-requirements/",
+            "modified_gmt": "2026-10-06T13:27:57+00:00",
+            "focus_keyword": "SABER College graduation requirements",
+            "seo_score": "21",
+            "seo_title": "Graduation Requirements | SABER College",
+            "seo_description": "Review SABER College graduation requirements for Professional Nursing, Physical Therapist Assistant and other eligible programs.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "21",
+                "rank_math_title": "Graduation Requirements | SABER College",
+                "rank_math_description": "Review SABER College graduation requirements for Professional Nursing, Physical Therapist Assistant and other eligible programs.",
+                "rank_math_focus_keyword": "SABER College graduation requirements",
+                "rank_math_facebook_title": "Graduation Requirements | SABER College",
+                "rank_math_facebook_description": "Review SABER College graduation requirements for Professional Nursing, Physical Therapist Assistant and other eligible programs.",
+                "rank_math_twitter_title": "Graduation Requirements | SABER College",
+                "rank_math_twitter_description": "Review SABER College graduation requirements for Professional Nursing, Physical Therapist Assistant and other eligible programs."
+            }
+        },
+        {
+            "id": 917,
+            "title": "Gainful Employment",
+            "slug": "gainful-employment-programs",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/gainful-employment-programs/",
+            "modified_gmt": "2026-10-06T14:26:24+00:00",
+            "focus_keyword": "SABER College gainful employment",
+            "seo_score": "16",
+            "seo_title": "Gainful Employment Programs | SABER College",
+            "seo_description": "Review gainful employment information for SABER College career programs, including costs, outcomes and required disclosures.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "16",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "Gainful Employment Programs | SABER College",
+                "rank_math_description": "Review gainful employment information for SABER College career programs, including costs, outcomes and required disclosures.",
+                "rank_math_focus_keyword": "SABER College gainful employment",
+                "rank_math_facebook_title": "Gainful Employment Programs | SABER College",
+                "rank_math_facebook_description": "Review gainful employment information for SABER College career programs, including costs, outcomes and required disclosures.",
+                "rank_math_twitter_title": "Gainful Employment Programs | SABER College",
+                "rank_math_twitter_description": "Review gainful employment information for SABER College career programs, including costs, outcomes and required disclosures."
+            }
+        },
+        {
+            "id": 919,
+            "title": "Faculty",
+            "slug": "saber-college-faculty",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/saber-college-faculty/",
+            "modified_gmt": "2026-10-06T14:29:06+00:00",
+            "focus_keyword": "SABER College faculty",
+            "seo_score": "71",
+            "seo_title": "SABER College Faculty",
+            "seo_description": "Meet the SABER College faculty whose experience, knowledge and student-focused instruction support career preparation.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "71",
+                "rank_math_title": "SABER College Faculty",
+                "rank_math_description": "Meet the SABER College faculty whose experience, knowledge and student-focused instruction support career preparation.",
+                "rank_math_focus_keyword": "SABER College faculty",
+                "rank_math_facebook_title": "SABER College Faculty",
+                "rank_math_facebook_description": "Meet the SABER College faculty whose experience, knowledge and student-focused instruction support career preparation.",
+                "rank_math_twitter_title": "SABER College Faculty",
+                "rank_math_twitter_description": "Meet the SABER College faculty whose experience, knowledge and student-focused instruction support career preparation."
+            }
+        },
+        {
+            "id": 921,
+            "title": "Distance Education Format for Select Courses",
+            "slug": "saber-college-distance-education",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/saber-college-distance-education/",
+            "modified_gmt": "2026-10-06T14:29:44+00:00",
+            "focus_keyword": "SABER College distance education",
+            "seo_score": "27",
+            "seo_title": "Distance Education Courses | SABER College",
+            "seo_description": "Learn about distance education options for select SABER College courses and the support available to online students.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "27",
+                "rank_math_title": "Distance Education Courses | SABER College",
+                "rank_math_description": "Learn about distance education options for select SABER College courses and the support available to online students.",
+                "rank_math_focus_keyword": "SABER College distance education",
+                "rank_math_facebook_title": "Distance Education Courses | SABER College",
+                "rank_math_facebook_description": "Learn about distance education options for select SABER College courses and the support available to online students.",
+                "rank_math_twitter_title": "Distance Education Courses | SABER College",
+                "rank_math_twitter_description": "Learn about distance education options for select SABER College courses and the support available to online students."
+            }
+        },
+        {
+            "id": 923,
+            "title": "HEERF Historical Reports",
+            "slug": "heerf-quarterly-reports",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/heerf-quarterly-reports/",
+            "modified_gmt": "2026-10-06T14:30:53+00:00",
+            "focus_keyword": "SABER College HEERF reports",
+            "seo_score": "20",
+            "seo_title": "HEERF Historical Reports | SABER College",
+            "seo_description": "Access SABER College HEERF quarterly reports and historical information about federal emergency education funding.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "20",
+                "rank_math_title": "HEERF Historical Reports | SABER College",
+                "rank_math_description": "Access SABER College HEERF quarterly reports and historical information about federal emergency education funding.",
+                "rank_math_focus_keyword": "SABER College HEERF reports",
+                "rank_math_facebook_title": "HEERF Historical Reports | SABER College",
+                "rank_math_facebook_description": "Access SABER College HEERF quarterly reports and historical information about federal emergency education funding.",
+                "rank_math_twitter_title": "HEERF Historical Reports | SABER College",
+                "rank_math_twitter_description": "Access SABER College HEERF quarterly reports and historical information about federal emergency education funding."
+            }
+        },
+        {
+            "id": 925,
+            "title": "Institutional Plans",
+            "slug": "institutional-plans",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/institutional-plans/",
+            "modified_gmt": "2026-10-06T14:35:03+00:00",
+            "focus_keyword": "SABER College institutional plans",
+            "seo_score": "19",
+            "seo_title": "Institutional Plans | SABER College",
+            "seo_description": "Review SABER College strategic, safety, infrastructure, retention and student services institutional planning documents.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "19",
+                "rank_math_title": "Institutional Plans | SABER College",
+                "rank_math_description": "Review SABER College strategic, safety, infrastructure, retention and student services institutional planning documents.",
+                "rank_math_focus_keyword": "SABER College institutional plans",
+                "rank_math_facebook_title": "Institutional Plans | SABER College",
+                "rank_math_facebook_description": "Review SABER College strategic, safety, infrastructure, retention and student services institutional planning documents.",
+                "rank_math_twitter_title": "Institutional Plans | SABER College",
+                "rank_math_twitter_description": "Review SABER College strategic, safety, infrastructure, retention and student services institutional planning documents."
+            }
+        },
+        {
+            "id": 1192,
+            "title": "Blog",
+            "slug": "saber_college_blog",
+            "parent_id": 0,
+            "url": "http://localhost:8082/saber_college_blog/",
+            "modified_gmt": "2026-09-24T13:36:25+00:00",
+            "focus_keyword": "SABER College blog",
+            "seo_score": "13",
+            "seo_title": "SABER College Blog | Nursing and PTA Resources",
+            "seo_description": "Read SABER College articles about nursing, physical therapist assistant careers, education and student opportunities in Florida.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "13",
+                "rank_math_title": "SABER College Blog | Nursing and PTA Resources",
+                "rank_math_description": "Read SABER College articles about nursing, physical therapist assistant careers, education and student opportunities in Florida.",
+                "rank_math_focus_keyword": "SABER College blog",
+                "rank_math_facebook_title": "SABER College Blog | Nursing and PTA Resources",
+                "rank_math_facebook_description": "Read SABER College articles about nursing, physical therapist assistant careers, education and student opportunities in Florida.",
+                "rank_math_twitter_title": "SABER College Blog | Nursing and PTA Resources",
+                "rank_math_twitter_description": "Read SABER College articles about nursing, physical therapist assistant careers, education and student opportunities in Florida."
+            }
+        },
+        {
+            "id": 1225,
+            "title": "Admissions and Tuition",
+            "slug": "admissions-and-tuition",
+            "parent_id": 0,
+            "url": "http://localhost:8082/admissions-and-tuition/",
+            "modified_gmt": "2026-09-14T19:25:25+00:00",
+            "focus_keyword": "SABER College admissions and tuition",
+            "seo_score": "13",
+            "seo_title": "Admissions and Tuition | SABER College",
+            "seo_description": "Explore SABER College admissions, tuition guidance and enrollment support for career-focused programs in Miami.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "13",
+                "rank_math_title": "Admissions and Tuition | SABER College",
+                "rank_math_description": "Explore SABER College admissions, tuition guidance and enrollment support for career-focused programs in Miami.",
+                "rank_math_focus_keyword": "SABER College admissions and tuition",
+                "rank_math_facebook_title": "Admissions and Tuition | SABER College",
+                "rank_math_facebook_description": "Explore SABER College admissions, tuition guidance and enrollment support for career-focused programs in Miami.",
+                "rank_math_twitter_title": "Admissions and Tuition | SABER College",
+                "rank_math_twitter_description": "Explore SABER College admissions, tuition guidance and enrollment support for career-focused programs in Miami."
+            }
+        },
+        {
+            "id": 1229,
+            "title": "Terms & Conditions",
+            "slug": "terms-conditions",
+            "parent_id": 0,
+            "url": "http://localhost:8082/terms-conditions/",
+            "modified_gmt": "2026-08-31T14:42:43+00:00",
+            "focus_keyword": "SABER College terms and conditions",
+            "seo_score": "14",
+            "seo_title": "Terms and Conditions | SABER College",
+            "seo_description": "Review the terms and conditions governing access to and use of the SABER College website, content and online services.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "14",
+                "rank_math_title": "Terms and Conditions | SABER College",
+                "rank_math_description": "Review the terms and conditions governing access to and use of the SABER College website, content and online services.",
+                "rank_math_focus_keyword": "SABER College terms and conditions",
+                "rank_math_facebook_title": "Terms and Conditions | SABER College",
+                "rank_math_facebook_description": "Review the terms and conditions governing access to and use of the SABER College website, content and online services.",
+                "rank_math_twitter_title": "Terms and Conditions | SABER College",
+                "rank_math_twitter_description": "Review the terms and conditions governing access to and use of the SABER College website, content and online services."
+            }
+        },
+        {
+            "id": 1232,
+            "title": "Privacy Policy",
+            "slug": "privacy-policy",
+            "parent_id": 0,
+            "url": "http://localhost:8082/privacy-policy/",
+            "modified_gmt": "2026-10-05T13:01:37+00:00",
+            "focus_keyword": "SABER College privacy policy",
+            "seo_score": "17",
+            "seo_title": "Privacy Policy | SABER College",
+            "seo_description": "Learn how SABER College collects, uses, protects and manages personal information submitted through its website.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "17",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "Privacy Policy | SABER College",
+                "rank_math_description": "Learn how SABER College collects, uses, protects and manages personal information submitted through its website.",
+                "rank_math_focus_keyword": "SABER College privacy policy",
+                "rank_math_facebook_title": "Privacy Policy | SABER College",
+                "rank_math_facebook_description": "Learn how SABER College collects, uses, protects and manages personal information submitted through its website.",
+                "rank_math_twitter_title": "Privacy Policy | SABER College",
+                "rank_math_twitter_description": "Learn how SABER College collects, uses, protects and manages personal information submitted through its website."
+            }
+        },
+        {
+            "id": 1238,
+            "title": "Contact Us",
+            "slug": "contact",
+            "parent_id": 25,
+            "url": "http://localhost:8082/about_saber_college/contact/",
+            "modified_gmt": "2026-10-05T14:04:26+00:00",
+            "focus_keyword": "contact SABER College",
+            "seo_score": "14",
+            "seo_title": "Contact SABER College | Miami, Florida",
+            "seo_description": "Contact SABER College in Miami for information about programs, admissions, campus visits and student support.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "14",
+                "rank_math_title": "Contact SABER College | Miami, Florida",
+                "rank_math_description": "Contact SABER College in Miami for information about programs, admissions, campus visits and student support.",
+                "rank_math_focus_keyword": "contact SABER College",
+                "rank_math_facebook_title": "Contact SABER College | Miami, Florida",
+                "rank_math_facebook_description": "Contact SABER College in Miami for information about programs, admissions, campus visits and student support.",
+                "rank_math_twitter_title": "Contact SABER College | Miami, Florida",
+                "rank_math_twitter_description": "Contact SABER College in Miami for information about programs, admissions, campus visits and student support."
+            }
+        },
+        {
+            "id": 1328,
+            "title": "Plan Bunji",
+            "slug": "plan-bunji",
+            "parent_id": 0,
+            "url": "http://localhost:8082/plan-bunji/",
+            "modified_gmt": "2026-09-02T19:06:43+00:00",
+            "focus_keyword": "SABER College website redesign plan",
+            "seo_score": "6",
+            "seo_title": "Website Redesign Plan | SABER College",
+            "seo_description": "Internal SABER College website redesign plan covering architecture, content, migration and launch activities.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "6",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "Website Redesign Plan | SABER College",
+                "rank_math_description": "Internal SABER College website redesign plan covering architecture, content, migration and launch activities.",
+                "rank_math_focus_keyword": "SABER College website redesign plan",
+                "rank_math_facebook_title": "Website Redesign Plan | SABER College",
+                "rank_math_facebook_description": "Internal SABER College website redesign plan covering architecture, content, migration and launch activities.",
+                "rank_math_twitter_title": "Website Redesign Plan | SABER College",
+                "rank_math_twitter_description": "Internal SABER College website redesign plan covering architecture, content, migration and launch activities."
+            }
+        },
+        {
+            "id": 1591,
+            "title": "Request Info",
+            "slug": "request-info",
+            "parent_id": 0,
+            "url": "http://localhost:8082/request-info/",
+            "modified_gmt": "2026-09-28T20:22:43+00:00",
+            "focus_keyword": "request SABER College information",
+            "seo_score": "9",
+            "seo_title": "Request Information | SABER College",
+            "seo_description": "Request information about SABER College programs, admissions and enrollment support, and an advisor will contact you.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "9",
+                "rank_math_title": "Request Information | SABER College",
+                "rank_math_description": "Request information about SABER College programs, admissions and enrollment support, and an advisor will contact you.",
+                "rank_math_focus_keyword": "request SABER College information",
+                "rank_math_facebook_title": "Request Information | SABER College",
+                "rank_math_facebook_description": "Request information about SABER College programs, admissions and enrollment support, and an advisor will contact you.",
+                "rank_math_twitter_title": "Request Information | SABER College",
+                "rank_math_twitter_description": "Request information about SABER College programs, admissions and enrollment support, and an advisor will contact you."
+            }
+        },
+        {
+            "id": 1621,
+            "title": "Thank You Page",
+            "slug": "thank-you",
+            "parent_id": 0,
+            "url": "http://localhost:8082/thank-you/",
+            "modified_gmt": "2026-09-24T14:02:09+00:00",
+            "focus_keyword": "thank you SABER College",
+            "seo_score": "10",
+            "seo_title": "Thank You | SABER College",
+            "seo_description": "Thank you for contacting SABER College. An enrollment advisor will follow up using the information you provided.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "10",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_og_content_image": {
+                    "check": "9fa8c29a2885694ebdd5ecbec14ce599",
+                    "images": [
+                        466
+                    ]
+                },
+                "rank_math_title": "Thank You | SABER College",
+                "rank_math_description": "Thank you for contacting SABER College. An enrollment advisor will follow up using the information you provided.",
+                "rank_math_focus_keyword": "thank you SABER College",
+                "rank_math_facebook_title": "Thank You | SABER College",
+                "rank_math_facebook_description": "Thank you for contacting SABER College. An enrollment advisor will follow up using the information you provided.",
+                "rank_math_twitter_title": "Thank You | SABER College",
+                "rank_math_twitter_description": "Thank you for contacting SABER College. An enrollment advisor will follow up using the information you provided.",
+                "rank_math_robots": [
+                    "noindex"
+                ]
+            }
+        },
+        {
+            "id": 1628,
+            "title": "CARES Act",
+            "slug": "45-day-report-on-ed-grants",
+            "parent_id": 0,
+            "url": "http://localhost:8082/45-day-report-on-ed-grants/",
+            "modified_gmt": "2026-10-06T14:41:31+00:00",
+            "focus_keyword": "SABER College CARES Act reports",
+            "seo_score": "17",
+            "seo_title": "CARES Act Reports | SABER College",
+            "seo_description": "Access SABER College CARES Act reports and information about emergency federal funding for students and institutions.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "17",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "CARES Act Reports | SABER College",
+                "rank_math_description": "Access SABER College CARES Act reports and information about emergency federal funding for students and institutions.",
+                "rank_math_focus_keyword": "SABER College CARES Act reports",
+                "rank_math_facebook_title": "CARES Act Reports | SABER College",
+                "rank_math_facebook_description": "Access SABER College CARES Act reports and information about emergency federal funding for students and institutions.",
+                "rank_math_twitter_title": "CARES Act Reports | SABER College",
+                "rank_math_twitter_description": "Access SABER College CARES Act reports and information about emergency federal funding for students and institutions."
+            }
+        },
+        {
+            "id": 1633,
+            "title": "Safety Plan",
+            "slug": "safety-plan",
+            "parent_id": 36,
+            "url": "http://localhost:8082/general/safety-plan/",
+            "modified_gmt": "2026-10-06T14:36:08+00:00",
+            "focus_keyword": "SABER College safety plan",
+            "seo_score": "21",
+            "seo_title": "Safety Plan | SABER College",
+            "seo_description": "Review the SABER College health, safety and emergency preparedness plan for maintaining a secure campus environment.",
+            "robots": [],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_seo_score": "21",
+                "rank_math_internal_links_processed": "1",
+                "rank_math_title": "Safety Plan | SABER College",
+                "rank_math_description": "Review the SABER College health, safety and emergency preparedness plan for maintaining a secure campus environment.",
+                "rank_math_focus_keyword": "SABER College safety plan",
+                "rank_math_facebook_title": "Safety Plan | SABER College",
+                "rank_math_facebook_description": "Review the SABER College health, safety and emergency preparedness plan for maintaining a secure campus environment.",
+                "rank_math_twitter_title": "Safety Plan | SABER College",
+                "rank_math_twitter_description": "Review the SABER College health, safety and emergency preparedness plan for maintaining a secure campus environment."
+            }
+        },
+        {
+            "id": 1638,
+            "title": "LP – Home Page",
+            "slug": "lp",
+            "parent_id": 0,
+            "url": "http://localhost:8082/lp/",
+            "modified_gmt": "2026-09-24T16:15:08+00:00",
+            "focus_keyword": "SABER College Miami",
+            "seo_score": "15",
+            "seo_title": "SABER College in Miami | Request Information",
+            "seo_description": "Learn about SABER College's Miami campus, career-focused programs and options for requesting more information.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "15",
+                "rank_math_og_content_image": {
+                    "check": "523d1bab0da995960d16b2fb2c965c9a",
+                    "images": [
+                        1700
+                    ]
+                },
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "SABER College in Miami | Request Information",
+                "rank_math_description": "Learn about SABER College's Miami campus, career-focused programs and options for requesting more information.",
+                "rank_math_focus_keyword": "SABER College Miami",
+                "rank_math_facebook_title": "SABER College in Miami | Request Information",
+                "rank_math_facebook_description": "Learn about SABER College's Miami campus, career-focused programs and options for requesting more information.",
+                "rank_math_twitter_title": "SABER College in Miami | Request Information",
+                "rank_math_twitter_description": "Learn about SABER College's Miami campus, career-focused programs and options for requesting more information."
+            }
+        },
+        {
+            "id": 1639,
+            "title": "LP – Campus Location",
+            "slug": "campus-location",
+            "parent_id": 1638,
+            "url": "http://localhost:8082/lp/campus-location/",
+            "modified_gmt": "2026-10-05T14:04:27+00:00",
+            "focus_keyword": "SABER College campus Miami",
+            "seo_score": "9",
+            "seo_title": "Visit SABER College in Miami",
+            "seo_description": "Find the SABER College Miami campus, contact the admissions team and request information or arrange a campus visit.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "9",
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "Visit SABER College in Miami",
+                "rank_math_description": "Find the SABER College Miami campus, contact the admissions team and request information or arrange a campus visit.",
+                "rank_math_focus_keyword": "SABER College campus Miami",
+                "rank_math_facebook_title": "Visit SABER College in Miami",
+                "rank_math_facebook_description": "Find the SABER College Miami campus, contact the admissions team and request information or arrange a campus visit.",
+                "rank_math_twitter_title": "Visit SABER College in Miami",
+                "rank_math_twitter_description": "Find the SABER College Miami campus, contact the admissions team and request information or arrange a campus visit."
+            }
+        },
+        {
+            "id": 1640,
+            "title": "LP – Professional Nursing",
+            "slug": "pnp",
+            "parent_id": 1638,
+            "url": "http://localhost:8082/lp/pnp/",
+            "modified_gmt": "2026-10-16T15:24:19+00:00",
+            "focus_keyword": "professional nursing program Miami",
+            "seo_score": "17",
+            "seo_title": "Professional Nursing Program in Miami",
+            "seo_description": "Explore professional nursing education, clinical training, curriculum and career preparation at SABER College in Miami.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "17",
+                "rank_math_og_content_image": {
+                    "check": "0446850a3f64a50cc711f50156ce926c",
+                    "images": [
+                        1650,
+                        1659
+                    ]
+                },
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "Professional Nursing Program in Miami",
+                "rank_math_description": "Explore professional nursing education, clinical training, curriculum and career preparation at SABER College in Miami.",
+                "rank_math_focus_keyword": "professional nursing program Miami",
+                "rank_math_facebook_title": "Professional Nursing Program in Miami",
+                "rank_math_facebook_description": "Explore professional nursing education, clinical training, curriculum and career preparation at SABER College in Miami.",
+                "rank_math_twitter_title": "Professional Nursing Program in Miami",
+                "rank_math_twitter_description": "Explore professional nursing education, clinical training, curriculum and career preparation at SABER College in Miami."
+            }
+        },
+        {
+            "id": 1641,
+            "title": "LP – PTA",
+            "slug": "pta",
+            "parent_id": 1638,
+            "url": "http://localhost:8082/lp/pta/",
+            "modified_gmt": "2026-10-16T15:23:03+00:00",
+            "focus_keyword": "physical therapist assistant program Miami",
+            "seo_score": "16",
+            "seo_title": "Physical Therapist Assistant Program in Miami",
+            "seo_description": "Explore PTA education, hands-on training, curriculum and rehabilitation career preparation at SABER College in Miami.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_seo_score": "16",
+                "rank_math_og_content_image": {
+                    "check": "9546a64b8055088928e40cc0da303ad8",
+                    "images": [
+                        1650,
+                        1664
+                    ]
+                },
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "Physical Therapist Assistant Program in Miami",
+                "rank_math_description": "Explore PTA education, hands-on training, curriculum and rehabilitation career preparation at SABER College in Miami.",
+                "rank_math_focus_keyword": "physical therapist assistant program Miami",
+                "rank_math_facebook_title": "Physical Therapist Assistant Program in Miami",
+                "rank_math_facebook_description": "Explore PTA education, hands-on training, curriculum and rehabilitation career preparation at SABER College in Miami.",
+                "rank_math_twitter_title": "Physical Therapist Assistant Program in Miami",
+                "rank_math_twitter_description": "Explore PTA education, hands-on training, curriculum and rehabilitation career preparation at SABER College in Miami."
+            }
+        },
+        {
+            "id": 2066,
+            "title": "SABER Design System – Elementor",
+            "slug": "saber-design-system-elementor",
+            "parent_id": 0,
+            "url": "http://localhost:8082/saber-design-system-elementor/",
+            "modified_gmt": "2026-10-02T12:16:51+00:00",
+            "focus_keyword": "",
+            "seo_score": "10",
+            "seo_title": "SABER Design System – Elementor",
+            "seo_description": "Internal Elementor component library for SABER College.",
+            "robots": [
+                "noindex"
+            ],
+            "canonical": "",
+            "schema_type": "",
+            "rank_math_meta": {
+                "rank_math_internal_links_processed": "1",
+                "rank_math_robots": [
+                    "noindex"
+                ],
+                "rank_math_title": "SABER Design System – Elementor",
+                "rank_math_description": "Internal Elementor component library for SABER College.",
+                "rank_math_seo_score": "10"
+            }
+        }
+    ]
+}

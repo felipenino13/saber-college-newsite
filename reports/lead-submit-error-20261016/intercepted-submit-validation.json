@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-16T13:38:23.700Z",
+  "method": "Synthetic valid data. Lead endpoint requests were intercepted and fulfilled locally; nothing was transmitted.",
+  "cases": {
+    "pta-program": {
+      "httpStatus": 200,
+      "currentUrl": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "intercepted": [
+        {
+          "endpoint": "verityiq",
+          "method": "POST",
+          "hasPostData": true
+        },
+        {
+          "endpoint": "contact-email",
+          "method": "POST",
+          "hasPostData": true
+        }
+      ],
+      "interceptedExpectedEndpoints": true
+    },
+    "home": {
+      "httpStatus": 200,
+      "currentUrl": "http://localhost:8082/",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "intercepted": [
+        {
+          "endpoint": "verityiq",
+          "method": "POST",
+          "hasPostData": true
+        },
+        {
+          "endpoint": "contact-email",
+          "method": "POST",
+          "hasPostData": true
+        }
+      ],
+      "interceptedExpectedEndpoints": true
+    }
+  }
+}

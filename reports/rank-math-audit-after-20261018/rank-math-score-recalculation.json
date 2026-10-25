@@ -1,0 +1,108 @@
+{
+  "url": "http://localhost:8082/wp-admin/admin.php?page=rank-math-status&view=tools",
+  "button_found": true,
+  "before_excerpt": "Skip to main content\nSkip to toolbar\n\n\nDashboard\nHome\nUpdates 15\n\n\nElementor\nHome\nEditor\nTheme Builder\nSubmissions\n\n\nPosts\nAll Posts\nAdd Post\nGenerate New\nCategories\nTags\n\n\nNinja Tables\nTables\nImport\nCharts\nGet Pro\nHelp\n\n\nMedia\nLibrary\nAdd Media File\n\n\nPages\nAll Pages\nAdd Page\n\n\nComments\n\n\nRank Math SEO\nDashboard\nAI Visibility New!\nContent AI\nAI Link Genius\nAnalytics\nGeneral Settings\nTitles & Meta\nSitemap Settings\nInstant Indexing\nRedirections\nSEO Analyzer\nStatus & Tools\nHelp & Support\nUnlock PRO \n\n\nHello\nHome\nSettings\nTheme Builder\nAI Site Planner\n\n\nAppearance\nThemes 5\nDesign\nCustomize\nFonts\nMenus\nTheme File Editor\n\n\nPlugins 10\nInstalled Plugins\nAdd Plugin\nPlugin File Editor\n\n\nUsers\nAll Users\nAdd User\nProfile\n\n\nTools\nAvailable Tools\nImport\nExport\nSite Health\nExport Personal Data\nErase Personal Data\nPlayground\nGenerate Content\nGenerate Images\nScheduled Actions\n\n\nAll-in-One WP Migration\nExport\nImport\nBackups\n\n\nSettings\nGeneral\nConnectors\nWriting\nReading\nDiscussion\nMedia\nPermalinks\nPrivacy\n\n\nMeow Apps\nDashboard\nAI Engine\nTrustindex.io\nCollapse Menu\nAbout WordPress\nSaber College\n15\n15 updates available\nCtrl+K\nOpen command palette\n0\n0 Comments in moderation\nNew\nRank Math SEO\nHowdy, cristiannino\nRank Math SEO\nEasy Mode Advanced Mode\nDASHBOARD/TOOLS\n\nHey, we noticed you've been using Rank Math SEO for more than a week now – that's awesome!\nWe would love to get your feedback! It's essential for our continued development. Please consider taking a moment to leave us a review.\n\nBhanu Ahluwalia\nCo-founder of Rank Math\n\nYes, you deserve it\nNo, maybe later\nI already did\n\nDismiss this notice.\nVersion Control\nDatabase Tools\nSystem Status\nImport & Export\nFlush SEO Analyzer Data\n\nNeed a clean slate or not able to run the SEO Analyzer tool? Flushing the analysis data might fix the issue. Flushing SEO Analyzer data is entirely safe and doesn't remove any critical data from your website.\n\n\tClear SEO Analyzer\n\nRemove Rank Math Transients\n\nIf you see any issue while using Rank Math or one of its options - clearing the Rank Math transients fixes the problem in most cases. Deleting transients does not delete ANY data added using Rank Math.\n\n\tRemove transients\n\nRebuild Index for Analytics\n\nMissing some posts/pages in the Analytics data? Clear the index and build a new one for more accurate stats.\n\n\tRebuild Index\n\nPurge Analytics Cache\n\nClear analytics cache to re-calculate all the stats again.\n\n\tClear Cache\n\nRe-create Missing Database Tables\n\nCheck if required tables exist and create them if not.\n\n\tRe-create Tables\n\nFix Analytics table collations\n\nIn some cases, the Analytics database tables or columns don't match with each other, which can cause database errors. This tool can fix that issue.\n\n\tFix Collations\n\nDelete Internal Links Data\n\nIn some instances, the internal links data might show an inflated number or no number at all. Deleting the internal links data might fix the issue.\n\n\tDelete Internal Links\n\nDelete Redirections Rules\n\nGetting a redirection loop or need a ",
+  "after_excerpt": "Skip to main content\nSkip to toolbar\n\n\nDashboard\nHome\nUpdates 15\n\n\nElementor\nHome\nEditor\nTheme Builder\nSubmissions\n\n\nPosts\nAll Posts\nAdd Post\nGenerate New\nCategories\nTags\n\n\nNinja Tables\nTables\nImport\nCharts\nGet Pro\nHelp\n\n\nMedia\nLibrary\nAdd Media File\n\n\nPages\nAll Pages\nAdd Page\n\n\nComments\n\n\nRank Math SEO\nDashboard\nAI Visibility New!\nContent AI\nAI Link Genius\nAnalytics\nGeneral Settings\nTitles & Meta\nSitemap Settings\nInstant Indexing\nRedirections\nSEO Analyzer\nStatus & Tools\nHelp & Support\nUnlock PRO \n\n\nHello\nHome\nSettings\nTheme Builder\nAI Site Planner\n\n\nAppearance\nThemes 5\nDesign\nCustomize\nFonts\nMenus\nTheme File Editor\n\n\nPlugins 10\nInstalled Plugins\nAdd Plugin\nPlugin File Editor\n\n\nUsers\nAll Users\nAdd User\nProfile\n\n\nTools\nAvailable Tools\nImport\nExport\nSite Health\nExport Personal Data\nErase Personal Data\nPlayground\nGenerate Content\nGenerate Images\nScheduled Actions\n\n\nAll-in-One WP Migration\nExport\nImport\nBackups\n\n\nSettings\nGeneral\nConnectors\nWriting\nReading\nDiscussion\nMedia\nPermalinks\nPrivacy\n\n\nMeow Apps\nDashboard\nAI Engine\nTrustindex.io\nCollapse Menu\nAbout WordPress\nSaber College\n15\n15 updates available\nCtrl+K\nOpen command palette\n0\n0 Comments in moderation\nNew\nRank Math SEO\nHowdy, cristiannino\nRank Math SEO\nEasy Mode Advanced Mode\nDASHBOARD/TOOLS\n\nHey, we noticed you've been using Rank Math SEO for more than a week now – that's awesome!\nWe would love to get your feedback! It's essential for our continued development. Please consider taking a moment to leave us a review.\n\nBhanu Ahluwalia\nCo-founder of Rank Math\n\nYes, you deserve it\nNo, maybe later\nI already did\n\nDismiss this notice.\nVersion Control\nDatabase Tools\nSystem Status\nImport & Export\nFlush SEO Analyzer Data\n\nNeed a clean slate or not able to run the SEO Analyzer tool? Flushing the analysis data might fix the issue. Flushing SEO Analyzer data is entirely safe and doesn't remove any critical data from your website.\n\n\tClear SEO Analyzer\n\nRemove Rank Math Transients\n\nIf you see any issue while using Rank Math or one of its options - clearing the Rank Math transients fixes the problem in most cases. Deleting transients does not delete ANY data added using Rank Math.\n\n\tRemove transients\n\nRebuild Index for Analytics\n\nMissing some posts/pages in the Analytics data? Clear the index and build a new one for more accurate stats.\n\n\tRebuild Index\n\nPurge Analytics Cache\n\nClear analytics cache to re-calculate all the stats again.\n\n\tClear Cache\n\nRe-create Missing Database Tables\n\nCheck if required tables exist and create them if not.\n\n\tRe-create Tables\n\nFix Analytics table collations\n\nIn some cases, the Analytics database tables or columns don't match with each other, which can cause database errors. This tool can fix that issue.\n\n\tFix Collations\n\nDelete Internal Links Data\n\nIn some instances, the internal links data might show an inflated number or no number at all. Deleting the internal links data might fix the issue.\n\n\tDelete Internal Links\n\nDelete Redirections Rules\n\nGetting a redirection loop or need a ",
+  "network": [
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-admin/admin.php?page=rank-math-status&view=tools"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/assets/admin/css/common.css?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/includes/modules/status/assets/css/status.css?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/assets/admin/js/dashboard.js?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/includes/modules/status/assets/js/status.js?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/assets/admin/js/components.js?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/assets/admin/js/analyzer.js?ver=1.0.276"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/assets/admin/fonts/Rank-Math.ttf?v1.0.95"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/status/getViewData?_locale=user"
+    },
+    {
+      "status": 200,
+      "method": "GET",
+      "url": "http://localhost:8082/wp-content/plugins/seo-by-rank-math/includes/modules/status/assets/js/databaseTools.js"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/toolsAction"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/updateSeoScore"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/toolsAction"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/updateSeoScore"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/toolsAction"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/updateSeoScore"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/toolsAction"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/updateSeoScore"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/toolsAction"
+    },
+    {
+      "status": 200,
+      "method": "POST",
+      "url": "http://localhost:8082/wp-json/rankmath/v1/updateSeoScore"
+    }
+  ]
+}

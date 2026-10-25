@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "viewport": "desktop",
+      "httpStatus": 200,
+      "h1Count": 1,
+      "overflow": 0,
+      "officialLinks": [
+        {
+          "href": "https://web02.fldoe.org/CIE/SearchSchools/SchoolSearchDetail.aspx?schoolID=1400",
+          "target": "_blank",
+          "ariaLabel": "Verify SABER College with the Florida Commission for Independent Education"
+        },
+        {
+          "href": "https://council.org/member-directory/",
+          "target": "_blank",
+          "ariaLabel": "View the Council on Occupational Education member directory"
+        },
+        {
+          "href": "https://www.capteonline.org/programs/master-list-pta",
+          "target": "_blank",
+          "ariaLabel": "View CAPTE accredited Physical Therapist Assistant programs"
+        },
+        {
+          "href": "https://cnea.nln.org/accredited-programs",
+          "target": "_blank",
+          "ariaLabel": "View NLN CNEA accredited nursing programs"
+        }
+      ],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "passed": true
+    },
+    {
+      "viewport": "mobile",
+      "httpStatus": 200,
+      "h1Count": 1,
+      "overflow": 0,
+      "officialLinks": [
+        {
+          "href": "https://web02.fldoe.org/CIE/SearchSchools/SchoolSearchDetail.aspx?schoolID=1400",
+          "target": "_blank",
+          "ariaLabel": "Verify SABER College with the Florida Commission for Independent Education"
+        },
+        {
+          "href": "https://council.org/member-directory/",
+          "target": "_blank",
+          "ariaLabel": "View the Council on Occupational Education member directory"
+        },
+        {
+          "href": "https://www.capteonline.org/programs/master-list-pta",
+          "target": "_blank",
+          "ariaLabel": "View CAPTE accredited Physical Therapist Assistant programs"
+        },
+        {
+          "href": "https://cnea.nln.org/accredited-programs",
+          "target": "_blank",
+          "ariaLabel": "View NLN CNEA accredited nursing programs"
+        }
+      ],
+      "consoleErrors": [],
+      "pageErrors": [],
+      "passed": true
+    }
+  ]
+}

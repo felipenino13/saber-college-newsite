@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-10-16T13:36:32.199Z",
+  "method": "Synthetic invalid phone; no form submission or lead transmission.",
+  "cases": {
+    "pta-program": {
+      "httpStatus": 200,
+      "wrongSelectorCount": 0,
+      "radioCount": 2,
+      "checkedCount": 1,
+      "markerPresent": true,
+      "currentUrl": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "leadRequests": []
+    },
+    "home": {
+      "httpStatus": 200,
+      "wrongSelectorCount": 0,
+      "radioCount": 2,
+      "checkedCount": 1,
+      "markerPresent": true,
+      "currentUrl": "http://localhost:8082/",
+      "pageErrors": [],
+      "consoleErrors": [],
+      "leadRequests": []
+    }
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "url": "http://localhost:8082/lp/pta/",
+  "checkedAt": "2026-10-14T13:53:55.684Z",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program in Miami",
+      "lang": "en-US",
+      "statusClass": "wp-singular page-template page-template-elementor_canvas page page-id-1641 page-child parent-pageid-1638 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-1641 e--ua-blink e--ua-chrome e--ua-webkit",
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "pageHeight": 7117,
+      "topLevelSections": 10,
+      "headings": {
+        "h1": [
+          "Become a Physical Therapist Assistant (A.S.) and Start Your Career in Rehabilitation​"
+        ],
+        "h2": [
+          "Ready to Begin Your Physical Therapist Assistant Program?",
+          "Physical Therapist Assistant A.S. Degree Program Overview",
+          "Why Choose the Physical Therapist Assistant A.S. Program at SABER College?​",
+          "What You Will Learn in the Physical Therapist Assistant Program​",
+          "Physical Therapist Assistant Program Curriculum​",
+          "Career Outlook for Physical Therapist Assistants​",
+          "Admission Requirements",
+          "Frequently Asked Questions"
+        ],
+        "h3": [
+          "Foundational Knowledge & Theory",
+          "Clinical & Technical Skills",
+          "Patient Care & Communication​",
+          "Clinical Education (Supervised Clinical Rotations)​",
+          "General Education Courses​",
+          "Core Physical Therapist Assistant Courses",
+          "Supervised Clinical Education (On-Ground / In-Field)​",
+          "Classes starting soon – Limited seats available",
+          "How long does the program take?",
+          "Is financial aid available?",
+          "Do students receive clinical experience?"
+        ]
+      },
+      "formVisible": true,
+      "formFields": [
+        {
+          "id": "",
+          "name": "post_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "form_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "referer_title",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "queried_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "form-field-first_name",
+          "name": "form_fields[first_name]",
+          "type": "text",
+          "placeholder": "First Name"
+        },
+        {
+          "id": "form-field-last_name",
+          "name": "form_fields[last_name]",
+          "type": "text",
+          "placeholder": "Last Name"
+        },
+        {
+          "id": "form-field-email",
+          "name": "form_fields[email]",
+          "type": "email",
+          "placeholder": "Email"
+        },
+        {
+          "id": "form-field-field_b69b95f",
+          "name": "form_fields[field_b69b95f]",
+          "type": "tel",
+          "placeholder": "Phone"
+        }
+      ],
+      "submitLabels": [
+        "Send My Request"
+      ],
+      "ctaLabels": [
+        "Request Information",
+        "Request More Information",
+        "More Information",
+        "More Information",
+        "More Information"
+      ],
+      "images": [
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/saber-college-logo-white-1.png",
+          "alt": "SABER College",
+          "naturalWidth": 112,
+          "naturalHeight": 118,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-01.png",
+          "alt": "Physical therapist assistant supporting a patient during mobility exercise",
+          "naturalWidth": 1144,
+          "naturalHeight": 946,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-02.png",
+          "alt": "Physical therapist assistant helping a patient practice walking",
+          "naturalWidth": 1048,
+          "naturalHeight": 1007,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-03-1.png",
+          "alt": "Physical therapist assistant guiding a patient through a resistance exercise",
+          "naturalWidth": 932,
+          "naturalHeight": 911,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-03.png",
+          "alt": "Physical therapist assistant working with a pediatric patient",
+          "naturalWidth": 1016,
+          "naturalHeight": 924,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/acredited-to-saber-college.png",
+          "alt": "SABER College accreditation",
+          "naturalWidth": 312,
+          "naturalHeight": 63,
+          "visible": true
+        }
+      ],
+      "brokenImages": 0,
+      "emptyImageAlts": 0,
+      "duplicateIds": [],
+      "markerPresent": true,
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program in Miami",
+      "lang": "en-US",
+      "statusClass": "wp-singular page-template page-template-elementor_canvas page page-id-1641 page-child parent-pageid-1638 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-1641 e--ua-blink e--ua-chrome e--ua-webkit",
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "pageHeight": 12467,
+      "topLevelSections": 10,
+      "headings": {
+        "h1": [
+          "Become a Physical Therapist Assistant (A.S.) and Start Your Career in Rehabilitation​"
+        ],
+        "h2": [
+          "Ready to Begin Your Physical Therapist Assistant Program?",
+          "Physical Therapist Assistant A.S. Degree Program Overview",
+          "Why Choose the Physical Therapist Assistant A.S. Program at SABER College?​",
+          "What You Will Learn in the Physical Therapist Assistant Program​",
+          "Physical Therapist Assistant Program Curriculum​",
+          "Career Outlook for Physical Therapist Assistants​",
+          "Admission Requirements",
+          "Frequently Asked Questions"
+        ],
+        "h3": [
+          "Foundational Knowledge & Theory",
+          "Clinical & Technical Skills",
+          "Patient Care & Communication​",
+          "Clinical Education (Supervised Clinical Rotations)​",
+          "General Education Courses​",
+          "Core Physical Therapist Assistant Courses",
+          "Supervised Clinical Education (On-Ground / In-Field)​",
+          "Classes starting soon – Limited seats available",
+          "How long does the program take?",
+          "Is financial aid available?",
+          "Do students receive clinical experience?"
+        ]
+      },
+      "formVisible": true,
+      "formFields": [
+        {
+          "id": "",
+          "name": "post_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "form_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "referer_title",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "",
+          "name": "queried_id",
+          "type": "hidden",
+          "placeholder": ""
+        },
+        {
+          "id": "form-field-first_name",
+          "name": "form_fields[first_name]",
+          "type": "text",
+          "placeholder": "First Name"
+        },
+        {
+          "id": "form-field-last_name",
+          "name": "form_fields[last_name]",
+          "type": "text",
+          "placeholder": "Last Name"
+        },
+        {
+          "id": "form-field-email",
+          "name": "form_fields[email]",
+          "type": "email",
+          "placeholder": "Email"
+        },
+        {
+          "id": "form-field-field_b69b95f",
+          "name": "form_fields[field_b69b95f]",
+          "type": "tel",
+          "placeholder": "Phone"
+        }
+      ],
+      "submitLabels": [
+        "Send My Request"
+      ],
+      "ctaLabels": [
+        "Request Information",
+        "Request More Information",
+        "More Information",
+        "More Information",
+        "More Information"
+      ],
+      "images": [
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/saber-college-logo-white-1.png",
+          "alt": "SABER College",
+          "naturalWidth": 112,
+          "naturalHeight": 118,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-01-768x635.png",
+          "alt": "Physical therapist assistant supporting a patient during mobility exercise",
+          "naturalWidth": 390,
+          "naturalHeight": 322,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-02-768x738.png",
+          "alt": "Physical therapist assistant helping a patient practice walking",
+          "naturalWidth": 390,
+          "naturalHeight": 374,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-03-1-768x751.png",
+          "alt": "Physical therapist assistant guiding a patient through a resistance exercise",
+          "naturalWidth": 390,
+          "naturalHeight": 381,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-03-768x698.png",
+          "alt": "Physical therapist assistant working with a pediatric patient",
+          "naturalWidth": 390,
+          "naturalHeight": 354,
+          "visible": true
+        },
+        {
+          "src": "http://localhost:8082/wp-content/uploads/2026/09/acredited-to-saber-college.png",
+          "alt": "SABER College accreditation",
+          "naturalWidth": 312,
+          "naturalHeight": 63,
+          "visible": true
+        }
+      ],
+      "brokenImages": 0,
+      "emptyImageAlts": 0,
+      "duplicateIds": [],
+      "markerPresent": true,
+      "consoleErrors": [],
+      "requestFailures": []
+    }
+  },
+  "elementorStructure": {
+    "topLevelSections": 10,
+    "elementTypes": {
+      "e-flexbox": 53,
+      "widget": 69
+    },
+    "widgetTypes": {
+      "image": 6,
+      "button": 5,
+      "heading": 20,
+      "text-editor": 36,
+      "menu-anchor": 1,
+      "form": 1
+    },
+    "nativeEditable": true
+  },
+  "contentPreservation": {
+    "originalUniqueVisibleStrings": 60,
+    "missingStrings": [],
+    "removedEditorialMarker": "// Eliminar"
+  },
+  "implementation": {
+    "pageId": 1641,
+    "localOnly": true,
+    "publishedToProduction": false,
+    "convertedCtas": 4,
+    "formSubmitLabel": "Send My Request",
+    "formFieldIdsUnique": true,
+    "mediaIds": [
+      1663,
+      1664,
+      1666,
+      1665,
+      1662,
+      1651
+    ],
+    "designAssetIds": [
+      2064,
+      2065
+    ],
+    "idempotentSecondRun": true,
+    "elementorDataSha256": "c9ffe28e0ee7c31f93fa36d4e4b6f1c8a24749d8d72ef6a901156fb7d7a1296d"
+  }
+}

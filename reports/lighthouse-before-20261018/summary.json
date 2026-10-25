@@ -1,0 +1,17 @@
+{
+  "generated_date": "2026-10-18",
+  "scope": "Read-only Lighthouse laboratory baseline on local WordPress. No performance changes applied.",
+  "lighthouse_version": "13.5.0",
+  "mobile_pages": 9,
+  "median_mobile_score": 72.0,
+  "average_mobile_score": 71.9,
+  "home_mobile_score_median": 69.0,
+  "home_desktop_score": 89.0,
+  "mobile_lcp_good": 0,
+  "mobile_lcp_needs_improvement": 1,
+  "mobile_lcp_poor": 8,
+  "mobile_cls_good": 8,
+  "mobile_tbt_good": 9,
+  "heaviest_page": "home",
+  "largest_lcp_page": "professional-nursing"
+}

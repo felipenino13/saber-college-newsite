@@ -1,0 +1,50 @@
+[
+  {
+    "postId": 1638,
+    "nodesBefore": 28,
+    "nodesAfter": 28,
+    "widgetsBefore": 17,
+    "widgetsAfter": 17,
+    "visibleTextPreserved": true
+  },
+  {
+    "postId": 25,
+    "nodesBefore": 65,
+    "nodesAfter": 65,
+    "widgetsBefore": 30,
+    "widgetsAfter": 30,
+    "visibleTextPreserved": true
+  },
+  {
+    "postId": 34,
+    "nodesBefore": 63,
+    "nodesAfter": 63,
+    "widgetsBefore": 36,
+    "widgetsAfter": 36,
+    "visibleTextPreserved": true
+  },
+  {
+    "postId": 898,
+    "nodesBefore": 71,
+    "nodesAfter": 71,
+    "widgetsBefore": 35,
+    "widgetsAfter": 35,
+    "visibleTextPreserved": true
+  },
+  {
+    "postId": 902,
+    "nodesBefore": 29,
+    "nodesAfter": 29,
+    "widgetsBefore": 12,
+    "widgetsAfter": 12,
+    "visibleTextPreserved": true
+  },
+  {
+    "postId": 911,
+    "nodesBefore": 52,
+    "nodesAfter": 52,
+    "widgetsBefore": 24,
+    "widgetsAfter": 24,
+    "visibleTextPreserved": true
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "post_id": 30,
+    "nodes_before": 38,
+    "nodes_after": 38,
+    "widgets_before": 18,
+    "widgets_after": 18,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 312,
+    "nodes_before": 6,
+    "nodes_after": 6,
+    "widgets_before": 2,
+    "widgets_after": 2,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 904,
+    "nodes_before": 22,
+    "nodes_after": 22,
+    "widgets_before": 8,
+    "widgets_after": 8,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 1225,
+    "nodes_before": 81,
+    "nodes_after": 81,
+    "widgets_before": 49,
+    "widgets_after": 49,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 1238,
+    "nodes_before": 24,
+    "nodes_after": 24,
+    "widgets_before": 16,
+    "widgets_after": 16,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 1638,
+    "nodes_before": 28,
+    "nodes_after": 28,
+    "widgets_before": 17,
+    "widgets_after": 17,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 1639,
+    "nodes_before": 15,
+    "nodes_after": 15,
+    "widgets_before": 14,
+    "widgets_after": 14,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  },
+  {
+    "post_id": 2066,
+    "nodes_before": 151,
+    "nodes_after": 151,
+    "widgets_before": 94,
+    "widgets_after": 94,
+    "node_ids_equal": true,
+    "widgets_equal": true,
+    "visible_text_equal": true
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "blog_public_before": 1,
+  "blog_public_after": 1,
+  "rank_math_robots": [
+    {
+      "setting": "homepage_custom_robots",
+      "before": "off",
+      "after": "off",
+      "unchanged": true
+    },
+    {
+      "setting": "pt_post_robots",
+      "before": [
+        "index"
+      ],
+      "after": [
+        "index"
+      ],
+      "unchanged": true
+    },
+    {
+      "setting": "pt_post_custom_robots",
+      "before": "off",
+      "after": "off",
+      "unchanged": true
+    },
+    {
+      "setting": "pt_page_robots",
+      "before": [
+        "index"
+      ],
+      "after": [
+        "index"
+      ],
+      "unchanged": true
+    },
+    {
+      "setting": "pt_page_custom_robots",
+      "before": "off",
+      "after": "off",
+      "unchanged": true
+    },
+    {
+      "setting": "tax_category_robots",
+      "before": [
+        "index"
+      ],
+      "after": [
+        "index"
+      ],
+      "unchanged": true
+    },
+    {
+      "setting": "tax_category_custom_robots",
+      "before": "off",
+      "after": "off",
+      "unchanged": true
+    },
+    {
+      "setting": "author_robots",
+      "before": [
+        "noindex"
+      ],
+      "after": [
+        "noindex"
+      ],
+      "unchanged": true
+    },
+    {
+      "setting": "date_archive_robots",
+      "before": [
+        "noindex"
+      ],
+      "after": [
+        "noindex"
+      ],
+      "unchanged": true
+    },
+    {
+      "setting": "noindex_search",
+      "before": "on",
+      "after": "on",
+      "unchanged": true
+    },
+    {
+      "setting": "noindex_password_protected",
+      "before": "on",
+      "after": "on",
+      "unchanged": true
+    }
+  ]
+}

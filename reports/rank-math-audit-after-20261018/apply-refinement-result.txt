@@ -1,0 +1,11 @@
+{
+    "status": "applied",
+    "backup": "/tmp/rank-math-seo-before-20261019-165621.json",
+    "target_pages": 36,
+    "changed_pages": 2,
+    "changed_attachments": 0,
+    "visible_content_unchanged": true,
+    "elementor_data_unchanged": true,
+    "protected_noindex_unchanged": true,
+    "schema_policy": "Keep Rank Math base WebPage/Organization/Breadcrumb schema; do not add unsupported specialized schema."
+}

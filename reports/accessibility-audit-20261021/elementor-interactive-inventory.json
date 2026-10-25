@@ -1,0 +1,635 @@
+{
+    "generated_at": "2026-10-21T15:18:16+00:00",
+    "interactive_widgets": [
+        {
+            "post_id": 7,
+            "post_type": "page",
+            "post_title": "Home",
+            "permalink": "http://localhost:8082/",
+            "widget_id": "b7159a9",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "field_3909b08",
+                    "label": "",
+                    "type": "step",
+                    "required": false,
+                    "placeholder": ""
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "radio",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "field_a7abbcc",
+                    "label": "",
+                    "type": "step",
+                    "required": false,
+                    "placeholder": ""
+                },
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 7,
+            "post_type": "page",
+            "post_title": "Home",
+            "permalink": "http://localhost:8082/",
+            "widget_id": "813061b",
+            "widget_type": "nested-accordion"
+        },
+        {
+            "post_id": 7,
+            "post_type": "page",
+            "post_title": "Home",
+            "permalink": "http://localhost:8082/",
+            "widget_id": "3b03483",
+            "widget_type": "nested-accordion"
+        },
+        {
+            "post_id": 7,
+            "post_type": "page",
+            "post_title": "Home",
+            "permalink": "http://localhost:8082/",
+            "widget_id": "08f2517",
+            "widget_type": "nested-accordion"
+        },
+        {
+            "post_id": 16,
+            "post_type": "elementor_library",
+            "post_title": "Elementor Header #16",
+            "permalink": "http://localhost:8082/?elementor_library=elementor-header-16",
+            "widget_id": "81dc770",
+            "widget_type": "nav-menu"
+        },
+        {
+            "post_id": 25,
+            "post_type": "page",
+            "post_title": "About Us",
+            "permalink": "http://localhost:8082/about_saber_college/",
+            "widget_id": "d26557f",
+            "widget_type": "nested-accordion"
+        },
+        {
+            "post_id": 30,
+            "post_type": "page",
+            "post_title": "Programs",
+            "permalink": "http://localhost:8082/saber_college_programs/",
+            "widget_id": "8a349f9",
+            "widget_type": "nested-accordion"
+        },
+        {
+            "post_id": 870,
+            "post_type": "page",
+            "post_title": "Professional Nursing Program",
+            "permalink": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+            "widget_id": "a4f5da5",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "hidden",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 872,
+            "post_type": "page",
+            "post_title": "Physical Therapist Assistant Program",
+            "permalink": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+            "widget_id": "79c7aa8",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "hidden",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 904,
+            "post_type": "page",
+            "post_title": "SABER Survey",
+            "permalink": "http://localhost:8082/student-services/saber-survey/",
+            "widget_id": "4df5919",
+            "widget_type": "form",
+            "form_name": "SABER Survey",
+            "fields": [
+                {
+                    "id": "name",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "field_7293d48",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "field_5683ed1",
+                    "label": "ID School",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "ID School"
+                },
+                {
+                    "id": "field_8bf7e9e",
+                    "label": "Choose your group",
+                    "type": "select",
+                    "required": true,
+                    "placeholder": "ID School"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "field_c169549",
+                    "label": "Rent (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Rent (Monthly) *"
+                },
+                {
+                    "id": "field_c12e701",
+                    "label": "Utilities (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Utilities (Monthly) *"
+                },
+                {
+                    "id": "field_2f612da",
+                    "label": "Food Costs (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Food Costs (Monthly) *"
+                },
+                {
+                    "id": "field_7dabd04",
+                    "label": "Clothing (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Clothing (Monthly) *"
+                },
+                {
+                    "id": "field_7bb4e9b",
+                    "label": "Laundry And Cleaning (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Laundry And Cleaning (Monthly) *"
+                },
+                {
+                    "id": "field_e5c93a6",
+                    "label": "Recreation (Monthly) *",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Recreation (Monthly) *"
+                }
+            ]
+        },
+        {
+            "post_id": 1638,
+            "post_type": "page",
+            "post_title": "LP – Home Page",
+            "permalink": "http://localhost:8082/lp/",
+            "widget_id": "1ab1020",
+            "widget_type": "form",
+            "form_name": "New Form",
+            "fields": [
+                {
+                    "id": "name",
+                    "label": "First Name",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "name",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "field_b69b95f",
+                    "label": "Phone",
+                    "type": "tel",
+                    "required": false,
+                    "placeholder": "Phone"
+                }
+            ]
+        },
+        {
+            "post_id": 1639,
+            "post_type": "page",
+            "post_title": "LP – Campus Location",
+            "permalink": "http://localhost:8082/lp/campus-location/",
+            "widget_id": "3d1ed48",
+            "widget_type": "form",
+            "form_name": "New Form",
+            "fields": [
+                {
+                    "id": "name",
+                    "label": "First Name",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "name",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "field_b69b95f",
+                    "label": "Phone",
+                    "type": "tel",
+                    "required": false,
+                    "placeholder": "Phone"
+                }
+            ]
+        },
+        {
+            "post_id": 1640,
+            "post_type": "page",
+            "post_title": "LP – Professional Nursing",
+            "permalink": "http://localhost:8082/lp/pnp/",
+            "widget_id": "pnpform",
+            "widget_type": "menu-anchor"
+        },
+        {
+            "post_id": 1640,
+            "post_type": "page",
+            "post_title": "LP – Professional Nursing",
+            "permalink": "http://localhost:8082/lp/pnp/",
+            "widget_id": "50382d0",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "hidden",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 1641,
+            "post_type": "page",
+            "post_title": "LP – PTA",
+            "permalink": "http://localhost:8082/lp/pta/",
+            "widget_id": "ptaform",
+            "widget_type": "menu-anchor"
+        },
+        {
+            "post_id": 1641,
+            "post_type": "page",
+            "post_title": "LP – PTA",
+            "permalink": "http://localhost:8082/lp/pta/",
+            "widget_id": "84d4098",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "hidden",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 2015,
+            "post_type": "elementor_library",
+            "post_title": "Form General",
+            "permalink": "http://localhost:8082/?elementor_library=form-general",
+            "widget_id": "f698ff6",
+            "widget_type": "form",
+            "form_name": "Request Information",
+            "fields": [
+                {
+                    "id": "fname",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "lname",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "Email"
+                },
+                {
+                    "id": "phone",
+                    "label": "Phone",
+                    "type": "",
+                    "required": false,
+                    "placeholder": "Phone"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of interes",
+                    "type": "radio",
+                    "required": true,
+                    "placeholder": "Program of interes"
+                },
+                {
+                    "id": "campus",
+                    "label": "Campus",
+                    "type": "hidden",
+                    "required": false,
+                    "placeholder": "Campus"
+                }
+            ]
+        },
+        {
+            "post_id": 2066,
+            "post_type": "page",
+            "post_title": "SABER Design System – Elementor",
+            "permalink": "http://localhost:8082/saber-design-system-elementor/",
+            "widget_id": "a1d4c6c",
+            "widget_type": "menu-anchor"
+        },
+        {
+            "post_id": 2066,
+            "post_type": "page",
+            "post_title": "SABER Design System – Elementor",
+            "permalink": "http://localhost:8082/saber-design-system-elementor/",
+            "widget_id": "27e9a1e",
+            "widget_type": "form",
+            "form_name": "Design System Example - No Actions",
+            "fields": [
+                {
+                    "id": "first_name",
+                    "label": "First Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "First Name"
+                },
+                {
+                    "id": "last_name",
+                    "label": "Last Name",
+                    "type": "",
+                    "required": true,
+                    "placeholder": "Last Name"
+                },
+                {
+                    "id": "email",
+                    "label": "Email",
+                    "type": "email",
+                    "required": true,
+                    "placeholder": "name@example.com"
+                },
+                {
+                    "id": "program",
+                    "label": "Program of Interest",
+                    "type": "select",
+                    "required": true,
+                    "placeholder": ""
+                },
+                {
+                    "id": "message",
+                    "label": "How can we help?",
+                    "type": "textarea",
+                    "required": false,
+                    "placeholder": "Tell us what you need"
+                }
+            ]
+        },
+        {
+            "post_id": 2066,
+            "post_type": "page",
+            "post_title": "SABER Design System – Elementor",
+            "permalink": "http://localhost:8082/saber-design-system-elementor/",
+            "widget_id": "9ab7779",
+            "widget_type": "menu-anchor"
+        }
+    ],
+    "counts": {
+        "form": 10,
+        "nested-accordion": 5,
+        "nav-menu": 1,
+        "menu-anchor": 4
+    }
+}

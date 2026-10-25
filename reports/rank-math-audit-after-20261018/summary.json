@@ -1,0 +1,36 @@
+{
+  "generated_date": "2026-10-18",
+  "environment": "Local WordPress at http://localhost:8082/",
+  "before": {
+    "total_pages": 43,
+    "indexable_pages": 36,
+    "noindex_pages": 7,
+    "average_indexable_score": 30.4,
+    "red_indexable": 29,
+    "yellow_indexable": 6,
+    "green_indexable": 1
+  },
+  "after": {
+    "total_pages": 43,
+    "indexable_pages": 36,
+    "noindex_pages": 7,
+    "average_indexable_score": 66.6,
+    "red_indexable": 0,
+    "yellow_indexable": 36,
+    "green_indexable": 0,
+    "pages_http_200": 43,
+    "pages_with_exactly_one_h1": 43,
+    "pages_with_browser_errors": 0,
+    "missing_alt_total": 0,
+    "base_schema_pages": 43,
+    "indexable_titles_in_range": 36,
+    "indexable_descriptions_in_range": 36
+  },
+  "changes": {
+    "average_score": 36.2,
+    "red_pages": -29,
+    "missing_alt": -26,
+    "metadata_pages_updated": 36,
+    "attachment_alts_updated": 16
+  }
+}

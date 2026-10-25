@@ -1,0 +1,1090 @@
+{
+  "summary": {
+    "generated_date": "2026-10-18",
+    "scope": "Read-only Lighthouse laboratory baseline on local WordPress. No performance changes applied.",
+    "lighthouse_version": "13.5.0",
+    "mobile_pages": 9,
+    "median_mobile_score": 72.0,
+    "average_mobile_score": 71.9,
+    "home_mobile_score_median": 69.0,
+    "home_desktop_score": 89.0,
+    "mobile_lcp_good": 0,
+    "mobile_lcp_needs_improvement": 1,
+    "mobile_lcp_poor": 8,
+    "mobile_cls_good": 8,
+    "mobile_tbt_good": 9,
+    "heaviest_page": "home",
+    "largest_lcp_page": "professional-nursing"
+  },
+  "mobile_pages": [
+    {
+      "slug": "home",
+      "label": "Home",
+      "url": "http://localhost:8082/",
+      "runs": 3,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:16:36.327Z",
+        "2026-10-19T04:19:44.893Z",
+        "2026-10-19T04:20:06.849Z"
+      ],
+      "score": 69.0,
+      "fcp_ms": 2308.1151,
+      "lcp_ms": 4831.544349999999,
+      "tbt_ms": 46.000000000000455,
+      "cls": 0.16231746586305656,
+      "speed_index_ms": 5191.343870220699,
+      "tti_ms": 6841.649867499999,
+      "transfer_bytes": 16243636.0,
+      "request_count": 94,
+      "main_thread_ms": 2649.3159999999784,
+      "server_response_ms": 608.0,
+      "dom_elements": 1055,
+      "image_savings_bytes": 7370594.0,
+      "unused_js_bytes": 47828.0,
+      "unused_css_bytes": 12614.0,
+      "third_party_bytes": 287816.0,
+      "lcp_element": "Healthcare Career Training in Miami\n\nYour Future in Healthcare Starts Here\n\nGai…"
+    },
+    {
+      "slug": "programs",
+      "label": "Programs",
+      "url": "http://localhost:8082/saber_college_programs/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:16:58.770Z"
+      ],
+      "score": 64.0,
+      "fcp_ms": 3664.593,
+      "lcp_ms": 6522.655000000001,
+      "tbt_ms": 101.5,
+      "cls": 0.0,
+      "speed_index_ms": 6410.448860997007,
+      "tti_ms": 6597.655000000001,
+      "transfer_bytes": 1848907.0,
+      "request_count": 63,
+      "main_thread_ms": 1296.4160000000043,
+      "server_response_ms": 343.0,
+      "dom_elements": 524,
+      "image_savings_bytes": 1005549.0,
+      "unused_js_bytes": 47818.0,
+      "unused_css_bytes": 12614.0,
+      "third_party_bytes": 72964.0,
+      "lcp_element": "Healthcare Programs\nFull-Time Program\n\nAssociate of Science Degree\n\nProfessiona…"
+    },
+    {
+      "slug": "professional-nursing",
+      "label": "Professional Nursing",
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:17:20.247Z"
+      ],
+      "score": 63.0,
+      "fcp_ms": 3223.037376879859,
+      "lcp_ms": 13281.589440019881,
+      "tbt_ms": 109.0,
+      "cls": 0.0,
+      "speed_index_ms": 6295.2607138826015,
+      "tti_ms": 13904.549337014098,
+      "transfer_bytes": 7085894.0,
+      "request_count": 84,
+      "main_thread_ms": 2228.41999999999,
+      "server_response_ms": 385.0,
+      "dom_elements": 727,
+      "image_savings_bytes": 4491766.0,
+      "unused_js_bytes": 47818.0,
+      "unused_css_bytes": 26678.0,
+      "third_party_bytes": 246226.0,
+      "lcp_element": "Inspire Your Patients. Inspire Yourself.\n\nProfessional Nursing Program (A.S.)\nF…"
+    },
+    {
+      "slug": "physical-therapist-assistant",
+      "label": "Physical Therapist Assistant",
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:17:42.188Z"
+      ],
+      "score": 83.0,
+      "fcp_ms": 2330.517365133164,
+      "lcp_ms": 3979.5309314164556,
+      "tbt_ms": 121.50000000000091,
+      "cls": 0.02730505793336984,
+      "speed_index_ms": 3141.2543698732384,
+      "tti_ms": 7124.692658131044,
+      "transfer_bytes": 6157425.0,
+      "request_count": 83,
+      "main_thread_ms": 2516.2399999999857,
+      "server_response_ms": 417.0,
+      "dom_elements": 841,
+      "image_savings_bytes": 4436679.0,
+      "unused_js_bytes": 47828.0,
+      "unused_css_bytes": 26662.0,
+      "third_party_bytes": 246201.0,
+      "lcp_element": "Inspire Your Patients. Inspire Yourself.\n\nPhysical Therapist Assistant Program\n…"
+    },
+    {
+      "slug": "admissions-tuition",
+      "label": "Admissions and Tuition",
+      "url": "http://localhost:8082/admissions-and-tuition/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:18:02.968Z"
+      ],
+      "score": 73.0,
+      "fcp_ms": 2901.8551999999995,
+      "lcp_ms": 5330.569200000001,
+      "tbt_ms": 105.0,
+      "cls": 0.0,
+      "speed_index_ms": 4150.25031517107,
+      "tti_ms": 5369.619200000001,
+      "transfer_bytes": 645573.0,
+      "request_count": 57,
+      "main_thread_ms": 1352.696000000005,
+      "server_response_ms": 358.0,
+      "dom_elements": 564,
+      "image_savings_bytes": 172433.0,
+      "unused_js_bytes": 47818.0,
+      "unused_css_bytes": 12614.0,
+      "third_party_bytes": 40684.0,
+      "lcp_element": ""
+    },
+    {
+      "slug": "student-services",
+      "label": "Student Services",
+      "url": "http://localhost:8082/student-services/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:18:23.222Z"
+      ],
+      "score": 63.0,
+      "fcp_ms": 2973.72605,
+      "lcp_ms": 10844.8287,
+      "tbt_ms": 177.0,
+      "cls": 0.0,
+      "speed_index_ms": 5627.903124957176,
+      "tti_ms": 10874.828700000002,
+      "transfer_bytes": 1814973.0,
+      "request_count": 62,
+      "main_thread_ms": 1266.3800000000037,
+      "server_response_ms": 364.0,
+      "dom_elements": 580,
+      "image_savings_bytes": 1172670.0,
+      "unused_js_bytes": 47818.0,
+      "unused_css_bytes": 12614.0,
+      "third_party_bytes": 40684.0,
+      "lcp_element": "div.elementor-element > div.elementor-element > div.elementor-element > div.elementor-element"
+    },
+    {
+      "slug": "general",
+      "label": "General",
+      "url": "http://localhost:8082/general/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:18:44.619Z"
+      ],
+      "score": 72.0,
+      "fcp_ms": 2139.4034500000007,
+      "lcp_ms": 10813.286824999996,
+      "tbt_ms": 34.0,
+      "cls": 0.02605098772458056,
+      "speed_index_ms": 3276.7926654862717,
+      "tti_ms": 10820.797242499997,
+      "transfer_bytes": 2105413.0,
+      "request_count": 59,
+      "main_thread_ms": 1356.904000000004,
+      "server_response_ms": 381.0,
+      "dom_elements": 529,
+      "image_savings_bytes": 1319994.0,
+      "unused_js_bytes": 47818.0,
+      "unused_css_bytes": 12614.0,
+      "third_party_bytes": 82460.0,
+      "lcp_element": ""
+    },
+    {
+      "slug": "lp-pnp",
+      "label": "Landing PNP",
+      "url": "http://localhost:8082/lp/pnp/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:19:04.793Z"
+      ],
+      "score": 81.0,
+      "fcp_ms": 2959.41720178208,
+      "lcp_ms": 4068.9156482066123,
+      "tbt_ms": 62.0,
+      "cls": 0.0,
+      "speed_index_ms": 3315.862187480553,
+      "tti_ms": 4068.915648206613,
+      "transfer_bytes": 385109.0,
+      "request_count": 46,
+      "main_thread_ms": 1220.4240000000036,
+      "server_response_ms": 311.0,
+      "dom_elements": 358,
+      "image_savings_bytes": 54511.0,
+      "unused_js_bytes": 0,
+      "unused_css_bytes": 0,
+      "third_party_bytes": 124494.0,
+      "lcp_element": ""
+    },
+    {
+      "slug": "lp-pta",
+      "label": "Landing PTA",
+      "url": "http://localhost:8082/lp/pta/",
+      "runs": 1,
+      "lighthouse_version": "13.5.0",
+      "fetch_times": [
+        "2026-10-19T04:19:24.836Z"
+      ],
+      "score": 79.0,
+      "fcp_ms": 2926.6437,
+      "lcp_ms": 4372.3485,
+      "tbt_ms": 54.98239999999987,
+      "cls": 0.0,
+      "speed_index_ms": 3322.7039551518747,
+      "tti_ms": 4372.3485,
+      "transfer_bytes": 444701.0,
+      "request_count": 46,
+      "main_thread_ms": 1205.1760000000045,
+      "server_response_ms": 316.0,
+      "dom_elements": 341,
+      "image_savings_bytes": 117732.0,
+      "unused_js_bytes": 0,
+      "unused_css_bytes": 0,
+      "third_party_bytes": 124486.0,
+      "lcp_element": ""
+    }
+  ],
+  "home_desktop": {
+    "slug": "home",
+    "label": "Home",
+    "url": "http://localhost:8082/",
+    "runs": 1,
+    "lighthouse_version": "13.5.0",
+    "fetch_times": [
+      "2026-10-19T04:20:28.649Z"
+    ],
+    "score": 89.0,
+    "fcp_ms": 764.6976106302166,
+    "lcp_ms": 1011.9401106302166,
+    "tbt_ms": 0.0,
+    "cls": 0.16440626177033968,
+    "speed_index_ms": 1527.6169860814446,
+    "tti_ms": 1015.9401106302166,
+    "transfer_bytes": 16724170.0,
+    "request_count": 95,
+    "main_thread_ms": 768.8889999999915,
+    "server_response_ms": 615.0,
+    "dom_elements": 1055,
+    "image_savings_bytes": 8601864.0,
+    "unused_js_bytes": 47854.0,
+    "unused_css_bytes": 12141.0,
+    "third_party_bytes": 240816.0,
+    "lcp_element": "Healthcare Career Training in Miami\n\nYour Future in Healthcare Starts Here\n\nGai…"
+  },
+  "resource_types_by_page": {
+    "home": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 42258
+      },
+      "Stylesheet": {
+        "requests": 30,
+        "transfer_bytes": 64678
+      },
+      "Script": {
+        "requests": 33,
+        "transfer_bytes": 417176
+      },
+      "Image": {
+        "requests": 24,
+        "transfer_bytes": 10796208
+      },
+      "Fetch": {
+        "requests": 2,
+        "transfer_bytes": 581
+      },
+      "Font": {
+        "requests": 2,
+        "transfer_bytes": 70161
+      },
+      "Media": {
+        "requests": 1,
+        "transfer_bytes": 4522412
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "programs": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 20631
+      },
+      "Stylesheet": {
+        "requests": 24,
+        "transfer_bytes": 50664
+      },
+      "Script": {
+        "requests": 23,
+        "transfer_bytes": 279365
+      },
+      "Image": {
+        "requests": 12,
+        "transfer_bytes": 1425607
+      },
+      "Font": {
+        "requests": 2,
+        "transfer_bytes": 70161
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "professional-nursing": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 31129
+      },
+      "Stylesheet": {
+        "requests": 26,
+        "transfer_bytes": 72584
+      },
+      "Script": {
+        "requests": 29,
+        "transfer_bytes": 409540
+      },
+      "Image": {
+        "requests": 24,
+        "transfer_bytes": 6492822
+      },
+      "Font": {
+        "requests": 2,
+        "transfer_bytes": 70161
+      },
+      "XHR": {
+        "requests": 1,
+        "transfer_bytes": 7179
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "physical-therapist-assistant": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 31498
+      },
+      "Stylesheet": {
+        "requests": 26,
+        "transfer_bytes": 71968
+      },
+      "Script": {
+        "requests": 29,
+        "transfer_bytes": 409918
+      },
+      "Image": {
+        "requests": 22,
+        "transfer_bytes": 5564913
+      },
+      "Font": {
+        "requests": 2,
+        "transfer_bytes": 70161
+      },
+      "XHR": {
+        "requests": 2,
+        "transfer_bytes": 6488
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "admissions-tuition": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 21042
+      },
+      "Stylesheet": {
+        "requests": 22,
+        "transfer_bytes": 48870
+      },
+      "Script": {
+        "requests": 22,
+        "transfer_bytes": 273984
+      },
+      "Image": {
+        "requests": 10,
+        "transfer_bytes": 260014
+      },
+      "Font": {
+        "requests": 1,
+        "transfer_bytes": 39184
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "student-services": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 22577
+      },
+      "Stylesheet": {
+        "requests": 24,
+        "transfer_bytes": 51769
+      },
+      "Script": {
+        "requests": 23,
+        "transfer_bytes": 277135
+      },
+      "Image": {
+        "requests": 12,
+        "transfer_bytes": 1421829
+      },
+      "Font": {
+        "requests": 1,
+        "transfer_bytes": 39184
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "general": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 21413
+      },
+      "Stylesheet": {
+        "requests": 22,
+        "transfer_bytes": 48300
+      },
+      "Script": {
+        "requests": 23,
+        "transfer_bytes": 277135
+      },
+      "Image": {
+        "requests": 10,
+        "transfer_bytes": 1675126
+      },
+      "Font": {
+        "requests": 2,
+        "transfer_bytes": 80960
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "lp-pnp": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 20491
+      },
+      "Stylesheet": {
+        "requests": 18,
+        "transfer_bytes": 36027
+      },
+      "Script": {
+        "requests": 20,
+        "transfer_bytes": 198756
+      },
+      "Image": {
+        "requests": 5,
+        "transfer_bytes": 88172
+      },
+      "Font": {
+        "requests": 1,
+        "transfer_bytes": 39184
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    },
+    "lp-pta": {
+      "Document": {
+        "requests": 1,
+        "transfer_bytes": 20527
+      },
+      "Stylesheet": {
+        "requests": 18,
+        "transfer_bytes": 36299
+      },
+      "Script": {
+        "requests": 20,
+        "transfer_bytes": 198369
+      },
+      "Image": {
+        "requests": 5,
+        "transfer_bytes": 147843
+      },
+      "Font": {
+        "requests": 1,
+        "transfer_bytes": 39184
+      },
+      "Other": {
+        "requests": 1,
+        "transfer_bytes": 2478
+      }
+    }
+  },
+  "largest_unique_resources": [
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/NURSING-IA-VIDEO-1.webm",
+      "host": "localhost:8082",
+      "resource_type": "Media",
+      "transfer_bytes": 4522412,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/PTA_ago18.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 3101149,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/SABER_Blog-_PTA_AGO26-e1787860862637.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 2697439,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/lanzamiento-sabri_vertv2.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1865633,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_1BXzmQ66IcvZKJQrMDe2mG1f.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1583356,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/help-venezuela.jpg",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1438987,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/10/general-overview-hero-web.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1416612,
+      "pages": [
+        "general"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_FB4Bt31w20xpQ6iPYUHKeIgI.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1281615,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/10/student-services-hero-web.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1160703,
+      "pages": [
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_lKJ4lRMzKDwgMzLXVhEeMFWG.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 1113047,
+      "pages": [
+        "home",
+        "programs"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/img_Nurse2-1024x572.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 864739,
+      "pages": [
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/lanzamiento-sabri_Landv3-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 819345,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_1BXzmQ66IcvZKJQrMDe2mG1f-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 490848,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_FB4Bt31w20xpQ6iPYUHKeIgI-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 371526,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/call_lKJ4lRMzKDwgMzLXVhEeMFWG-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 287122,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/SABER-College_mascot_brand-scaled-1.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 260604,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/plugins/ai-engine/app/chatbot.js?ver=1790199070",
+      "host": "localhost:8082",
+      "resource_type": "Script",
+      "transfer_bytes": 100388,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-03-1-768x751.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 92868,
+      "pages": [
+        "lp-pta"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/img/flags@2x.webp",
+      "host": "cdn.jsdelivr.net",
+      "resource_type": "Image",
+      "transfer_bytes": 89421,
+      "pages": [
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/sabi-nurse-768x768.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 64157,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/intl-tel-input@27.0.9/dist/js/utils.js",
+      "host": "cdn.jsdelivr.net",
+      "resource_type": "Script",
+      "transfer_bytes": 63565,
+      "pages": [
+        "home",
+        "lp-pnp",
+        "lp-pta",
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/saber-college.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 54816,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-call-to-action-1024x576.jpg",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 53868,
+      "pages": [
+        "home",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/Saber_Nursing_23JunLand_PTA-1-768x768.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 49621,
+      "pages": [
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/Saber_Nurse_post_Land_C-student-silueta-768x768.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 47725,
+      "pages": [
+        "physical-therapist-assistant"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1",
+      "host": "localhost:8082",
+      "resource_type": "Script",
+      "transfer_bytes": 43503,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/",
+      "host": "localhost:8082",
+      "resource_type": "Document",
+      "transfer_bytes": 42258,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunito/v32/XRXX3I6Li01BKofIMNaDRs7nczIH.woff2",
+      "host": "fonts.gstatic.com",
+      "resource_type": "Font",
+      "transfer_bytes": 41776,
+      "pages": [
+        "general"
+      ]
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaBTMnFcQ.woff2",
+      "host": "fonts.gstatic.com",
+      "resource_type": "Font",
+      "transfer_bytes": 39184,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "lp-pnp",
+        "lp-pta",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/chat-sabi-square-notification.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 35066,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/chat-sabi-square.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 34362,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 33144,
+      "pages": [
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/sabi-saber-college.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 31978,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/The-BridgeNurse-A_Land-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 31565,
+      "pages": [
+        "home",
+        "programs"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "host": "localhost:8082",
+      "resource_type": "Document",
+      "transfer_bytes": 31498,
+      "pages": [
+        "physical-therapist-assistant"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "host": "localhost:8082",
+      "resource_type": "Document",
+      "transfer_bytes": 31129,
+      "pages": [
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunitosans/v19/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-tQKr51.woff2",
+      "host": "fonts.gstatic.com",
+      "resource_type": "Font",
+      "transfer_bytes": 30977,
+      "pages": [
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "host": "localhost:8082",
+      "resource_type": "Script",
+      "transfer_bytes": 30877,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "lp-pnp",
+        "lp-pta",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/pnp-landing-03-768x548.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 30495,
+      "pages": [
+        "lp-pnp"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/pnp-landing-02-768x549.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 29589,
+      "pages": [
+        "lp-pnp"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/COE.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 29501,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/Saber_Nurse_post_Land_C-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 28287,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/therapist-module-02-768x738.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 26887,
+      "pages": [
+        "lp-pta"
+      ]
+    },
+    {
+      "url": "https://cdn.trustindex.io/loader.js?ver=1",
+      "host": "cdn.trustindex.io",
+      "resource_type": "Script",
+      "transfer_bytes": 25788,
+      "pages": [
+        "home"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/plugins/ninja-tables/assets/js/ninja-tables-footable.js?ver=5.2.17",
+      "host": "localhost:8082",
+      "resource_type": "Script",
+      "transfer_bytes": 25608,
+      "pages": [
+        "physical-therapist-assistant",
+        "professional-nursing"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/09/saber-college-logo-color-white.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 25476,
+      "pages": [
+        "lp-pnp",
+        "lp-pta"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/cie-florida-white.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 23022,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/BON.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 22712,
+      "pages": [
+        "admissions-tuition",
+        "general",
+        "home",
+        "physical-therapist-assistant",
+        "professional-nursing",
+        "programs",
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/student-services/",
+      "host": "localhost:8082",
+      "resource_type": "Document",
+      "transfer_bytes": 22577,
+      "pages": [
+        "student-services"
+      ]
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/08/Saber_PTA_11jun_Land-1024x576.png",
+      "host": "localhost:8082",
+      "resource_type": "Image",
+      "transfer_bytes": 22481,
+      "pages": [
+        "home",
+        "programs"
+      ]
+    }
+  ]
+}

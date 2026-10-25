@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "home",
+    "url": "http://localhost:8082/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 91.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-mobile-run1.report.json",
+    "html": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-mobile-run1.report.html",
+    "fetch_time": "2026-10-19T04:39:05.76Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "programs",
+    "url": "http://localhost:8082/saber_college_programs/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 85.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\programs-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:39:27.72Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "professional-nursing",
+    "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 84.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\professional-nursing-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:39:47.814Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "physical-therapist-assistant",
+    "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 86.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\physical-therapist-assistant-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:40:09.386Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "admissions-tuition",
+    "url": "http://localhost:8082/admissions-and-tuition/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 89.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\admissions-tuition-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:40:30.561Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "student-services",
+    "url": "http://localhost:8082/student-services/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 81.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\student-services-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:40:50.859Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "general",
+    "url": "http://localhost:8082/general/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 80.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\general-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:41:11.536Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "lp-pnp",
+    "url": "http://localhost:8082/lp/pnp/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 93.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\lp-pnp-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:41:31.901Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "lp-pta",
+    "url": "http://localhost:8082/lp/pta/",
+    "form_factor": "mobile",
+    "run": 1,
+    "score": 91.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\lp-pta-mobile-run1.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:41:52.484Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "home",
+    "url": "http://localhost:8082/",
+    "form_factor": "mobile",
+    "run": 2,
+    "score": 80.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-mobile-run2.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:42:12.593Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "home",
+    "url": "http://localhost:8082/",
+    "form_factor": "mobile",
+    "run": 3,
+    "score": 81.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-mobile-run3.json",
+    "html": null,
+    "fetch_time": "2026-10-19T04:42:34.592Z",
+    "lighthouse_version": "13.5.0"
+  },
+  {
+    "slug": "home",
+    "url": "http://localhost:8082/",
+    "form_factor": "desktop",
+    "run": 1,
+    "score": 94.0,
+    "json": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-desktop-run1.report.json",
+    "html": "C:\\Users\\Cris\\Documents\\Proyectos\\saber-college-newsite\\reports\\lighthouse-after-20261018\\raw\\home-desktop-run1.report.html",
+    "fetch_time": "2026-10-19T04:42:56.547Z",
+    "lighthouse_version": "13.5.0"
+  }
+]

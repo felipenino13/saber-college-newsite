@@ -1,0 +1,10 @@
+{
+  "wrongSelectorCount": 0,
+  "radioCount": 2,
+  "checkedCount": 1,
+  "pageErrors": [
+    "Cannot read properties of null (reading 'value')"
+  ],
+  "consoleErrors": [],
+  "leadRequests": []
+}

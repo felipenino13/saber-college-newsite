@@ -1,0 +1,10 @@
+﻿page,url,runs,performance_score,fcp_ms,lcp_ms,tbt_ms,cls,speed_index_ms,transfer_kib,requests,main_thread_ms,server_response_ms,dom_elements,estimated_image_savings_kib,unused_js_kib,unused_css_kib
+Home,http://localhost:8082/,3,69,2308,4832,46,0.162,5191,15863,94,2649,608,1055,7198,47,12
+Programs,http://localhost:8082/saber_college_programs/,1,64,3665,6523,102,0.0,6410,1806,63,1296,343,524,982,47,12
+Professional Nursing,http://localhost:8082/saber_college_programs/professional-nursing-program/,1,63,3223,13282,109,0.0,6295,6920,84,2228,385,727,4386,47,26
+Physical Therapist Assistant,http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/,1,83,2331,3980,122,0.027,3141,6013,83,2516,417,841,4333,47,26
+Admissions and Tuition,http://localhost:8082/admissions-and-tuition/,1,73,2902,5331,105,0.0,4150,630,57,1353,358,564,168,47,12
+Student Services,http://localhost:8082/student-services/,1,63,2974,10845,177,0.0,5628,1772,62,1266,364,580,1145,47,12
+General,http://localhost:8082/general/,1,72,2139,10813,34,0.026,3277,2056,59,1357,381,529,1289,47,12
+Landing PNP,http://localhost:8082/lp/pnp/,1,81,2959,4069,62,0.0,3316,376,46,1220,311,358,53,0,0
+Landing PTA,http://localhost:8082/lp/pta/,1,79,2927,4372,55,0.0,3323,434,46,1205,316,341,115,0,0

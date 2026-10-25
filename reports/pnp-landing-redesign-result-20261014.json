@@ -1,0 +1,58 @@
+{
+  "page_id": 1640,
+  "url": "http://localhost:8082/lp/pnp/",
+  "before": {
+    "roots": 9,
+    "nodes": 80,
+    "widgets": 69,
+    "types": {
+      "container": 11,
+      "heading": 22,
+      "text-editor": 44,
+      "form": 1,
+      "image": 2
+    }
+  },
+  "after": {
+    "roots": 10,
+    "nodes": 128,
+    "widgets": 73,
+    "types": {
+      "e-flexbox": 55,
+      "image": 6,
+      "button": 5,
+      "heading": 22,
+      "text-editor": 38,
+      "menu-anchor": 1,
+      "form": 1
+    }
+  },
+  "duplicate_element_ids_after": 0,
+  "preserved_visible_strings": 64,
+  "missing_visible_strings": [],
+  "extra_visible_strings": [],
+  "intentional_cleanup": [
+    "// Eliminar"
+  ],
+  "sha256_before": "1be109986a9e30014c6aa80de0233782b507b24ac3d5936b1e7a37041af5d912",
+  "sha256_after": "83464e8e3ddc924bf02bdd16c6efb06869664946b3d8d514288d93af0eb6ef71",
+  "qa": {
+    "http_status": 200,
+    "h1_count": 1,
+    "h2_count": 8,
+    "h3_count": 13,
+    "form_count": 1,
+    "visible_form_inputs": 4,
+    "form_field_ids_unique": true,
+    "form_labels_associated": true,
+    "anchor_target_form_field": true,
+    "href_hash_only_count": 0,
+    "nested_anchor_count": 0,
+    "broken_images_after_lazy_load": 0,
+    "missing_image_alt_count": 0,
+    "mobile_horizontal_overflow": false,
+    "console_errors_or_warnings": 0,
+    "script_idempotent": true,
+    "protected_templates_unchanged": true
+  }
+}

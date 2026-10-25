@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16",
+  "scope": "local-only",
+  "root_cause": "The handler queried #form-field-program, while Elementor renders the program radios as #form-field-program-0 and #form-field-program-1.",
+  "targets": [
+    {
+      "post_id": 2015,
+      "widget_id": "518a0bf",
+      "role": "shared Request Information template"
+    },
+    {
+      "post_id": 7,
+      "widget_id": "29f746e",
+      "role": "home form handler copy"
+    }
+  ],
+  "checks": {
+    "error_reproduced_before_fix": true,
+    "page_error_after_fix": false,
+    "console_error_after_fix": false,
+    "pta_http_status": 200,
+    "home_http_status": 200,
+    "elementor_node_counts_unchanged": true,
+    "form_settings_unchanged": true,
+    "non_handler_elementor_data_unchanged": true,
+    "expected_requests_reached_with_synthetic_valid_data": true,
+    "outbound_requests_intercepted": true,
+    "real_lead_transmitted": false,
+    "idempotent": true
+  },
+  "evidence": {
+    "before": "lead-submit-error-20261016/reproduction-before.json",
+    "invalid_phone_after": "lead-submit-error-20261016/validation-after.json",
+    "intercepted_valid_submit": "lead-submit-error-20261016/intercepted-submit-validation.json",
+    "structure": "lead-submit-error-20261016/structural-verification.json",
+    "idempotence": "lead-submit-error-20261016/idempotence-check.txt"
+  }
+}

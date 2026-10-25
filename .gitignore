@@ -1,6 +1,13 @@
 # WordPress database backups
 database/*.sql
 database/elementor-backups/
+/reports/backups/
+
+# Temporary browser profiles and local work files
+/tmp/
+
+# Raw image-generation output; reviewed deliverables live in /generated/
+/output/imagegen/
 
 # Local environment files and credentials
 .env

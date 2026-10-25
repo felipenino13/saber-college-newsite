@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "desktopMenuPass": true,
+    "mobileMenuPass": true,
+    "mobileSubmenuPass": true,
+    "systemStatesPass": true,
+    "hoverPass": true,
+    "focusPass": true,
+    "activePass": true,
+    "loadingPass": true,
+    "successPass": true,
+    "errorPass": true
+  },
+  "results": {
+    "desktopMenu": {
+      "before": "false",
+      "afterKeyboardOpen": "true",
+      "submenuVisible": true,
+      "afterKeyboardClose": "false"
+    },
+    "mobileMenu": {
+      "before": "false",
+      "afterOpen": "true",
+      "menuVisible": true,
+      "submenuBefore": "false",
+      "submenuAfter": "true",
+      "afterClose": "false"
+    },
+    "systemStates": [
+      {
+        "name": "404",
+        "expectedStatus": 404,
+        "status": 404,
+        "title": "Page Not Found - Saber College",
+        "h1": [
+          "The page can’t be found."
+        ],
+        "mainCount": 1,
+        "bodyTextLength": 1133,
+        "linkCount": 26,
+        "searchFieldCount": 0
+      },
+      {
+        "name": "empty-search",
+        "expectedStatus": 200,
+        "status": 200,
+        "title": "responsiveuxquerywithnoresults20261021 - Saber College",
+        "h1": [
+          "\n\t\t\t\tSearch results for: \t\t\t\tresponsiveuxquerywithnoresults20261021\n\t\t\t"
+        ],
+        "mainCount": 1,
+        "bodyTextLength": 1165,
+        "linkCount": 26,
+        "searchFieldCount": 0
+      },
+      {
+        "name": "thank-you",
+        "expectedStatus": 200,
+        "status": 200,
+        "title": "Thank You | SABER College",
+        "h1": [
+          "Thank you for reaching out to SABER College.\n\n"
+        ],
+        "mainCount": 1,
+        "bodyTextLength": 1221,
+        "linkCount": 26,
+        "searchFieldCount": 0
+      }
+    ],
+    "primaryButtonStates": {
+      "normal": {
+        "background": "rgb(253, 200, 0)",
+        "color": "rgb(0, 26, 57)",
+        "border": "rgb(253, 200, 0)",
+        "outline": "none 3px",
+        "shadow": "none",
+        "transform": "none"
+      },
+      "hover": {
+        "background": "rgb(8, 43, 85)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(8, 43, 85)",
+        "outline": "none 3px",
+        "shadow": "none",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.0592433)"
+      },
+      "focus": {
+        "background": "rgb(8, 43, 85)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(8, 43, 85)",
+        "outline": "solid 3px",
+        "shadow": "rgb(255, 255, 255) 0px 0px 0px 2px",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.0592433)"
+      },
+      "active": {
+        "background": "rgb(8, 43, 85)",
+        "color": "rgb(255, 255, 255)",
+        "border": "rgb(8, 43, 85)",
+        "outline": "solid 3px",
+        "shadow": "rgb(255, 255, 255) 0px 0px 0px 2px",
+        "transform": "matrix(1, 0, 0, 1, 0, -0.506478)"
+      },
+      "hoverDiffers": true,
+      "focusVisible": true,
+      "activeDiffers": true
+    },
+    "simulatedFormSuccess": {
+      "success": true,
+      "loading": {
+        "disabled": true,
+        "classes": "elementor-button elementor-size-md",
+        "ariaBusy": null
+      },
+      "messages": [],
+      "dialogs": [],
+      "currentUrl": "http://localhost:8082/thank-you/",
+      "buttonAfter": {
+        "disabled": false,
+        "redirected": true
+      }
+    },
+    "simulatedFormError": {
+      "success": false,
+      "loading": {
+        "disabled": true,
+        "classes": "elementor-button elementor-size-md",
+        "ariaBusy": null
+      },
+      "messages": [],
+      "dialogs": [
+        "We couldn't process your request. Please try again."
+      ],
+      "currentUrl": "http://localhost:8082/lp/pnp/",
+      "buttonAfter": {
+        "disabled": false,
+        "redirected": false
+      }
+    }
+  }
+}

@@ -1,0 +1,3900 @@
+{
+  "summary": {
+    "pagesCrawled": 43,
+    "pageStatusFailures": 0,
+    "linkOccurrences": 3444,
+    "uniqueHttpLinks": 130,
+    "internalLinks": 91,
+    "externalLinks": 39,
+    "failedInternalLinks": 0,
+    "failedExternalLinks": 4,
+    "placeholders": 7,
+    "badFragments": 0,
+    "unnamedVisibleLinks": 0,
+    "telephoneLinks": 39,
+    "malformedTelephoneLinks": 0,
+    "emailLinks": 1,
+    "malformedEmailLinks": 0,
+    "pdfLinks": 30,
+    "failedPdfLinks": 1
+  },
+  "pageChecks": [
+    {
+      "pageId": 7,
+      "pageTitle": "Home",
+      "pageUrl": "http://localhost:8082/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 25,
+      "pageTitle": "About Us",
+      "pageUrl": "http://localhost:8082/about_saber_college/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 30,
+      "pageTitle": "Programs",
+      "pageUrl": "http://localhost:8082/saber_college_programs/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 34,
+      "pageTitle": "Student Services",
+      "pageUrl": "http://localhost:8082/student-services/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 36,
+      "pageTitle": "General Overview",
+      "pageUrl": "http://localhost:8082/general/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 859,
+      "pageTitle": "SABER College Leadership",
+      "pageUrl": "http://localhost:8082/general/saber_college_leadership/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 861,
+      "pageTitle": "Campus Location",
+      "pageUrl": "http://localhost:8082/campus-location/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 863,
+      "pageTitle": "Gallery",
+      "pageUrl": "http://localhost:8082/general/explore-saber-college-gallery/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 870,
+      "pageTitle": "Professional Nursing Program",
+      "pageUrl": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/",
+          "text": "Programs"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 872,
+      "pageTitle": "Physical Therapist Assistant Program",
+      "pageUrl": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/",
+          "text": "Programs"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 877,
+      "pageTitle": "Nursing Admissions",
+      "pageUrl": "http://localhost:8082/saber_college_programs/professional-nursing-program/nursing-admissions/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/",
+          "text": "Programs"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+          "text": "Professional Nursing Program"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 881,
+      "pageTitle": "PTA Admissions",
+      "pageUrl": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/admissions-pta/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/",
+          "text": "Programs"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+          "text": "Physical Therapist Assistant Program"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 883,
+      "pageTitle": "Apply To SABER College",
+      "pageUrl": "http://localhost:8082/apply-to-saber-college/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 885,
+      "pageTitle": "Tuition Payment Options",
+      "pageUrl": "http://localhost:8082/general/tuition-payment-options/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 887,
+      "pageTitle": "SABER College Accreditation",
+      "pageUrl": "http://localhost:8082/saber-college-accreditation/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 896,
+      "pageTitle": "Academic Affairs",
+      "pageUrl": "http://localhost:8082/student-services/academic-affairs/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/student-services/",
+          "text": "Student Services"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 898,
+      "pageTitle": "VISA I-20 Assistance",
+      "pageUrl": "http://localhost:8082/general/visa-i-20-assistance/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 900,
+      "pageTitle": "Career Services",
+      "pageUrl": "http://localhost:8082/student-services/career-services/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/student-services/",
+          "text": "Student Services"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 902,
+      "pageTitle": "Student Transcript Request",
+      "pageUrl": "http://localhost:8082/student-services/student-transcript-request/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/student-services/",
+          "text": "Student Services"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 904,
+      "pageTitle": "SABER Survey",
+      "pageUrl": "http://localhost:8082/student-services/saber-survey/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/student-services/",
+          "text": "Student Services"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 911,
+      "pageTitle": "Net Price Calculator",
+      "pageUrl": "http://localhost:8082/general/net-price-calculator/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 913,
+      "pageTitle": "Manuals",
+      "pageUrl": "http://localhost:8082/general/manuals/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 915,
+      "pageTitle": "Graduation Requirements",
+      "pageUrl": "http://localhost:8082/general/graduation-requirements/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 917,
+      "pageTitle": "Gainful Employment",
+      "pageUrl": "http://localhost:8082/general/gainful-employment-programs/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 919,
+      "pageTitle": "Faculty",
+      "pageUrl": "http://localhost:8082/general/saber-college-faculty/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 921,
+      "pageTitle": "Distance Education Format for Select Courses",
+      "pageUrl": "http://localhost:8082/general/saber-college-distance-education/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 923,
+      "pageTitle": "HEERF Historical Reports",
+      "pageUrl": "http://localhost:8082/general/heerf-quarterly-reports/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 925,
+      "pageTitle": "Institutional Plans",
+      "pageUrl": "http://localhost:8082/general/institutional-plans/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1192,
+      "pageTitle": "Blog",
+      "pageUrl": "http://localhost:8082/saber_college_blog/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1225,
+      "pageTitle": "Admissions and Tuition",
+      "pageUrl": "http://localhost:8082/admissions-and-tuition/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1229,
+      "pageTitle": "Terms &amp; Conditions",
+      "pageUrl": "http://localhost:8082/terms-conditions/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1232,
+      "pageTitle": "Privacy Policy",
+      "pageUrl": "http://localhost:8082/privacy-policy/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1238,
+      "pageTitle": "Contact Us",
+      "pageUrl": "http://localhost:8082/about_saber_college/contact/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1328,
+      "pageTitle": "Plan Bunji",
+      "pageUrl": "http://localhost:8082/plan-bunji/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1591,
+      "pageTitle": "Request Info",
+      "pageUrl": "http://localhost:8082/request-info/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1621,
+      "pageTitle": "Thank You Page",
+      "pageUrl": "http://localhost:8082/thank-you/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1628,
+      "pageTitle": "CARES Act",
+      "pageUrl": "http://localhost:8082/45-day-report-on-ed-grants/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1633,
+      "pageTitle": "Safety Plan",
+      "pageUrl": "http://localhost:8082/general/safety-plan/",
+      "status": 200,
+      "breadcrumbLinks": [
+        {
+          "href": "http://localhost:8082/",
+          "text": "Home"
+        },
+        {
+          "href": "http://localhost:8082/general/",
+          "text": "General Overview"
+        }
+      ],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    },
+    {
+      "pageId": 1638,
+      "pageTitle": "LP &#8211; Home Page",
+      "pageUrl": "http://localhost:8082/lp/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": []
+    },
+    {
+      "pageId": 1639,
+      "pageTitle": "LP &#8211; Campus Location",
+      "pageUrl": "http://localhost:8082/lp/campus-location/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": []
+    },
+    {
+      "pageId": 1640,
+      "pageTitle": "LP &#8211; Professional Nursing",
+      "pageUrl": "http://localhost:8082/lp/pnp/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": []
+    },
+    {
+      "pageId": 1641,
+      "pageTitle": "LP &#8211; PTA",
+      "pageUrl": "http://localhost:8082/lp/pta/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": []
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "status": 200,
+      "breadcrumbLinks": [],
+      "footerLinks": [
+        {
+          "href": "http://localhost:8082/about_saber_college/",
+          "text": "About Us"
+        },
+        {
+          "href": "http://localhost:8082/about_saber_college/contact/",
+          "text": "Contact Us"
+        },
+        {
+          "href": "http://localhost:8082/saber_college_blog/",
+          "text": "Blog"
+        },
+        {
+          "href": "http://localhost:8082/terms-conditions/",
+          "text": "Terms & Condition"
+        },
+        {
+          "href": "http://localhost:8082/privacy-policy/",
+          "text": "Privacy Policy"
+        },
+        {
+          "href": "http://localhost:8082/general/visa-i-20-assistance/",
+          "text": "Visa I-20 Assistance"
+        },
+        {
+          "href": "http://localhost:8082/general/tuition-payment-options/",
+          "text": "Tuition Payment Options"
+        },
+        {
+          "href": "http://localhost:8082/general/explore-saber-college-gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "http://localhost:8082/general/net-price-calculator/",
+          "text": "Net Price Calculator"
+        },
+        {
+          "href": "http://localhost:8082/general/manuals/",
+          "text": "Manual"
+        },
+        {
+          "href": "https://www.facebook.com/mysabercollege",
+          "text": "Facebook"
+        },
+        {
+          "href": "https://www.instagram.com/sabercollege/",
+          "text": "Instagram"
+        },
+        {
+          "href": "https://www.tiktok.com/@sabercollege",
+          "text": "TikTok"
+        },
+        {
+          "href": "http://localhost:8082/",
+          "text": "Saber College"
+        }
+      ]
+    }
+  ],
+  "statuses": [
+    {
+      "url": "http://localhost:8082/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://sabercollege.instructure.com/login/canvas",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/admissions-and-tuition/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/nursing-admissions/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/admissions-pta/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/apply-to-saber-college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/tuition-payment-options/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber-college-accreditation/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/student-services/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/student-services/academic-affairs/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/visa-i-20-assistance/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/student-services/career-services/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/student-services/student-transcript-request/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/student-services/saber-survey/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/net-price-calculator/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/manuals/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/graduation-requirements/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/gainful-employment-programs/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/saber-college-faculty/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/saber-college-distance-education/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/heerf-quarterly-reports/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/institutional-plans/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/safety-plan/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/45-day-report-on-ed-grants/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/about_saber_college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/saber_college_leadership/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/campus-location/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/general/explore-saber-college-gallery/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_blog/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/request-info/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "http://localhost:8082/3779-2/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/how-was-sabi-born-the-story-behind-our-mascot/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/more-than-a-mascot-today-we-introduce-sabi-the-symbol-that-inspires-the-saber-college-community/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/venezuela-needs-us/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.capteonline.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.onetonline.org/link/details/31-2021.00",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/04/School-Catalog-4-22-2026-V2.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/06/Handbook-Program-Student-2027A.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/PROFESSIONAL-NURSING-PROGRAM-STUDENT-HANDBOOK-7-1-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/about_saber_college/contact/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/terms-conditions/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/privacy-policy/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.facebook.com/mysabercollege",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "https://www.instagram.com/sabercollege/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "https://www.tiktok.com/@sabercollege",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.ed.gov/about/ed-offices/ocr/about-ocr",
+      "status": 403,
+      "ok": false,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.fapsconline.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.tfcstudentinfo.com/UserAccount/Login",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://211miami.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://studentaid.gov/asla/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://studentaid.gov/help/create-fsa-id",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://studentaid.gov/submit-feedback/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://registertovoteflorida.gov/home",
+      "status": 403,
+      "ok": false,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://studentaid.gov/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://studentaid.gov/understand-aid/types/grants/pell",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://cnea.nln.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.council.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.fldoe.org/policy/cie/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.nclex.com/index.page",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html;charset=UTF-8"
+    },
+    {
+      "url": "https://council.org/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.fsbpt.org/secondary-pages/exam-candidates/national-exam-npte",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://studentaid.gov/h/apply-for-aid/fafsa",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/Disclosure-for-Direct-Loans.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://web02.fldoe.org/CIE/SearchSchools/SchoolSearchDetail.aspx?schoolID=1400",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://council.org/member-directory/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.capteonline.org/programs/master-list-pta",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://cnea.nln.org/accredited-programs",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/08/ADMISSION-OF-INTERNATIONAL-STUDENTS.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=SABER%20College",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/10/SABER-College-Transcript-Request-10-07-24-New-Logo.docx.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://studentaid.gov/help-center/answers/article/federal-direct-loan-program",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2025/08/SABER-Policies-and-Procedures-Manual-7-01-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/2025-2026-Consumer-Information-Manual-rev-01-30-2026.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://form.jotform.com/252616060413144",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://form.jotform.com/250756211101139",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://form.jotform.com/250764053963158",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Progress-Reports-for-website.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/06/036964_Heef_Q063023_101923.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2023/01/036964_heerf_Q4010523_123122.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-01-9-30-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-02-6-30-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-03-3-31-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-04-12-31-2021.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-05-9-30-21.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-06-6-30-21.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-07-3-31-2021.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-08-12-31-20.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-09-9-30-20.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.ed.gov/grants-and-programs/response-programs/covid-19-grants/higher-education-emergency-relief-fund-heerf",
+      "status": 403,
+      "ok": false,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.ed.gov/media/document/heerfquarterlyreport2022pdf-36188.pdf",
+      "status": 0,
+      "ok": false,
+      "error": "apiRequestContext.get: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - → GET https://www.ed.gov/media/document/heerfquarterlyreport2022pdf-36188.pdf\u001b[22m\n\u001b[2m    - user-agent: SABER-local-QA/1.0\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Strategic-Plan-Revised-2023-2026-and-Updated-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Health-and-Safety-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Physical-Resources-and-Technical-Infrastructure-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Student-Retention-Completion-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-Effectiveness-of-Student-Services-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Placement-Outcomes-and-Follow-up.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Operations-Maintenance-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://www.instagram.com/sabercollege",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://localhost:8082/physical-therapist-assistant-role-explained/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/rol-del-physical-therapist-assistant/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/study-nursing-in-miami-2026/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/estudiar-enfermeria-en-miami-2026/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/clinical-simulation-in-nursing-saber-college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/simulacion-clinica-en-enfermeria-saber-college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/examen-npte-pta-saber-college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/npte-exam-pta-saber-college/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/programas-enfermeria-fines-de-semana/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/weekend-nursing-programs/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/weekend-nursing-program/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/programa-de-enfermeria-de-fin-de-semana-miami/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_blog/2/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_blog/3/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_blog/4/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber_college_blog/5/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.myflorida.gov/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://www.facebook.com/legal/lead_ads_terms",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://localhost:8082/plan-bunji/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/thank-you/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/10/45-Day-Report-on-ED-GRANTS-041020-003-as-of-11-06-2020-Student-Portion.docx-1.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/10/COE-HEALTH-AND-SAFETY-PLAN-March-2024.docx.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/lp/pnp/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/lp/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/lp/pta/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://localhost:8082/saber-design-system-elementor/",
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html; charset=UTF-8"
+    }
+  ],
+  "placeholders": [
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Explore service",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Learn more",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Primary action",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Secondary action",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Outline action",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Next step",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    },
+    {
+      "pageId": 2066,
+      "pageTitle": "SABER Design System – Elementor",
+      "pageUrl": "http://localhost:8082/saber-design-system-elementor/",
+      "href": "http://localhost:8082/saber-design-system-elementor/#",
+      "rawHref": "#",
+      "name": "Request Information",
+      "visible": true,
+      "target": "",
+      "fragmentExists": null,
+      "classes": "elementor-button elementor-button-link elementor-size-md"
+    }
+  ],
+  "badFragments": [],
+  "unnamedVisible": [],
+  "malformedPhones": [],
+  "malformedEmails": [],
+  "pdfs": [
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/04/School-Catalog-4-22-2026-V2.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/06/Handbook-Program-Student-2027A.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/PROFESSIONAL-NURSING-PROGRAM-STUDENT-HANDBOOK-7-1-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/Disclosure-for-Direct-Loans.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/08/ADMISSION-OF-INTERNATIONAL-STUDENTS.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/10/SABER-College-Transcript-Request-10-07-24-New-Logo.docx.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2025/08/SABER-Policies-and-Procedures-Manual-7-01-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/2025-2026-Consumer-Information-Manual-rev-01-30-2026.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Progress-Reports-for-website.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/06/036964_Heef_Q063023_101923.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2023/01/036964_heerf_Q4010523_123122.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-01-9-30-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-02-6-30-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-03-3-31-22.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-04-12-31-2021.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-05-9-30-21.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-06-6-30-21.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-07-3-31-2021.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-08-12-31-20.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/12/HEERF-Quarterly-Report-ending-09-9-30-20.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "https://www.ed.gov/media/document/heerfquarterlyreport2022pdf-36188.pdf",
+      "status": 0,
+      "ok": false,
+      "error": "apiRequestContext.get: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - → GET https://www.ed.gov/media/document/heerfquarterlyreport2022pdf-36188.pdf\u001b[22m\n\u001b[2m    - user-agent: SABER-local-QA/1.0\u001b[22m\n\u001b[2m    - accept: */*\u001b[22m\n\u001b[2m    - accept-encoding: gzip,deflate,br\u001b[22m\n"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Strategic-Plan-Revised-2023-2026-and-Updated-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Health-and-Safety-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Physical-Resources-and-Technical-Infrastructure-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Student-Retention-Completion-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-Effectiveness-of-Student-Services-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Placement-Outcomes-and-Follow-up.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2026/02/Plan-for-Operations-Maintenance-March-2025.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2022/10/45-Day-Report-on-ED-GRANTS-041020-003-as-of-11-06-2020-Student-Portion.docx-1.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    },
+    {
+      "url": "http://localhost:8082/wp-content/uploads/2024/10/COE-HEALTH-AND-SAFETY-PLAN-March-2024.docx.pdf",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/pdf"
+    }
+  ]
+}

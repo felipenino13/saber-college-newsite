@@ -18,6 +18,10 @@
     aspect-ratio: 16 / 9;
 }
 
+.square{
+    aspect-ratio: 1 / 1;
+}
+
 a {
     color:#0070E0;
     font-weight: 700;

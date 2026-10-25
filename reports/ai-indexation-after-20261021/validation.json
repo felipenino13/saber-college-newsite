@@ -1,0 +1,73 @@
+{
+  "metrics": {
+    "before": {
+      "sitemap_urls": 132,
+      "non_200": 7,
+      "missing_descriptions": 8,
+      "missing_canonicals": 0,
+      "pages_without_exactly_one_h1": 23,
+      "invalid_json_ld_blocks": 2,
+      "missing_image_alt_attributes": 574
+    },
+    "after": {
+      "sitemap_urls": 125,
+      "non_200": 0,
+      "missing_descriptions": 0,
+      "missing_canonicals": 0,
+      "pages_without_exactly_one_h1": 0,
+      "invalid_json_ld_blocks": 0,
+      "missing_image_alt_attributes": 0
+    }
+  },
+  "checks": {
+    "institution_schema": {
+      "passed": true,
+      "type_count": 1,
+      "id": "http://localhost:8082/#organization"
+    },
+    "program_schema": {
+      "/saber_college_programs/professional-nursing-program/": {
+        "passed": true,
+        "name": "Professional Nursing Program",
+        "credits": "80",
+        "duration": "PT1725H"
+      },
+      "/saber_college_programs/physical-therapist-assistant-program/": {
+        "passed": true,
+        "name": "Physical Therapist Assistant Program",
+        "credits": "76",
+        "duration": "PT1785H"
+      }
+    },
+    "language_pairs": {
+      "passed": true,
+      "checked_pages": 24,
+      "failures": []
+    },
+    "llms_txt": {
+      "passed": true,
+      "curated_page_count": 26,
+      "has_encoding_artifacts": false,
+      "has_generic_home_excerpt": false
+    },
+    "elementor_preservation": {
+      "passed": true,
+      "before_nodes": 54,
+      "after_nodes": 54,
+      "before_widgets": 24,
+      "after_widgets": 24,
+      "visible_text_unchanged": true
+    },
+    "crawler_access": {
+      "passed": true,
+      "status_by_agent": {
+        "Googlebot": 200,
+        "GPTBot": 200,
+        "OAI-SearchBot": 200,
+        "ChatGPT-User": 200,
+        "ClaudeBot": 200
+      }
+    }
+  },
+  "passed": true
+}

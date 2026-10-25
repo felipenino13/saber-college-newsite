@@ -1,0 +1,8 @@
+{
+    "status": "already_applied",
+    "idempotent": true,
+    "posts": [
+        2015,
+        7
+    ]
+}

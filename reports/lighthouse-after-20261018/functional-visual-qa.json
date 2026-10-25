@@ -1,0 +1,869 @@
+{
+  "checkedAt": "2026-10-19T21:22:20.067Z",
+  "results": [
+    {
+      "slug": "home",
+      "url": "http://localhost:8082/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Healthcare Career Training in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Your Future in Healthcare Starts Here"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": {
+        "autoplay": false,
+        "preload": "none",
+        "poster": "http://localhost:8082/wp-content/uploads/2026/08/img_Nurse2-1024x572.png",
+        "sourceSrc": "",
+        "sourceDataSrc": "http://localhost:8082/wp-content/uploads/2026/08/NURSING-IA-VIDEO-1.webm#t=0,21"
+      },
+      "afterInteraction": {
+        "visibleSteps": 1,
+        "visibleInputs": [
+          "form-field-fname",
+          "form-field-lname",
+          "form-field-email",
+          "form-field-phone"
+        ],
+        "visibleButtons": [
+          "Previous",
+          "Send My Request"
+        ]
+      },
+      "webpResponses": 21,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "home",
+      "url": "http://localhost:8082/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Healthcare Career Training in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Your Future in Healthcare Starts Here"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": {
+        "autoplay": false,
+        "preload": "none",
+        "poster": "http://localhost:8082/wp-content/uploads/2026/08/img_Nurse2-1024x572.png",
+        "sourceSrc": "",
+        "sourceDataSrc": "http://localhost:8082/wp-content/uploads/2026/08/NURSING-IA-VIDEO-1.webm#t=0,21"
+      },
+      "afterInteraction": {
+        "visibleSteps": 1,
+        "visibleInputs": [
+          "form-field-fname",
+          "form-field-lname",
+          "form-field-email",
+          "form-field-phone"
+        ],
+        "visibleButtons": [
+          "Previous",
+          "Send My Request"
+        ]
+      },
+      "webpResponses": 21,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "programs",
+      "url": "http://localhost:8082/saber_college_programs/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Healthcare Programs in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Healthcare Programs"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 11,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/call_lKJ4lRMzKDwgMzLXVhEeMFWG.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 12,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "programs",
+      "url": "http://localhost:8082/saber_college_programs/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Healthcare Programs in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Healthcare Programs"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 11,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/call_lKJ4lRMzKDwgMzLXVhEeMFWG.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 12,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "professional-nursing",
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Professional Nursing Program in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Professional Nursing Program (A.S.)"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 20,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "professional-nursing",
+      "url": "http://localhost:8082/saber_college_programs/professional-nursing-program/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Professional Nursing Program in Miami | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Professional Nursing Program (A.S.)"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 19,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "physical-therapist-assistant",
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Physical Therapist Assistant Program"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 19,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "physical-therapist-assistant",
+      "url": "http://localhost:8082/saber_college_programs/physical-therapist-assistant-program/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Physical Therapist Assistant Program"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 14,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": true
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/08/backgrounnd-banner-hero-home-1024x576.jpg",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 18,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "admissions-tuition",
+      "url": "http://localhost:8082/admissions-and-tuition/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Admissions and Tuition Information | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Admissions & Tuition"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 9,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "admissions-tuition",
+      "url": "http://localhost:8082/admissions-and-tuition/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Admissions and Tuition Information | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Admissions & Tuition"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 9,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "student-services",
+      "url": "http://localhost:8082/student-services/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Student Services and Support | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Student Services"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/10/student-services-hero-web.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 10,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "student-services",
+      "url": "http://localhost:8082/student-services/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Student Services and Support | SABER College",
+      "h1Count": 1,
+      "h1Text": [
+        "Student Services"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/10/student-services-hero-web.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 10,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "general",
+      "url": "http://localhost:8082/general/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "General Information About SABER College | Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Welcome to SABER College: General Information"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/10/general-overview-hero-web.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 10,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "general",
+      "url": "http://localhost:8082/general/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "General Information About SABER College | Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Welcome to SABER College: General Information"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 10,
+      "brokenImages": [],
+      "visibleForms": 0,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "image",
+          "href": "http://localhost:8082/wp-content/uploads/2026/10/general-overview-hero-web.png",
+          "fetchPriority": "high"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 10,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "lp-pnp",
+      "url": "http://localhost:8082/lp/pnp/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Professional Nursing Program in Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Become a Professional Nurse (A.S.) and Build a Career in Healthcare"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 5,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 4,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "lp-pnp",
+      "url": "http://localhost:8082/lp/pnp/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Professional Nursing Program in Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Become a Professional Nurse (A.S.) and Build a Career in Healthcare"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 5,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 3,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "lp-pta",
+      "url": "http://localhost:8082/lp/pta/",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 900,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program in Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Become a Physical Therapist Assistant (A.S.) and Start Your Career in Rehabilitation​"
+      ],
+      "clientWidth": 1440,
+      "scrollWidth": 1440,
+      "horizontalOverflow": 0,
+      "imageCount": 5,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 4,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    },
+    {
+      "slug": "lp-pta",
+      "url": "http://localhost:8082/lp/pta/",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "httpStatus": 200,
+      "title": "Physical Therapist Assistant Program in Miami",
+      "h1Count": 1,
+      "h1Text": [
+        "Become a Physical Therapist Assistant (A.S.) and Start Your Career in Rehabilitation​"
+      ],
+      "clientWidth": 390,
+      "scrollWidth": 390,
+      "horizontalOverflow": 0,
+      "imageCount": 5,
+      "brokenImages": [],
+      "visibleForms": 1,
+      "fonts": {
+        "nunito": true,
+        "nunitoSans": false
+      },
+      "preloads": [
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-sans-latin-variable.woff2",
+          "fetchPriority": "auto"
+        },
+        {
+          "as": "font",
+          "href": "http://localhost:8082/wp-content/uploads/saber-performance/fonts/nunito-latin-variable.woff2",
+          "fetchPriority": "auto"
+        }
+      ],
+      "video": null,
+      "afterInteraction": null,
+      "webpResponses": 3,
+      "googleFontResponses": [],
+      "pageErrors": [],
+      "consoleErrors": [],
+      "requestFailures": []
+    }
+  ],
+  "summary": {
+    "checks": 18,
+    "non200": 0,
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "requestFailures": 0,
+    "brokenImages": 0,
+    "overflowChecks": [],
+    "h1Issues": [],
+    "googleFontRequests": 0,
+    "webpResponses": 214
+  }
+}
