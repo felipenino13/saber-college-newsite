@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//abc16946.sg-host.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://abc16946.sg-host.com/post-sitemap.xml</loc>
+		<lastmod>2026-09-28T18:42:04+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://abc16946.sg-host.com/page-sitemap.xml</loc>
+		<lastmod>2026-09-28T20:21:30+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://abc16946.sg-host.com/category-sitemap.xml</loc>
+		<lastmod>2026-09-28T18:42:04+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

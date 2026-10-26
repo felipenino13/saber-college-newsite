@@ -1,7 +1,7 @@
 services:
   db:
     image: mysql:8.0.43
-    container_name: sabercollege_db
+    container_name: sabercollege_newsite_db
     restart: unless-stopped
     environment:
       MYSQL_DATABASE: ${MYSQL_DATABASE}
@@ -15,10 +15,13 @@ services:
     build:
       context: .
       dockerfile: docker/wordpress/Dockerfile
-    container_name: sabercollege_wordpress
+    container_name: sabercollege_newsite_wordpress
     restart: unless-stopped
     depends_on:
       - db
+    env_file:
+      - path: .env.local
+        required: false
     ports:
       - "8082:80"
     environment:
@@ -29,10 +32,11 @@ services:
     volumes:
       - ./wordpress/wp-content/themes/astra-child:/var/www/html/wp-content/themes/astra-child
       - ./wordpress/wp-content/uploads:/var/www/html/wp-content/uploads
+      - ./wordpress/wp-content/plugins/sabi-chatbot:/var/www/html/wp-content/plugins/sabi-chatbot
 
   phpmyadmin:
     image: phpmyadmin:5.2.2-apache
-    container_name: sabercollege_phpmyadmin
+    container_name: sabercollege_newsite_phpmyadmin
     restart: unless-stopped
     depends_on:
       - db

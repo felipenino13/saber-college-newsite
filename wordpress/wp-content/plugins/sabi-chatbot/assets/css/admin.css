@@ -1,0 +1,500 @@
+.sabi-admin {
+  --sabi-navy: #001a39;
+  --sabi-blue: #082b55;
+  --sabi-yellow: #fdc800;
+  --sabi-surface: #f3f7fa;
+  --sabi-border: #d9e3eb;
+  max-width: 1240px;
+}
+
+#toplevel_page_sabi-chatbot .wp-menu-image img {
+  height: 24px;
+  object-fit: contain;
+  opacity: 1;
+  padding: 5px 0 0;
+  width: 24px;
+}
+
+.sabi-admin__hero {
+  align-items: center;
+  background: linear-gradient(120deg, var(--sabi-navy), var(--sabi-blue));
+  border-radius: 18px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  overflow: hidden;
+  padding: 28px 32px;
+  position: relative;
+}
+
+.sabi-admin__hero::after {
+  background: var(--sabi-yellow);
+  border-radius: 50%;
+  content: "";
+  height: 160px;
+  opacity: .18;
+  position: absolute;
+  right: -50px;
+  top: -70px;
+  width: 160px;
+}
+
+.sabi-admin__eyebrow {
+  color: var(--sabi-yellow);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.sabi-admin__hero h1 {
+  color: #fff;
+  font-size: 30px;
+  margin: 4px 0 6px;
+}
+
+.sabi-admin__hero p,
+.sabi-admin__status small {
+  color: #dbe8f4;
+  margin: 0;
+}
+
+.sabi-admin__status {
+  background: rgba(255, 255, 255, .1);
+  border: 1px solid rgba(255, 255, 255, .18);
+  border-radius: 12px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 2px 9px;
+  min-width: 270px;
+  padding: 14px 16px;
+  position: relative;
+  z-index: 1;
+}
+
+.sabi-admin__status small {
+  grid-column: 2;
+}
+
+.sabi-status-dot {
+  border-radius: 50%;
+  height: 10px;
+  margin-top: 4px;
+  width: 10px;
+}
+
+.sabi-status-dot--warning {
+  background: var(--sabi-yellow);
+  box-shadow: 0 0 0 4px rgba(253, 200, 0, .16);
+}
+
+.sabi-admin__tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.sabi-admin__tabs .nav-tab {
+  border-radius: 8px 8px 0 0;
+  margin-left: 0;
+}
+
+.sabi-admin__tabs .nav-tab-active {
+  border-bottom-color: #fff;
+  color: var(--sabi-navy);
+}
+
+.sabi-admin__panel {
+  background: #fff;
+  border: 1px solid #c3c4c7;
+  border-top: 0;
+  min-height: 420px;
+  padding: 28px 30px;
+}
+
+.sabi-admin__panel h2 {
+  color: var(--sabi-navy);
+  font-size: 22px;
+  margin-top: 0;
+}
+
+.sabi-settings-form {
+  max-width: 900px;
+}
+
+.sabi-lead-settings {
+  border-bottom: 1px solid var(--sabi-border);
+  margin-bottom: 28px;
+  padding-bottom: 18px;
+}
+
+.sabi-leads-heading {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sabi-leads-heading h2,
+.sabi-leads-heading p { margin-bottom: 2px; }
+
+.sabi-lead-search {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.sabi-lead-search input[type="search"] {
+  min-width: 320px;
+}
+
+.sabi-leads-table-wrap { overflow-x: auto; }
+
+.sabi-leads-table td { vertical-align: top; }
+
+.sabi-leads-table td strong,
+.sabi-leads-table td a,
+.sabi-leads-table td small {
+  display: block;
+}
+
+.sabi-leads-table td small {
+  color: #587086;
+  margin-top: 4px;
+}
+
+.sabi-leads-table code {
+  display: inline-block;
+  max-width: 220px;
+  overflow-wrap: anywhere;
+}
+
+.sabi-field {
+  display: grid;
+  gap: 7px;
+  margin: 22px 0;
+}
+
+.sabi-field > span:first-child,
+.sabi-readonly strong {
+  color: #203b56;
+  font-weight: 700;
+}
+
+.sabi-field input[type="text"],
+.sabi-field input[type="password"],
+.sabi-field input[type="url"],
+.sabi-field input[type="number"],
+.sabi-field select,
+.sabi-field textarea {
+  border-color: #a9bac8;
+  border-radius: 7px;
+  min-height: 40px;
+}
+
+.sabi-field > small {
+  color: #587086;
+  max-width: 720px;
+}
+
+.sabi-field textarea {
+  line-height: 1.55;
+  width: 100%;
+}
+
+.sabi-check {
+  align-items: flex-start;
+  background: var(--sabi-surface);
+  border: 1px solid var(--sabi-border);
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  margin: 14px 0;
+  max-width: 720px;
+  padding: 14px;
+}
+
+.sabi-check input {
+  margin-top: 3px;
+}
+
+.sabi-check span {
+  display: grid;
+  gap: 3px;
+}
+
+.sabi-check small,
+.sabi-mini-card span {
+  color: #587086;
+}
+
+.sabi-readonly {
+  align-items: center;
+  background: #f8fafb;
+  border: 1px solid var(--sabi-border);
+  border-radius: 8px;
+  display: flex;
+  gap: 18px;
+  margin: 18px 0;
+  padding: 13px 15px;
+}
+
+.sabi-color-grid,
+.sabi-card-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.sabi-color-field > span:last-child {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
+
+.sabi-color-field input {
+  height: 42px;
+  padding: 2px;
+  width: 70px;
+}
+
+.sabi-callout {
+  background: #edf5fb;
+  border-left: 4px solid #0070e0;
+  margin: 18px 0;
+  padding: 15px 18px;
+}
+
+.sabi-callout--warning {
+  background: #fff8d8;
+  border-left-color: var(--sabi-yellow);
+}
+
+.sabi-callout--success {
+  background: #eaf7ef;
+  border-left-color: #16803c;
+}
+
+.sabi-callout p {
+  margin-bottom: 0;
+}
+
+.sabi-sources code {
+  display: block;
+  margin-top: 5px;
+  word-break: break-all;
+}
+
+.sabi-sources-wrap {
+  overflow-x: auto;
+}
+
+.sabi-sources td {
+  vertical-align: top;
+}
+
+.sabi-sources td > span:not(.sabi-pill),
+.sabi-sources td > small {
+  color: #587086;
+  display: block;
+  margin-top: 4px;
+}
+
+.sabi-section-heading {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  justify-content: space-between;
+}
+
+.sabi-section-heading h2,
+.sabi-section-heading p {
+  margin-bottom: 4px;
+}
+
+.sabi-knowledge-stats {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 20px 0;
+}
+
+.sabi-knowledge-stats > div {
+  background: linear-gradient(145deg, #f8fbfd, #edf4f8);
+  border: 1px solid var(--sabi-border);
+  border-radius: 12px;
+  display: grid;
+  gap: 2px;
+  padding: 16px;
+}
+
+.sabi-knowledge-stats strong {
+  color: var(--sabi-navy);
+  font-size: 25px;
+}
+
+.sabi-knowledge-stats span {
+  color: #587086;
+}
+
+.sabi-knowledge-search {
+  background: var(--sabi-surface);
+  border: 1px solid var(--sabi-border);
+  border-radius: 12px;
+  display: grid;
+  gap: 8px;
+  margin: 22px 0;
+  padding: 16px;
+}
+
+.sabi-knowledge-search label {
+  color: var(--sabi-navy);
+  font-weight: 700;
+}
+
+.sabi-knowledge-search > div {
+  display: flex;
+  gap: 8px;
+}
+
+.sabi-knowledge-search input[type="search"] {
+  max-width: 620px;
+  width: 100%;
+}
+
+.sabi-knowledge-results {
+  margin: 24px 0 30px;
+}
+
+.sabi-knowledge-result {
+  border: 1px solid var(--sabi-border);
+  border-left: 4px solid var(--sabi-yellow);
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 15px 17px;
+}
+
+.sabi-knowledge-result > div {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.sabi-knowledge-result > div span {
+  color: #587086;
+  font-size: 12px;
+}
+
+.sabi-knowledge-result h4 {
+  color: var(--sabi-navy);
+  margin: 10px 0 3px;
+}
+
+.sabi-knowledge-result p {
+  line-height: 1.55;
+  margin: 7px 0;
+}
+
+.sabi-index-meta {
+  margin-top: 12px !important;
+}
+
+.sabi-pill {
+  background: #e6f5eb;
+  border-radius: 999px;
+  color: #176b37;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 9px;
+}
+
+.sabi-pill--missing,
+.sabi-pill--empty {
+  background: #fff1d6;
+  color: #8a5700;
+}
+
+.sabi-pill--registered {
+  background: #e9eef3;
+  color: #415a70;
+}
+
+.sabi-mini-card {
+  background: var(--sabi-surface);
+  border: 1px solid var(--sabi-border);
+  border-radius: 10px;
+  display: grid;
+  gap: 5px;
+  padding: 16px;
+}
+
+.sabi-checklist {
+  border: 1px solid var(--sabi-border);
+  border-radius: 12px;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.sabi-test-row {
+  align-items: center;
+  border-bottom: 1px solid var(--sabi-border);
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 24px minmax(170px, .5fr) 1fr;
+  padding: 13px 16px;
+}
+
+.sabi-test-row:last-child {
+  border-bottom: 0;
+}
+
+.sabi-test-row .dashicons-yes-alt {
+  color: #16803c;
+}
+
+.sabi-test-row .dashicons-warning {
+  color: #9a6200;
+}
+
+.sabi-admin__preview {
+  align-items: flex-start;
+  background: var(--sabi-surface);
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  min-height: 700px;
+  padding: 24px;
+}
+
+@media (max-width: 782px) {
+  .sabi-admin__hero {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .sabi-admin__status {
+    min-width: 0;
+    width: auto;
+  }
+
+  .sabi-color-grid,
+  .sabi-card-grid,
+  .sabi-knowledge-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .sabi-admin__panel {
+    padding: 20px 16px;
+  }
+
+  .sabi-leads-heading { align-items: flex-start; gap: 12px; }
+  .sabi-lead-search { align-items: stretch; flex-direction: column; }
+  .sabi-lead-search input[type="search"] { min-width: 0; width: 100%; }
+  .sabi-section-heading { align-items: flex-start; flex-direction: column; }
+  .sabi-knowledge-search > div { align-items: stretch; flex-direction: column; }
+}
+
